@@ -5048,13 +5048,13 @@
   "number": 1,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "vegtables",
+    "B": "vegitables",
+    "C": "vegetables",
+    "D": "vegatables"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Father buys _____ from the market every Saturday."
 },
 {
   "_id": {
@@ -5066,13 +5066,13 @@
   "number": 2,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "beutiful",
+    "B": "beautiful",
+    "C": "beauteful",
+    "D": "beautaful"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sarah is the most _____ of the three sisters."
 },
 {
   "_id": {
@@ -5084,13 +5084,13 @@
   "number": 3,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "achived",
+    "B": "achevied",
+    "C": "achieved",
+    "D": "acheeved"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The girl _____ a passage grade for the first time."
 },
 {
   "_id": {
@@ -5102,13 +5102,13 @@
   "number": 4,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "roars",
+    "B": "barks",
+    "C": "bellows",
+    "D": "screeches"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The big lion at the zoo always _____ loudly at six o'clock every morning."
 },
 {
   "_id": {
@@ -5120,13 +5120,13 @@
   "number": 5,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "their",
+    "B": "they",
+    "C": "them",
+    "D": "there"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Javin and his brother visited _____ grandparents in Canada last year."
 },
 {
   "_id": {
@@ -5138,13 +5138,13 @@
   "number": 6,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sad",
+    "B": "vexed",
+    "C": "anxious",
+    "D": "annoyed"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Ravi was _____ to get home early, so he took a short cut."
 },
 {
   "_id": {
@@ -5156,13 +5156,13 @@
   "number": 7,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "until",
+    "B": "while",
+    "C": "unless",
+    "D": "because"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "John will get to the airport late _____ he was delayed by the traffic."
 },
 {
   "_id": {
@@ -5174,13 +5174,13 @@
   "number": 8,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "or",
+    "B": "so",
+    "C": "yet",
+    "D": "but"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Robin is a building contractor _____ he knows how to build a house."
 },
 {
   "_id": {
@@ -5192,10 +5192,10 @@
   "number": 9,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "band, bake, baby, bark",
+    "B": "baby, band, bark, bake",
+    "C": "baby, bake, band, bark",
+    "D": "bake, bark, band, baby"
   },
   "question_diagram": "",
   "question_text": ""
@@ -5210,10 +5210,10 @@
   "number": 10,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "enemy, enjoy, enlarge, envelope",
+    "B": "enjoy, envelope, enlarge, enemy",
+    "C": "envelope, enlarge, enemy, enjoy",
+    "D": "enlarge, enemy, envelope, enjoy"
   },
   "question_diagram": "",
   "question_text": ""
@@ -5228,10 +5228,10 @@
   "number": 11,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "stich, scissors, snap, shop",
+    "B": "scissors, snap, shop, stitch",
+    "C": "scissors, shop, snap, stitch",
+    "D": "stitch, shop, scissors, snap"
   },
   "question_diagram": "",
   "question_text": ""
@@ -5246,13 +5246,13 @@
   "number": 12,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "soft",
+    "B": "mean",
+    "C": "careful",
+    "D": "pleasant"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The pupils of Grade 6 are always [unkind] to their class teacher."
 },
 {
   "_id": {
@@ -5264,13 +5264,13 @@
   "number": 13,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "cried",
+    "B": "roared",
+    "C": "shouted",
+    "D": "whispered"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My brother [yelled] the correct response to the teacher."
 },
 {
   "_id": {
@@ -5282,13 +5282,13 @@
   "number": 14,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "adored",
+    "B": "criticized",
+    "C": "honoured",
+    "D": "rewarded"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The popular singer was [praised] for the performance at the concert."
 },
 {
   "_id": {
@@ -5300,13 +5300,13 @@
   "number": 15,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "am",
+    "B": "been",
+    "C": "being",
+    "D": "will be"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The national park _____ closed to the public until September 2022."
 },
 {
   "_id": {
@@ -5318,13 +5318,13 @@
   "number": 16,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is",
+    "B": "are",
+    "C": "was",
+    "D": "have"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The boy and his sister _____ coming with me to the park this weekend."
 },
 {
   "_id": {
@@ -5336,13 +5336,13 @@
   "number": 17,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "attends",
+    "B": "is attend",
+    "C": "attending",
+    "D": "has attend"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "He _____ the University of Guyana."
 },
 {
   "_id": {
@@ -5354,10 +5354,10 @@
   "number": 18,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Mother bought, mangoes bananas and apples at the market.",
+    "B": "Mother bought mangoes, bananas and apples at the market.",
+    "C": "Mother bought, mangoes, bananas and apples at the market.",
+    "D": "Mother bought mangoes bananas, and apples, at the market."
   },
   "question_diagram": "",
   "question_text": ""
@@ -5372,10 +5372,10 @@
   "number": 19,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Run. run, the spectators shouted, as Dave reached the finish line.",
+    "B": "Run, run, the spectators shouted as Dave reached the finish line.",
+    "C": "\"Run! run!\" the spectators shouted as Dave reached the finish line.",
+    "D": "\"Run, run\" the spectators shouted! As Dave reached the finish line."
   },
   "question_diagram": "",
   "question_text": ""
@@ -5390,13 +5390,13 @@
   "number": 20,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "lady",
+    "B": "lady's",
+    "C": "ladies'",
+    "D": "ladies"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "A _____ bag was on the table."
 },
 {
   "_id": {
@@ -5408,13 +5408,13 @@
   "number": 21,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[monkey]",
+    "B": "[tree]",
+    "C": "[zoo]",
+    "D": "[shauna]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Paul saw a [monkey] in a [tree] at the [zoo] and told his friend [shauna] that it was very playful."
 },
 {
   "_id": {
@@ -5426,13 +5426,13 @@
   "number": 22,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "flock",
+    "B": "fleet",
+    "C": "crowd",
+    "D": "quiver"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sita saw a _____ of birds gliding across the sky."
 },
 {
   "_id": {
@@ -5444,13 +5444,13 @@
   "number": 23,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "inside",
+    "B": "border",
+    "C": "outside",
+    "D": "interior"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My dad spent most of his time painting the [exterior] walls of the house."
 },
 {
   "_id": {
@@ -5462,13 +5462,13 @@
   "number": 24,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "small",
+    "B": "large",
+    "C": "narrow",
+    "D": "limited"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The national library has a [wide] collection of Social Studies books."
 },
 {
   "_id": {
@@ -5480,13 +5480,13 @@
   "number": 25,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "older",
+    "B": "senior",
+    "C": "bigger",
+    "D": "younger"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The bus driver separated the [junior] students when they reached their destination."
 },
 {
   "_id": {
@@ -5498,13 +5498,13 @@
   "number": 26,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "plays",
+    "B": "football",
+    "C": "stadium",
+    "D": "morning"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "He plays football at the national stadium every morning."
 },
 {
   "_id": {
@@ -5516,13 +5516,13 @@
   "number": 27,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "forest",
+    "B": "children",
+    "C": "beautiful",
+    "D": "woodpecker"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The children saw a woodpecker in the forest."
 },
 {
   "_id": {
@@ -5570,13 +5570,13 @@
   "number": 30,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "1908",
+    "B": "1914",
+    "C": "1952",
+    "D": "1980"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "In what year was Mother's Day created in America?"
 },
 {
   "_id": {
@@ -5588,13 +5588,13 @@
   "number": 31,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Taking their mother out",
+    "B": "Cooking for their mothers",
+    "C": "Treating their mothers to lunch",
+    "D": "Spending the day with their mothers"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "According to the passage, in which of the following ways do people celebrate Mother's Day?"
 },
 {
   "_id": {
@@ -5606,13 +5606,13 @@
   "number": 32,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "aged.",
+    "B": "mature.",
+    "C": "childish.",
+    "D": "youthful."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Another word for 'elderly' as used in line 6 is"
 },
 {
   "_id": {
@@ -5624,13 +5624,13 @@
   "number": 33,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "show appreciation for mothers.",
+    "B": "allow persons to spend money.",
+    "C": "show appreciation for elderly parents.",
+    "D": "relax and have fun with friends and family."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The reason for celebrating Mother's Day is to"
 },
 {
   "_id": {
@@ -5642,13 +5642,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "mad.",
+    "B": "worried.",
+    "C": "anxious.",
+    "D": "unhappy."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The \"way young people treated their elderly patients\" made Anna Jarvis"
 },
 {
   "_id": {
@@ -5678,13 +5678,13 @@
   "number": 36,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "For five minutes",
+    "B": "For less than five mintutes",
+    "C": "Until Dad told them to leave",
+    "D": "Until they spoke to each other"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "How long were the boys expected to sit in the chairs?"
 },
 {
   "_id": {
@@ -5696,13 +5696,13 @@
   "number": 37,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "cried",
+    "B": "toyed",
+    "C": "played",
+    "D": "fidgeted"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words can be used to replace the word \"squirmed\" in line 8?"
 },
 {
   "_id": {
@@ -5714,13 +5714,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "They wanted to leave the room.",
+    "B": "They wanted to make Dad happy.",
+    "C": "They thought that they both looked silly.",
+    "D": "Dad would let them leave if they laughed."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Why did the boys start to laugh?"
 },
 {
   "_id": {
@@ -5732,13 +5732,13 @@
   "number": 39,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "they",
+    "B": "angry",
+    "C": "scowl",
+    "D": "looked"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words in line 10 functions as an adjective?"
 },
 {
   "_id": {
@@ -5750,13 +5750,13 @@
   "number": 40,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The Quarrel",
+    "B": "Philip and Martin",
+    "C": "Dad in the Kitchen",
+    "D": "Sitting in the Kitchen"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following titles is most suitable for the passage?"
 },
 {
   "_id": {
