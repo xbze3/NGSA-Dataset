@@ -2168,13 +2168,13 @@
   "number": 1,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "discorages",
+    "B": "discourages",
+    "C": "descourages",
+    "D": "disscourages"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Increased taxation _____ uncontrolled spending."
 },
 {
   "_id": {
@@ -2186,13 +2186,13 @@
   "number": 2,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "beginin.",
+    "B": "beginen.",
+    "C": "begining.",
+    "D": "beginning."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The word that means \"the earliest stage of something\" is"
 },
 {
   "_id": {
@@ -2204,13 +2204,13 @@
   "number": 3,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "hoping",
+    "B": "hopeing",
+    "C": "hopping",
+    "D": "hoppeing"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Given the circumstances, she is _____ for the best."
 },
 {
   "_id": {
@@ -2222,13 +2222,13 @@
   "number": 4,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "leege.",
+    "B": "leage.",
+    "C": "leegue.",
+    "D": "league."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Brians' team is a member of the football _____"
 },
 {
   "_id": {
@@ -2240,13 +2240,13 @@
   "number": 5,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "omited",
+    "B": "omitted",
+    "C": "ommited",
+    "D": "ommitted"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The student _____ the difficult questions."
 },
 {
   "_id": {
@@ -2258,13 +2258,13 @@
   "number": 6,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "hear",
+    "B": "hair",
+    "C": "heir",
+    "D": "here"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I like to _____ stories about the silly things she did with her brothers."
 },
 {
   "_id": {
@@ -2276,13 +2276,13 @@
   "number": 7,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "wary",
+    "B": "polite",
+    "C": "careful",
+    "D": "helpful"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The nurse was very [cautious] when attending to the elderly patients."
 },
 {
   "_id": {
@@ -2294,13 +2294,13 @@
   "number": 8,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "end",
+    "B": "side",
+    "C": "centre",
+    "D": "above"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The firghtened child stoof still in the [middle] of the street as the car approached."
 },
 {
   "_id": {
@@ -2312,13 +2312,13 @@
   "number": 9,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "never",
+    "B": "rarely",
+    "C": "always",
+    "D": "normally"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Pepperpot is a dish that is [usually] served at Christmas but can also be served all year round."
 },
 {
   "_id": {
@@ -2330,13 +2330,13 @@
   "number": 10,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "old",
+    "B": "funny",
+    "C": "young",
+    "D": "happy"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My grandmother is very _____ so she walks slowly up the stairs."
 },
 {
   "_id": {
@@ -2348,13 +2348,13 @@
   "number": 11,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "hide",
+    "B": "wide",
+    "C": "long",
+    "D": "short"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Cheap is to expensive as _____ is to narrow."
 },
 {
   "_id": {
@@ -2366,13 +2366,13 @@
   "number": 12,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is",
+    "B": "are",
+    "C": "has",
+    "D": "have"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Dairy _____ the name of the village where my school can be found."
 },
 {
   "_id": {
@@ -2384,13 +2384,13 @@
   "number": 13,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "break",
+    "B": "broke",
+    "C": "breaks",
+    "D": "breaking"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The fire _____ out in the place where goods were stored."
 },
 {
   "_id": {
@@ -2402,13 +2402,13 @@
   "number": 14,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "run",
+    "B": "ran",
+    "C": "runs",
+    "D": "running"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Calvin usually _____ every year for our school's sports."
 },
 {
   "_id": {
@@ -2420,13 +2420,13 @@
   "number": 15,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "so",
+    "B": "but",
+    "C": "yet",
+    "D": "and"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "It was raining heavily _____ the game had to be cancelled."
 },
 {
   "_id": {
@@ -2438,13 +2438,13 @@
   "number": 16,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "or",
+    "B": "and",
+    "C": "nor",
+    "D": "also"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Neither Fatima _____ Lucy is invited to my birthday party."
 },
 {
   "_id": {
@@ -2456,13 +2456,13 @@
   "number": 17,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "in",
+    "B": "up",
+    "C": "with",
+    "D": "after"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "From the grassy path, the huge monkey climbed _____ the tree to get to the ripe mangoes."
 },
 {
   "_id": {
@@ -2474,13 +2474,13 @@
   "number": 18,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "no one",
+    "B": "nobody",
+    "C": "anyone",
+    "D": "someone"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Neil did not allow _____ to borrow his pen today."
 },
 {
   "_id": {
@@ -2492,13 +2492,13 @@
   "number": 19,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "by",
+    "B": "over",
+    "C": "among",
+    "D": "alongside"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Samantha was walking _____ me when we were asked to go outside."
 },
 {
   "_id": {
@@ -2510,13 +2510,13 @@
   "number": 20,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "I",
+    "B": "he",
+    "C": "we",
+    "D": "him"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Please give _____ the message when he comes."
 },
 {
   "_id": {
@@ -2528,13 +2528,13 @@
   "number": 21,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "my",
+    "B": "her",
+    "C": "mine",
+    "D": "them"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Those books are _____ and I want them now."
 },
 {
   "_id": {
@@ -2546,13 +2546,13 @@
   "number": 22,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "I",
+    "B": "us",
+    "C": "we",
+    "D": "you"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Between the two of _____, I don't agreee with what the boss is doing."
 },
 {
   "_id": {
@@ -2564,13 +2564,13 @@
   "number": 23,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "?",
+    "B": ".",
+    "C": "!",
+    "D": "."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Are you coming to my sleepover this weekend_"
 },
 {
   "_id": {
@@ -2582,13 +2582,13 @@
   "number": 24,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "'",
+    "B": ".",
+    "C": "!",
+    "D": "?"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"Help_\" shouted the little girl as the stranger entered the yard."
 },
 {
   "_id": {
@@ -2600,10 +2600,10 @@
   "number": 25,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "He heard his mother's voice and stopped crying.",
+    "B": "He heard his mothers' voice and stopped crying.",
+    "C": "He heard his mother voice's and stopped crying.",
+    "D": "He heard his mothers voices' and stopped crying."
   },
   "question_diagram": "",
   "question_text": ""
@@ -2618,10 +2618,10 @@
   "number": 26,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "My teacher wrote a Letter to my Father.",
+    "B": "Linden is a town that is found in Guyana.",
+    "C": "Paula and amy are my very close Friends.",
+    "D": "My sister visited a chinese Restaurant yesterday."
   },
   "question_diagram": "",
   "question_text": ""
@@ -2636,13 +2636,13 @@
   "number": 27,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "fight",
+    "B": "eat",
+    "C": "get exhausted",
+    "D": "reveal the secret"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Aaron was warned by his brother not to [spill the beans], since that would get hum into trouble."
 },
 {
   "_id": {
@@ -2654,13 +2654,13 @@
   "number": 28,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Cut corners",
+    "B": "An arm and a leg",
+    "C": "The ball is in your court",
+    "D": "A penny for your thoughts"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "A way of asking what someone is thinking"
 },
 {
   "_id": {
@@ -2672,13 +2672,13 @@
   "number": 29,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "16",
+    "B": "17",
+    "C": "18",
+    "D": "19"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which volume will have information on the topic Solar System?"
 },
 {
   "_id": {
@@ -2690,13 +2690,13 @@
   "number": 30,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Zoo",
+    "B": "Youth",
+    "C": "Telescope",
+    "D": "West Indies"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following topics is likely to be covered in volume 21?"
 },
 {
   "_id": {
@@ -2708,13 +2708,13 @@
   "number": 31,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sick.",
+    "B": "afraid.",
+    "C": "falling asleep.",
+    "D": "seeing a ghost."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"Jessie's face turned shockingly pale\" (line 4) suggests that she was"
 },
 {
   "_id": {
@@ -2726,13 +2726,13 @@
   "number": 32,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "shark.",
+    "B": "snake.",
+    "C": "whale.",
+    "D": "dolphin."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The creature in the story was most likely a"
 },
 {
   "_id": {
@@ -2744,13 +2744,13 @@
   "number": 33,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sail.",
+    "B": "arm.",
+    "C": "motor.",
+    "D": "weapon."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"Jessie armed herself with the oar\" (line 8) suggests that the oar is no a/an"
 },
 {
   "_id": {
@@ -2762,13 +2762,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "were trying to start the motor.",
+    "B": "saw the creature circling the boat.",
+    "C": "thought that they were going to die.",
+    "D": "thought that they were out of danger."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The siblings slumped onto their seats when they"
 },
 {
   "_id": {
@@ -2780,13 +2780,13 @@
   "number": 35,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "A Tragic Outing",
+    "B": "Attacked at Sea",
+    "C": "A Fearful Experience",
+    "D": "Sibling Rivalry at Sea"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following is a suitable title for the passage?"
 },
 {
   "_id": {
@@ -2798,13 +2798,13 @@
   "number": 36,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The electric fish",
+    "B": "Using electricity",
+    "C": "The Amazon River",
+    "D": "Living in South America"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What is the text mainly about?"
 },
 {
   "_id": {
@@ -2816,13 +2816,13 @@
   "number": 37,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "biting them.",
+    "B": "charging them.",
+    "C": "hiding in the Amazon.",
+    "D": "discharging electricity."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The electric fish captures its prey and defends itself by"
 },
 {
   "_id": {
@@ -2834,13 +2834,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Who the fish shocks",
+    "B": "Where the electricity comes from",
+    "C": "How the fish discharges electricity",
+    "D": "The number of unknown species of fish"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What puzzles scientists most about the electric fish?"
 },
 {
   "_id": {
@@ -2852,13 +2852,13 @@
   "number": 39,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "water.",
+    "B": "show.",
+    "C": "disguise.",
+    "D": "expression."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Another word for \"camouflage\" as used in line 9 is"
 },
 {
   "_id": {
@@ -2870,13 +2870,13 @@
   "number": 40,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It sleeps.",
+    "B": "It eats and rests.",
+    "C": "It hunts for food.",
+    "D": "It goes out to play."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "How does the electric fish recharge itself after it uses electricity?"
 },
 {
   "_id": {
@@ -2888,13 +2888,13 @@
   "number": 1,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "transportion.",
+    "B": "transportation.",
+    "C": "transportasion.",
+    "D": "transportashon."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Land, air and water are means of"
 },
 {
   "_id": {
@@ -2906,13 +2906,13 @@
   "number": 2,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "funiest",
+    "B": "funiess",
+    "C": "funniest",
+    "D": "funnyest"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "James is the _____ boy at the camp."
 },
 {
   "_id": {
@@ -2924,13 +2924,13 @@
   "number": 3,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "hair",
+    "B": "heir",
+    "C": "hear",
+    "D": "here"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I like to _____ stories of the silly games she played as a child."
 },
 {
   "_id": {
@@ -2942,13 +2942,13 @@
   "number": 4,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "rise",
+    "B": "rays",
+    "C": "raze",
+    "D": "raise"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The angle at which the sun's _____ hit the earth helps to determine the temperature at different places."
 },
 {
   "_id": {
@@ -2960,13 +2960,13 @@
   "number": 5,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[Please]",
+    "B": "[tell]",
+    "C": "[she'll]",
+    "D": "[calm]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "[Please] [tell] your friend [she'll] become sick if she doesn't stay [calm]."
 },
 {
   "_id": {
@@ -2978,13 +2978,13 @@
   "number": 6,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "rude.",
+    "B": "calm.",
+    "C": "polite.",
+    "D": "obedient."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Unnecessary is to necessary as disobedient is to"
 },
 {
   "_id": {
@@ -2996,13 +2996,13 @@
   "number": 7,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "infected.",
+    "B": "infectious.",
+    "C": "infections.",
+    "D": "infectiously."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Mosquito bites can cause serious skin"
 },
 {
   "_id": {
@@ -3014,13 +3014,13 @@
   "number": 8,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "lazily",
+    "B": "briskly",
+    "C": "slowly",
+    "D": "wearily"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "After hearing loud noises and screams coming from the classroom, the teacher walked _____ to see what was happening."
 },
 {
   "_id": {
@@ -3032,13 +3032,13 @@
   "number": 9,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "fiery",
+    "B": "warm",
+    "C": "ardent",
+    "D": "overwhelming"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Many people regard Saudi as the _____ favourite to win the Spelling Bee competition."
 },
 {
   "_id": {
@@ -3050,13 +3050,13 @@
   "number": 10,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "an investment",
+    "B": "an enrichment",
+    "C": "a contribution",
+    "D": "a participation"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The president made _____ to out fund-raising efforts."
 },
 {
   "_id": {
@@ -3068,13 +3068,13 @@
   "number": 11,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[committee]",
+    "B": "[perchase]",
+    "C": "[science]",
+    "D": "No error"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [committee] members decided to raise funds to [perchase] computers for the [science] laboratory."
 },
 {
   "_id": {
@@ -3086,13 +3086,13 @@
   "number": 12,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[thousands]",
+    "B": "[suffer]",
+    "C": "[accidents]",
+    "D": "No error"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "According to research, [thousands] of people [suffer] serious head injuries from bicycle [accidents] each year."
 },
 {
   "_id": {
@@ -3104,13 +3104,13 @@
   "number": 13,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[prepaired]",
+    "B": "[valuables]",
+    "C": "[necessary]",
+    "D": "No error"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "We were only [prepaired] to leave our [valuables] behind if it was [necessary]."
 },
 {
   "_id": {
@@ -3122,13 +3122,13 @@
   "number": 14,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "we.",
+    "B": "us.",
+    "C": "their.",
+    "D": "they."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "He is the most intelligent among"
 },
 {
   "_id": {
@@ -3140,13 +3140,13 @@
   "number": 15,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "my.",
+    "B": "she.",
+    "C": "they.",
+    "D": "them."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Those books belong to"
 },
 {
   "_id": {
@@ -3158,13 +3158,13 @@
   "number": 16,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "no",
+    "B": "any",
+    "C": "none",
+    "D": "some"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I do not want _____ food for dinner since I ate a lot today at school."
 },
 {
   "_id": {
@@ -3176,13 +3176,13 @@
   "number": 17,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "less",
+    "B": "most",
+    "C": "least",
+    "D": "lesser"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Peter weighs _____ than Dawn."
 },
 {
   "_id": {
@@ -3194,13 +3194,13 @@
   "number": 18,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "so",
+    "B": "but",
+    "C": "until",
+    "D": "unless"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Jenny like to play cricket _____ her friend, Carla, prefers to play basketball."
 },
 {
   "_id": {
@@ -3212,10 +3212,10 @@
   "number": 19,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It is a pleasant day",
+    "B": "Close the door now",
+    "C": "How do you get to school",
+    "D": "Mary is wearing a red dress"
   },
   "question_diagram": "",
   "question_text": ""
@@ -3230,10 +3230,10 @@
   "number": 20,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "I took Pat, the girl with the scar, to the movies last night.",
+    "B": "I took Pat, the girl with the scar to the movies last night.",
+    "C": "I took Pat, the girl with the scar, to the movies, last night.",
+    "D": "I took Pat the girl with the scar to the movies last night."
   },
   "question_diagram": "",
   "question_text": ""
@@ -3248,10 +3248,10 @@
   "number": 21,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "\"Let us eat now, Granny!\" shouted Jane with excitement.",
+    "B": "\"Let us eat now Granny! shouted Jane with excitement. ",
+    "C": "\"Let us eat now, Granny! shouted Jane with excitement.\"",
+    "D": "\"Let us eat now Granny,\" shouted Jane with excitement."
   },
   "question_diagram": "",
   "question_text": ""
@@ -3266,13 +3266,13 @@
   "number": 22,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[visit]",
+    "B": "[grandfather]",
+    "C": "[Good]",
+    "D": "[friday]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Juan went to [visit] his [grandfather] last [Good] [friday]."
 },
 {
   "_id": {
@@ -3284,13 +3284,13 @@
   "number": 23,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[teacher]",
+    "B": "[gray]",
+    "C": "[letter]",
+    "D": "[missing]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My [teacher], Mrs. [gray], wrote a [letter] outlining the reason for the [missing] book."
 },
 {
   "_id": {
@@ -3302,13 +3302,13 @@
   "number": 24,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[coach]",
+    "B": "[cricket]",
+    "C": "[warriors]",
+    "D": "[players]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Rajiv, the [coach] of the [cricket] team, [warriors], requested gear for his [players]."
 },
 {
   "_id": {
@@ -3320,13 +3320,13 @@
   "number": 25,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "il",
+    "B": "un",
+    "C": "in",
+    "D": "im"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Roy was getting _____patient because the doctor was taking too long to see him below."
 },
 {
   "_id": {
@@ -3338,13 +3338,13 @@
   "number": 26,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "trying so hard",
+    "B": "not trying at all",
+    "C": "doing very little",
+    "D": "making some effort"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "After trudging tirelessly to the market, store and ice-cream parlour, Jenny was tired of [bending over backwards] to please her sister."
 },
 {
   "_id": {
@@ -3356,13 +3356,13 @@
   "number": 27,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Ground rule",
+    "B": "Ground zero",
+    "C": "Ground-water",
+    "D": "Ground swell"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words has only one meaning listed in the dictionary?"
 },
 {
   "_id": {
@@ -3374,13 +3374,13 @@
   "number": 28,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "verb",
+    "B": "noun",
+    "C": "pronoun",
+    "D": "adjective"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The expression \"ground swell\" usually functions as a"
 },
 {
   "_id": {
@@ -3392,13 +3392,13 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ascertain assent ascend assistnace asphalt",
+    "B": "ascend ascertain assent assistance asphalt",
+    "C": "ascertain ascend assent asphalt assistance",
+    "D": "ascend ascertain asphalt assent assistance"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which group of words is arranged in alphabetical order?"
 },
 {
   "_id": {
@@ -3410,13 +3410,13 @@
   "number": 30,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Suzan Smith",
+    "B": "Susan Smith",
+    "C": "Suean Smith",
+    "D": "Susanne Smith"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following names would noramlly be written first in a class register?"
 },
 {
   "_id": {
@@ -3428,13 +3428,13 @@
   "number": 31,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Kaie",
+    "B": "The Caribisi",
+    "C": "The Patamona Tribe",
+    "D": "Charles Barrington Brown"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Who discovered the Kaieteur Falls?"
 },
 {
   "_id": {
@@ -3446,13 +3446,13 @@
   "number": 32,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Potaro River.",
+    "B": "Kaieteur River.",
+    "C": "Essiquibo River.",
+    "D": "Makonaima River."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Kaieteur Falls is situated on the"
 },
 {
   "_id": {
@@ -3464,13 +3464,13 @@
   "number": 33,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "falls.",
+    "B": "gutter.",
+    "C": "valley.",
+    "D": "branch."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Another word for \"tributary\" as used in line 2 is"
 },
 {
   "_id": {
@@ -3482,13 +3482,13 @@
   "number": 34,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "jumped.",
+    "B": "changed.",
+    "C": "preserved.",
+    "D": "transmitted."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The word \"transformed\" as used in line 7 means the same as"
 },
 {
   "_id": {
@@ -3500,13 +3500,13 @@
   "number": 35,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It is as high as Niagara Falls.",
+    "B": "It is transformed into rainbows.",
+    "C": "It got its name from a great spirit.",
+    "D": "It is a natural wonder of the world."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which statement about Kaieteur Falls is true?"
 },
 {
   "_id": {
@@ -3518,13 +3518,13 @@
   "number": 36,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "green in color.",
+    "B": "tall with large trunks.",
+    "C": "growing close together.",
+    "D": "scattered over a large area."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The word \"dense\" in line 2 tells us that the plants in the forest were"
 },
 {
   "_id": {
@@ -3536,13 +3536,13 @@
   "number": 37,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "I and II",
+    "B": "I and III",
+    "C": "II and III",
+    "D": "I, II, and III"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following items did the farmer have with him?"
 },
 {
   "_id": {
@@ -3554,13 +3554,13 @@
   "number": 38,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Happily",
+    "B": "Willingly",
+    "C": "Peacefully",
+    "D": "Reluctantly"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What does the use of the word \"grudgingly\" in line 5 tell us about how the farmer gave over what he had?"
 },
 {
   "_id": {
@@ -3572,13 +3572,13 @@
   "number": 39,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Clever",
+    "B": "Afraid",
+    "C": "Insecure",
+    "D": "Frightened"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the follwing words may be used to describe the farmer's behaviour in paragraph 3 to 5?"
 },
 {
   "_id": {
@@ -3590,13 +3590,13 @@
   "number": 40,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "He saw a group of robbers.",
+    "B": "The bull began to chase him.",
+    "C": "The farmer use the stick to beat him.",
+    "D": "The farmer's wife started to chase him."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "In paragraph 5, we learn that the robber runs away. What was the reason for this?"
 },
 {
   "_id": {
