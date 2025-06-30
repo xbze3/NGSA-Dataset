@@ -3608,13 +3608,13 @@
   "number": 1,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "paraid.",
+    "B": "peraid.",
+    "C": "perade.",
+    "D": "parade."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "We went to the National Park to watch the military"
 },
 {
   "_id": {
@@ -3626,13 +3626,13 @@
   "number": 2,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "yunger",
+    "B": "yonger",
+    "C": "youngur",
+    "D": "younger"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The _____ of the twins was sitting among the older pupils."
 },
 {
   "_id": {
@@ -3644,13 +3644,13 @@
   "number": 3,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[doctor's]",
+    "B": "[patients]",
+    "C": "[relatives]",
+    "D": "[quite]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [doctor's] [patients] ran thin, as the visiting [relatives] were [quite] rowdy."
 },
 {
   "_id": {
@@ -3662,13 +3662,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[light]",
+    "B": "[fight]",
+    "C": "[night]",
+    "D": "[eight]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "In [light] of the impending [fight], the boxer trained every [night], yet, round [eight] was quite a fright."
 },
 {
   "_id": {
@@ -3680,13 +3680,13 @@
   "number": 5,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "entered",
+    "B": "enquired",
+    "C": "attacked",
+    "D": "attached"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "They [walked into] the classroom without permission."
 },
 {
   "_id": {
@@ -3698,13 +3698,13 @@
   "number": 6,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "win",
+    "B": "trill",
+    "C": "defeat",
+    "D": "surprise"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The Gyuana Amazon Warriors experienced a [victory] in their match against the Saint Lucia Stars."
 },
 {
   "_id": {
@@ -3716,13 +3716,13 @@
   "number": 7,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "calmly",
+    "B": "angrily",
+    "C": "heatedly",
+    "D": "completely"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Hannah looked [totally] distributed by the news report."
 },
 {
   "_id": {
@@ -3734,13 +3734,13 @@
   "number": 8,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "caution",
+    "B": "cautious",
+    "C": "precaution",
+    "D": "precautionary"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I always take pencils to an examination as a _____, in case I need them."
 },
 {
   "_id": {
@@ -3752,13 +3752,13 @@
   "number": 9,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "early",
+    "B": "hostile",
+    "C": "friendly",
+    "D": "reserved"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Mr. Smith, my next door neighbour, is the most _____ man I know. Every year, he invites everyone to his birthday party."
 },
 {
   "_id": {
@@ -3770,13 +3770,13 @@
   "number": 10,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "clever",
+    "B": "terrible",
+    "C": "unusual",
+    "D": "outstanding"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The student was featured in the Kaieteur News for his _____ performance in the National Grade Two Assessment."
 },
 {
   "_id": {
@@ -3788,13 +3788,13 @@
   "number": 11,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "merrily",
+    "B": "carefully",
+    "C": "recklessly",
+    "D": "cautiously"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Peter drove his car _____ into the bridge and damaged it."
 },
 {
   "_id": {
@@ -3806,13 +3806,13 @@
   "number": 12,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "make",
+    "B": "made",
+    "C": "makes",
+    "D": "making"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The shoemaker _____ the perfect pair of shoes for my first graduation."
 },
 {
   "_id": {
@@ -3824,13 +3824,13 @@
   "number": 13,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is find",
+    "B": "is finding",
+    "C": "was found",
+    "D": "were found"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The wallet _____ by the girl in the cream dress."
 },
 {
   "_id": {
@@ -3842,13 +3842,13 @@
   "number": 14,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "wear",
+    "B": "wore",
+    "C": "worn",
+    "D": "wears"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The teacher _____ a bright pink dress to school yesterday."
 },
 {
   "_id": {
@@ -3860,13 +3860,13 @@
   "number": 15,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "watch",
+    "B": "watches",
+    "C": "watched",
+    "D": "watching"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Every morning, my brother _____ his favourite television programme."
 },
 {
   "_id": {
@@ -3878,13 +3878,13 @@
   "number": 16,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "they.",
+    "B": "them.",
+    "C": "yours.",
+    "D": "theirs."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The ball belongs to the children. The ball is"
 },
 {
   "_id": {
@@ -3896,13 +3896,13 @@
   "number": 17,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "he",
+    "B": "his",
+    "C": "we",
+    "D": "him"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Mark and _____ sister are studying."
 },
 {
   "_id": {
@@ -3914,13 +3914,13 @@
   "number": 18,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "or",
+    "B": "but",
+    "C": "and",
+    "D": "since"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Zack should water the plants _____ he has nothing to do."
 },
 {
   "_id": {
@@ -3932,13 +3932,13 @@
   "number": 19,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "or",
+    "B": "nor",
+    "C": "and",
+    "D": "because"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Neither Mr. Joseph _____ his children are going to attend the party."
 },
 {
   "_id": {
@@ -3950,13 +3950,13 @@
   "number": 20,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "and, so",
+    "B": "and, but",
+    "C": "and, with",
+    "D": "with, so"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The man _____ his wife were expected in Barbados for the conference _____ they missed their fight."
 },
 {
   "_id": {
@@ -3968,13 +3968,13 @@
   "number": 21,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[Rufus]",
+    "B": "[chased]",
+    "C": "[up]",
+    "D": "[tree]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "[Rufus], my dog, [chased] the cat [up] the [tree]."
 },
 {
   "_id": {
@@ -3986,13 +3986,13 @@
   "number": 22,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Noun",
+    "B": "Adverb",
+    "C": "Adjective",
+    "D": "Conjunction"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Spectators screamed in excitement as the [muscular] batsman struck the ball and it flew to the boundary."
 },
 {
   "_id": {
@@ -4004,10 +4004,10 @@
   "number": 23,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "She did not return the book to the library on time.",
+    "B": "Rajendra did not give none of the mangoes to me.",
+    "C": "Nobody did not witness the accident that happened yesterday.",
+    "D": "None of them did not go to the city today because it is a holiday."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4022,10 +4022,10 @@
   "number": 24,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "If you join the reading club, you can win stickers pencils and books.",
+    "B": "If you join the reading club you can win stickers, pencils and books.",
+    "C": "If you join the reading club, you can win stickers, pencils and books.",
+    "D": "If you join the reading club, you can win, stickers, pencils and books."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4040,10 +4040,10 @@
   "number": 25,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "\"We should watch the parade from Regent Street\", Ralph suggested.",
+    "B": "\"We watch the parade from Regent Street,\" Ralph suggested.",
+    "C": "\"We should watch the parade, from Regent Street\" Ralph suggested.",
+    "D": "\"We should, watch the parade from Regent Street\" Ralph suggested."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4058,13 +4058,13 @@
   "number": 26,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "dampen darkness dashing dainty",
+    "B": "dainty dampen darkness dashing",
+    "C": "darkness dainty dashing dampen",
+    "D": "dainty dashing dampen darkness"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Select the group of words that is arranged in alphabetical order."
 },
 {
   "_id": {
@@ -4076,13 +4076,13 @@
   "number": 27,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "John Singh",
+    "B": "Susan Gomes",
+    "C": "Kevin Maniram",
+    "D": "Kenneth Moore"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Select the child who would be fifth in line."
 },
 {
   "_id": {
@@ -4094,13 +4094,13 @@
   "number": 28,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "John Singh.",
+    "B": "Mary Bovell.",
+    "C": "Susan Gomes.",
+    "D": "Kenneth Moore."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Shania James has just joined the line. Shania should stand behind"
 },
 {
   "_id": {
@@ -4112,13 +4112,13 @@
   "number": 29,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "petal",
+    "B": "phonics",
+    "C": "penguin",
+    "D": "pharmacy"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following entry words would be found on this dictionary page?"
 },
 {
   "_id": {
@@ -4130,13 +4130,13 @@
   "number": 30,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "picnic",
+    "B": "pencil",
+    "C": "please",
+    "D": "pheasant"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Choose the entry word that would most likely be found on the next dictionary page."
 },
 {
   "_id": {
@@ -4148,13 +4148,13 @@
   "number": 31,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "at the shop.",
+    "B": "in the kitchen.",
+    "C": "sitting on the corner.",
+    "D": "at the head of the street."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "When Omari discovered that the money was missing, he was"
 },
 {
   "_id": {
@@ -4166,13 +4166,13 @@
   "number": 32,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "drew his footsteps on the road.",
+    "B": "waled the route that he took before.",
+    "C": "walked a different route from the first one.",
+    "D": "looked for his footsteps and walked in them."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The phrase \"retraced his steps\" in line 4 meand that Omari"
 },
 {
   "_id": {
@@ -4184,13 +4184,13 @@
   "number": 33,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "thought the money was not there.",
+    "B": "could see clearly through the street.",
+    "C": "was afraid his mother would see him.",
+    "D": "was scared of the children who lived there."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Omari was reluctant to go and search for the money in the street where he lived because he"
 },
 {
   "_id": {
@@ -4202,13 +4202,13 @@
   "number": 34,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "fib, lie",
+    "B": "money, check",
+    "C": "retraced, dared",
+    "D": "searched, scratched"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which two words in the passage have the same meaning?"
 },
 {
   "_id": {
@@ -4220,13 +4220,13 @@
   "number": 35,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "She looked angry.",
+    "B": "It was nowhere to be found.",
+    "C": "He retraced his steps to the head of his street.",
+    "D": "He could hear himself breathing heavily as she approached him."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "In which of the following sentences does the reader learn that Omari was scared?"
 },
 {
   "_id": {
@@ -4238,13 +4238,13 @@
   "number": 36,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Risky",
+    "B": "Unsafe",
+    "C": "Harmful",
+    "D": "Insecure"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words could best replace the word \"dangerous\" as used in line 1 of the passage?"
 },
 {
   "_id": {
@@ -4256,13 +4256,13 @@
   "number": 37,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Skin",
+    "B": "Tongue",
+    "C": "The pair of eyes",
+    "D": "The pair of fangs"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following is the poisonous part of snakes?"
 },
 {
   "_id": {
@@ -4274,13 +4274,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "veil.",
+    "B": "cloak.",
+    "C": "disguise.",
+    "D": "distraction."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The bright green skin of some snakes blends in with the color of its environment. This serves as a"
 },
 {
   "_id": {
@@ -4292,13 +4292,13 @@
   "number": 39,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "a simile.",
+    "B": "a metaphor.",
+    "C": "an adjective.",
+    "D": "an interjection."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The expression \"the squeeze is something as deadly as the bite\" (line 5-6) is an example of"
 },
 {
   "_id": {
@@ -4310,13 +4310,13 @@
   "number": 40,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Life of an anaconda",
+    "B": "Snakes coming awake",
+    "C": "Snakes and their methods of hunting",
+    "D": "Snakes and the caimans at work in the wet."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following best captures the main topic of the passage?"
 },
 {
   "_id": {
@@ -4328,13 +4328,13 @@
   "number": 1,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "craal.",
+    "B": "crawl.",
+    "C": "crawle.",
+    "D": "craawle."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Before a child walks, he must"
 },
 {
   "_id": {
@@ -4346,13 +4346,13 @@
   "number": 2,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "comparison",
+    "B": "comparesen",
+    "C": "comparason",
+    "D": "compareison"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The teacher made a good _____ between the turkey and the peacock."
 },
 {
   "_id": {
@@ -4364,13 +4364,13 @@
   "number": 3,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "skiping",
+    "B": "skipeing",
+    "C": "skipping",
+    "D": "skepping"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The girls were _____ in the school yard during recess."
 },
 {
   "_id": {
@@ -4382,13 +4382,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "nemirecal",
+    "B": "numirecal",
+    "C": "numerical",
+    "D": "newmerical"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "They were told to place the objects in _____ order."
 },
 {
   "_id": {
@@ -4400,13 +4400,13 @@
   "number": 5,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "onor",
+    "B": "onour",
+    "C": "honer",
+    "D": "honour"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "It is an _____ to receive an award from the president."
 },
 {
   "_id": {
@@ -4418,13 +4418,13 @@
   "number": 6,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "danger.",
+    "B": "dangur.",
+    "C": "dainger.",
+    "D": "danjour."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Traffic signs keep people out of"
 },
 {
   "_id": {
@@ -4436,13 +4436,13 @@
   "number": 7,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "well",
+    "B": "best",
+    "C": "good",
+    "D": "much"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Peter has done _____ in his examination this year."
 },
 {
   "_id": {
@@ -4454,13 +4454,13 @@
   "number": 8,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "lazily",
+    "B": "calmly",
+    "C": "bravely",
+    "D": "patiently"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Daniel swam _____ across the raging river to save the dog from downing."
 },
 {
   "_id": {
@@ -4472,13 +4472,13 @@
   "number": 9,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "neatly",
+    "B": "poorly",
+    "C": "roughly",
+    "D": "unevenly"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Mary was praised by her teacher for her _____ drawn diagram of the digestive system."
 },
 {
   "_id": {
@@ -4490,13 +4490,13 @@
   "number": 10,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "will goes",
+    "B": "am going",
+    "C": "have gone",
+    "D": "should goes"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I _____ to the playground to watch the cricket match."
 },
 {
   "_id": {
@@ -4508,13 +4508,13 @@
   "number": 11,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "go",
+    "B": "went",
+    "C": "gone",
+    "D": "are going"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Last year, the family _____ to the United Kingdom for vacation."
 },
 {
   "_id": {
@@ -4526,13 +4526,13 @@
   "number": 12,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is started",
+    "B": "has started",
+    "C": "was started",
+    "D": "were started"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The campfire _____ by an adult."
 },
 {
   "_id": {
@@ -4544,13 +4544,13 @@
   "number": 13,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "open",
+    "B": "opens",
+    "C": "opening",
+    "D": "have opened"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Either Harry or Ron _____ the classroom every day."
 },
 {
   "_id": {
@@ -4562,13 +4562,13 @@
   "number": 14,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "old",
+    "B": "oldest",
+    "C": "older",
+    "D": "more old"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Joe is _____ than Michael."
 },
 {
   "_id": {
@@ -4580,13 +4580,13 @@
   "number": 15,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "big.",
+    "B": "bigger.",
+    "C": "biggest.",
+    "D": "more bigger."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Of those two pumpkins, that one is"
 },
 {
   "_id": {
@@ -4598,13 +4598,13 @@
   "number": 16,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "faster",
+    "B": "fastest",
+    "C": "most fast",
+    "D": "more fast"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The plane is the _____ way to travel."
 },
 {
   "_id": {
@@ -4616,13 +4616,13 @@
   "number": 17,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "left",
+    "B": "reached",
+    "C": "arrived at",
+    "D": "embarked on"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The airplane [departed] the Cheddi Jagan International Airport this morning."
 },
 {
   "_id": {
@@ -4634,13 +4634,13 @@
   "number": 18,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "pure",
+    "B": "neat",
+    "C": "fresh",
+    "D": "polluted"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The air around us is [dirty] in many different ways."
 },
 {
   "_id": {
@@ -4652,13 +4652,13 @@
   "number": 19,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "furious",
+    "B": "cheerful",
+    "C": "relieved",
+    "D": "confused"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [angry] man took a long time to get home."
 },
 {
   "_id": {
@@ -4670,13 +4670,13 @@
   "number": 20,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "he",
+    "B": "we",
+    "C": "him",
+    "D": "she"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Dina asked _____ to tell a funny story."
 },
 {
   "_id": {
@@ -4688,13 +4688,13 @@
   "number": 21,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It",
+    "B": "They",
+    "C": "Them",
+    "D": "There"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The planet Mars has two moons. _____ are both very small."
 },
 {
   "_id": {
@@ -4706,13 +4706,13 @@
   "number": 22,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "they.",
+    "B": "them.",
+    "C": "yours.",
+    "D": "theirs."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The ball belongs to the children. The ball is"
 },
 {
   "_id": {
@@ -4724,13 +4724,13 @@
   "number": 23,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "We ",
+    "B": "Our",
+    "C": "The",
+    "D": "They"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Those guests are ready to order food. _____ look hungry."
 },
 {
   "_id": {
@@ -4742,10 +4742,10 @@
   "number": 24,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "In",
+    "B": "by",
+    "C": "into",
+    "D": "from"
   },
   "question_diagram": "",
   "question_text": ""
@@ -4760,10 +4760,10 @@
   "number": 25,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "up",
+    "B": "over",
+    "C": "from",
+    "D": "beyond"
   },
   "question_diagram": "",
   "question_text": ""
@@ -4778,10 +4778,10 @@
   "number": 26,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "in",
+    "B": "from",
+    "C": "near",
+    "D": "between"
   },
   "question_diagram": "",
   "question_text": ""
@@ -4796,10 +4796,10 @@
   "number": 27,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "We will be there every Monday Tuesday and Wednesday.",
+    "B": "We will be there every Monday, Tuesday and Wednesday.",
+    "C": "We will be there every Monday Tuesday, and Wednesday.",
+    "D": "We will be there, every Monday, Tuesday, and Wednesday."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4814,10 +4814,10 @@
   "number": 28,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "\"Where is the dog hiding asked Mark\".",
+    "B": "\"Where is the dog hiding,\" asked Mark.",
+    "C": "\"Where is the dog hiding? Asked Mark\".",
+    "D": "\"Where is the dog hiding?\" asked Mark."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4832,10 +4832,10 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The baby's cry disturbed my sleep.",
+    "B": "The babie's cry disturbed my sleep.",
+    "C": "The baby cries' disturbed my sleep.",
+    "D": "The babies cries' disturbed my sleep."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4850,10 +4850,10 @@
   "number": 30,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "\"I am so tired\" he sighed loudly.",
+    "B": "\"I am so tired\"! he sighed loudly.",
+    "C": "\"I am so tired he! sighed loudly.\"",
+    "D": "\"I am so tired!\" he sighed loudly."
   },
   "question_diagram": "",
   "question_text": ""
@@ -4868,13 +4868,13 @@
   "number": 31,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "60 miles per hour",
+    "B": "70 miles per hour",
+    "C": "97 miles per hour",
+    "D": "113 miles per hour"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What is the fastest speed at which a cheetah can move?"
 },
 {
   "_id": {
@@ -4886,13 +4886,13 @@
   "number": 32,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Jaguar",
+    "B": "Cougar",
+    "C": "Gazelle",
+    "D": "Leopard"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following animals is not considered to be in the same grouping as the cheetah?"
 },
 {
   "_id": {
@@ -4904,13 +4904,13 @@
   "number": 33,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "moves fast.",
+    "B": "has many spots.",
+    "C": "can pounce on prey.",
+    "D": "has excellent eyesight."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "During the day, the cheetah can easily spot its prey because it"
 },
 {
   "_id": {
@@ -4922,13 +4922,13 @@
   "number": 34,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "How the cheetah hunts",
+    "B": "The speed of the cheetah",
+    "C": "Animals on which the cheetah preys",
+    "D": "How the cheetah blends with its surroundings"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What is the main idea in paragraph 2?"
 },
 {
   "_id": {
@@ -4940,13 +4940,13 @@
   "number": 35,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "I and II",
+    "B": "I and III",
+    "C": "II and III",
+    "D": "I, II and III"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Cheetahs are \"racing towards extinction\". Which of the following conditions are leading to the extinction of cheetahs?"
 },
 {
   "_id": {
@@ -4958,13 +4958,13 @@
   "number": 36,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "A saviour",
+    "B": "The hunter",
+    "C": "The serpent",
+    "D": "Another eagle"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Who was the eagle's enemy in this story?"
 },
 {
   "_id": {
@@ -4976,13 +4976,13 @@
   "number": 37,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Aid",
+    "B": "Win",
+    "C": "Play",
+    "D": "Fight"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words has the same meaning as the word \"combat\" in line 6?"
 },
 {
   "_id": {
@@ -4994,13 +4994,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "the hunter saw the combat.",
+    "B": "the hunter rescued the eagle.",
+    "C": "it was no match for the eagle.",
+    "D": "the hunter had a drinking horn."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The serpent was \"furious\" (line 8) mainly because"
 },
 {
   "_id": {
@@ -5012,13 +5012,13 @@
   "number": 39,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The hunter freed the eagle.",
+    "B": "The eagle saved the hunter.",
+    "C": "The serpent freed the eagle.",
+    "D": "The serpent found the eagle."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which statement about what happened in the story is false?"
 },
 {
   "_id": {
@@ -5030,13 +5030,13 @@
   "number": 40,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Always be careful.",
+    "B": "Watch out for enemies.",
+    "C": "Acts of kindness are often repaid.",
+    "D": "Never trust anyone who seems harmless."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following lessons can we learn from the story?"
 },
 {
   "_id": {
