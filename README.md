@@ -6,6 +6,25 @@ A structured, open dataset of NGSA past papers (paper 1 question and answers), c
 
 I wanted this data for a personal project, but couldn’t find it on the Ministry of Education’s website, so I built it myself. I'm sharing it so others (teachers, developers, students) can benefit too.
 
+## File Structure
+
+```
+
+ngsa-dataset/
+├── README.md
+├── LICENSE
+└── data/
+    ├── english/
+    │   ├── ngsa-english-dataset-qa-2021.json
+    │   ├── ngsa-english-dataset-qa-2022.json
+    │   └── ...
+    └── math/
+        ├── ngsa-mathematics-dataset-qa-2010-unfinished.json
+        └──...
+
+```
+**NOTE: Files labeled with "filename-unfinished" contain question numbers and correct answer data only. The question text and answer option labels have not yet been added.**
+
 ## License
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You may use, share, and adapt the data for non-commercial purposes, provided you give credit to:
