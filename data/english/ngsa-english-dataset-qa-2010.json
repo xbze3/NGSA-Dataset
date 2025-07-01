@@ -1,0 +1,720 @@
+[{
+  "_id": {
+    "$oid": "66d0d0010000000000000001"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 1,
+  "correct_option": "B",
+  "options": {
+    "A": "telivision",
+    "B": "television",
+    "C": "tellevision",
+    "D": "tellivision"
+  },
+  "question_diagram": "",
+  "question_text": "I am not allowed to watch _____ during the week."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000002"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 2,
+  "correct_option": "A",
+  "options": {
+    "A": "religious",
+    "B": "religous",
+    "C": "relegous",
+    "D": "relegious"
+  },
+  "question_diagram": "",
+  "question_text": "Mr. Joseph is a very _____ man."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000003"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 3,
+  "correct_option": "A",
+  "options": {
+    "A": "cemetery",
+    "B": "cemetary",
+    "C": "cemetry",
+    "D": "cematry"
+  },
+  "question_diagram": "",
+  "question_text": "It can be dangerous walking through the _____ at night."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000004"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 4,
+  "correct_option": "B",
+  "options": {
+    "A": "amused",
+    "B": "amazed",
+    "C": "happy",
+    "D": "sorry"
+  },
+  "question_diagram": "",
+  "question_text": "John was [surprised] when he won the lottery."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000005"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 5,
+  "correct_option": "A",
+  "options": {
+    "A": "harmony",
+    "B": "happiness",
+    "C": "discord",
+    "D": "friendship"
+  },
+  "question_diagram": "",
+  "question_text": "The great speaker advised the members of the team to strive for [unity]."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000006"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 6,
+  "correct_option": "C",
+  "options": {
+    "A": "strong",
+    "B": "little",
+    "C": "feeble",
+    "D": "tiny"
+  },
+  "question_diagram": "",
+  "question_text": "We put the [weak] baby to lie near its mother."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000007"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 7,
+  "correct_option": "B",
+  "options": {
+    "A": "flown",
+    "B": "raised",
+    "C": "folded",
+    "D": "dropped"
+  },
+  "question_diagram": "",
+  "question_text": "The golden arrowhead must be _____ at 6:00h everyday."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000008"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 8,
+  "correct_option": "C",
+  "options": {
+    "A": "entertain",
+    "B": "harbour",
+    "C": "accommodate",
+    "D": "train"
+  },
+  "question_diagram": "",
+  "question_text": "The dormitory was constructed to _____ two hundred children."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000009"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 9,
+  "correct_option": "A",
+  "options": {
+    "A": "persuade",
+    "B": "assist",
+    "C": "trick",
+    "D": "command"
+  },
+  "question_diagram": "",
+  "question_text": "The salegirl was unable to _____ the lady to buy the pink curtains."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 10,
+  "correct_option": "D",
+  "options": {
+    "A": "traitor",
+    "B": "martyr",
+    "C": "pilgrim",
+    "D": "tyrant"
+  },
+  "question_diagram": "",
+  "question_text": "Someone who uses his power to oppress others is called a _____."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 11,
+  "correct_option": "C",
+  "options": {
+    "A": "hypocrite",
+    "B": "stalwart",
+    "C": "blackleg",
+    "D": "patroit"
+  },
+  "question_diagram": "",
+  "question_text": "A person who goes to work while his workmates are on strike is called a _____."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 12,
+  "correct_option": "B",
+  "options": {
+    "A": "She wants to [accent] the room by painting it.",
+    "B": "On which syllable does the [accent] belong in the word wonderful?",
+    "C": "When you play that piece, you have to [accent] the first beat.",
+    "D": "Don't you want to hear her [accent]?"
+  },
+  "question_diagram": "",
+  "question_text": "Judging by her [accent]. I believe that she is a Guyanese."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 13,
+  "correct_option": "D",
+  "options": {
+    "A": "I am interested in having lots of [material] goods.",
+    "B": "The [material] fact is that Donald was not home.",
+    "C": "She looked for extra [material] to finish the bed sheet.",
+    "D": "The [material] needed to complete the building is expensive."
+  },
+  "question_diagram": "",
+  "question_text": "My sweater is made of soft [material]."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 14,
+  "correct_option": "B",
+  "options": {
+    "A": "was",
+    "B": "are",
+    "C": "has",
+    "D": "is"
+  },
+  "question_diagram": "",
+  "question_text": "The children _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000000f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 15,
+  "correct_option": "A",
+  "options": {
+    "A": "practise",
+    "B": "goes",
+    "C": "is",
+    "D": "plays"
+  },
+  "question_diagram": "",
+  "question_text": "John and his two cousins _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000010"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 16,
+  "correct_option": "B",
+  "options": {
+    "A": "have",
+    "B": "tastes",
+    "C": "were",
+    "D": "smell"
+  },
+  "question_diagram": "",
+  "question_text": "The onion _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000011"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 17,
+  "correct_option": "B",
+  "options": {
+    "A": "noun",
+    "B": "pronoun",
+    "C": "adjective",
+    "D": "adverb"
+  },
+  "question_diagram": "",
+  "question_text": "We"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000012"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 18,
+  "correct_option": "C",
+  "options": {
+    "A": "pronoun",
+    "B": "adverb",
+    "C": "adjective",
+    "D": "preposition"
+  },
+  "question_diagram": "",
+  "question_text": "Well"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000013"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 19,
+  "correct_option": "C",
+  "options": {
+    "A": "Between you and I, he is lying.",
+    "B": "The two of them is twins.",
+    "C": "Did you ever go there?",
+    "D": "She tell her not to go outside."
+  },
+  "question_diagram": "",
+  "question_text": ""
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000014"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 20,
+  "correct_option": "D",
+  "options": {
+    "A": "My sisters job does not pay much",
+    "B": "Do you want me to carry you with me?",
+    "C": "Neither him nor her will come.",
+    "D": "\"Where did he go when he left?\" asked Mother."
+  },
+  "question_diagram": "",
+  "question_text": ""
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000015"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 21,
+  "correct_option": "D",
+  "options": {
+    "A": "Last night I go to bed early.",
+    "B": "Both of my friends likes to read.",
+    "C": "Too much children come to school late.",
+    "D": "Either of the girls will come."
+  },
+  "question_diagram": "",
+  "question_text": ""
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000016"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 22,
+  "correct_option": "A",
+  "options": {
+    "A": "Events",
+    "B": "carifesta",
+    "C": "venues",
+    "D": "Guyana"
+  },
+  "question_diagram": "",
+  "question_text": "[Events] for [carifesta] were held at different [venues] throughout [Guyana]."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000017"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 23,
+  "correct_option": "A",
+  "options": {
+    "A": "[Artistes]",
+    "B": "[National]",
+    "C": "[Stadium]",
+    "D": "[ceremony]"
+  },
+  "question_diagram": "",
+  "question_text": "Different [Artistes] performed at the [National] [Stadium] during the opening [ceremony]."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000018"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 24,
+  "correct_option": "C",
+  "options": {
+    "A": "[Every]",
+    "B": "[country]",
+    "C": "[host]",
+    "D": "[olympics]"
+  },
+  "question_diagram": "",
+  "question_text": "[Every] four years a different [country] is chosen to [host] the [olympics]."
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000019"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 25,
+  "correct_option": "A",
+  "options": {
+    "A": "Thesaurus",
+    "B": "Magazine",
+    "C": "Catalogue",
+    "D": "Encyclopedia"
+  },
+  "question_diagram": "",
+  "question_text": "This is a kind of dictionary that has mostly synonyms."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 26,
+  "correct_option": "D",
+  "options": {
+    "A": "Directoy",
+    "B": "Syllabus",
+    "C": "Encyclopedia",
+    "D": "Catalogue"
+  },
+  "question_diagram": "",
+  "question_text": "It is a book which encourages us to use or buy a product."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 27,
+  "correct_option": "D",
+  "options": {
+    "A": "forward",
+    "B": "glossary",
+    "C": "appendix",
+    "D": "contents"
+  },
+  "question_diagram": "",
+  "question_text": "A list at the front of the book that tells what the book contains."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 28,
+  "correct_option": "A",
+  "options": {
+    "A": "glossary",
+    "B": "appendix",
+    "C": "preface",
+    "D": "acknowledgement"
+  },
+  "question_diagram": "",
+  "question_text": "An alphabetical list of words and meanings at the end of a book."
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 29,
+  "correct_option": "D",
+  "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  "question_diagram": "",
+  "question_text": ""
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 30,
+  "correct_option": "B",
+  "options": {
+    "A": "Things are not always as good as they appear.",
+    "B": "Grasp every opportunity when it presents itself.",
+    "C": "Hay cannot be harvested during the rainy season.",
+    "D": "It is easy to cut grass when the sun is shining."
+  },
+  "question_diagram": "",
+  "question_text": "[Make hay while the sun shines.]"
+},
+{
+  "_id": {
+    "$oid": "66d0d001000000000000001f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 31,
+  "correct_option": "D",
+  "options": {
+    "A": "likes to sleep late.",
+    "B": "does not go to school",
+    "C": "is lazy.",
+    "D": "is ill."
+  },
+  "question_diagram": "",
+  "question_text": "The invalid is child who _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000020"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 32,
+  "correct_option": "D",
+  "options": {
+    "A": "His teacher",
+    "B": "His friend",
+    "C": "The dentist",
+    "D": "The doctor"
+  },
+  "question_diagram": "",
+  "question_text": "Who visits the invalid?"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000021"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 33,
+  "correct_option": "A",
+  "options": {
+    "A": "Medicine",
+    "B": "Bath",
+    "C": "Brushing his teeth",
+    "D": "Combing his hair"
+  },
+  "question_diagram": "",
+  "question_text": "What is horrid to take?"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000022"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 34,
+  "correct_option": "C",
+  "options": {
+    "A": "Twinky",
+    "B": "Horrid",
+    "C": "Kind",
+    "D": "Best"
+  },
+  "question_diagram": "",
+  "question_text": "Which word is used to describe the visitors?"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000023"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 35,
+  "correct_option": "B",
+  "options": {
+    "A": "Sleepyhead.",
+    "B": "The Doctor.",
+    "C": "Busybody.",
+    "D": "The Visitor."
+  },
+  "question_diagram": "",
+  "question_text": "The best name for the poem is _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000024"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 36,
+  "correct_option": "C",
+  "options": {
+    "A": "is dried up by the sun.",
+    "B": "goes into the soil.",
+    "C": "runs off into the sea.",
+    "D": "is stored in trenches."
+  },
+  "question_diagram": "",
+  "question_text": "The land does not flood when it rains because the water"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000025"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 37,
+  "correct_option": "A",
+  "options": {
+    "A": "allow easy movement of people and goods.",
+    "B": "ensure that person had enough water to use.",
+    "C": "provide jobs for persons who wanted to fish.",
+    "D": "provide persons with a beautiful, peaceful scenery."
+  },
+  "question_diagram": "",
+  "question_text": "Some towns were built on the banks of rivers to _____"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000026"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 38,
+  "correct_option": "C",
+  "options": {
+    "A": "clean water",
+    "B": "water that has been purified.",
+    "C": "water that comes through a pipe.",
+    "D": "rain water."
+  },
+  "question_diagram": "",
+  "question_text": "'Tap water' in line 8 means"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000027"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 39,
+  "correct_option": "D",
+  "options": {
+    "A": "The water from the rivers can be used for domestic purposes.",
+    "B": "The water in rivers is not always calm.",
+    "C": "River can be used to transport things as well as provide food.",
+    "D": "Every large river has a town on its bank."
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following is not true about rivers?"
+},
+{
+  "_id": {
+    "$oid": "66d0d0010000000000000028"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000000"
+  },
+  "number": 40,
+  "correct_option": "C",
+  "options": {
+    "A": "Life by the River.",
+    "B": "How the river gets it water.",
+    "C": "Uses of the River",
+    "D": "The beauty of the River."
+  },
+  "question_diagram": "",
+  "question_text": "Which is an appropriate title for the passage?"
+}]
