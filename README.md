@@ -1,4 +1,4 @@
-# NGSA-Companion
+# NGSA-Dataset
 
 A structured, open dataset of NGSA past papers (paper 1 question and answers), compiled for educational and non-commercial use. Includes multiple choice questions, answers, and metadata in JSON format for easy integration.
 
