@@ -23,7 +23,10 @@ ngsa-dataset/
         └── ...
 
 ```
-**NOTE: Files labeled with "filename-unfinished" contain question numbers and correct answer data only. The question text and answer option labels have not yet been added.**
+**NOTE:**
+- Files labeled with ```filename-unfinished``` contain question numbers and correct answer data only. The question text and answer option labels have not yet been added.
+- Files labeled with ```filename-tests``` contain test metadata such as the subject, level, paper type, and a list of references (question_ids) that point to the individual questions.
+- Files labeled with ```filename-qa``` contain the individual questions for each subject range
 
 ## License
 
