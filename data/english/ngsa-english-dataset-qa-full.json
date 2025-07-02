@@ -720,726 +720,6 @@
 },
 {
   "_id": {
-    "$oid": "66d001000000000000000001"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 1,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000002"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 2,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000003"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 3,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000004"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 4,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000005"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 5,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000006"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 6,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000007"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 7,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000008"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 8,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000009"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 9,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000a"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 10,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000b"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 11,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000c"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 12,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000d"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 13,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000e"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 14,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000000f"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 15,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000010"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 16,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000011"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 17,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000012"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 18,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000013"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 19,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000014"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 20,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000015"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 21,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000016"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 22,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000017"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 23,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000018"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 24,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000019"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 25,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001a"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 26,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001b"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 27,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001c"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 28,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001d"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 29,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001e"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 30,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d00100000000000000001f"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 31,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000020"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 32,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000021"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 33,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000022"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 34,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000023"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 35,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000024"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 36,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000025"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 37,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000026"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 38,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000027"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 39,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d001000000000000000028"
-  },
-  "test_id": {
-    "$oid": "66d000000000000000000061"
-  },
-  "number": 40,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
     "$oid": "66d0d0020000000000000001"
   },
   "test_id": {
@@ -5768,13 +5048,13 @@
   "number": 1,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "seperated",
+    "B": "sepirated",
+    "C": "separated",
+    "D": "seporated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "At the farm the sheep were _____ from the goats."
 },
 {
   "_id": {
@@ -5786,13 +5066,13 @@
   "number": 2,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sootible",
+    "B": "suitable",
+    "C": "suiteable",
+    "D": "suetable"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "They were asked to choose _____ clothing for the outing."
 },
 {
   "_id": {
@@ -5804,13 +5084,13 @@
   "number": 3,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "truely",
+    "B": "truly",
+    "C": "truily",
+    "D": "trewly"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Fishing is _____ an exciting sport."
 },
 {
   "_id": {
@@ -5822,13 +5102,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "adamant",
+    "B": "eager",
+    "C": "obedient",
+    "D": "lazy"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [obstinate] pupil refused to apologise to the teacher."
 },
 {
   "_id": {
@@ -5840,13 +5120,13 @@
   "number": 5,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "waste",
+    "B": "protect",
+    "C": "maintain",
+    "D": "disperse"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Citizens were asked to [conserve] water."
 },
 {
   "_id": {
@@ -5858,13 +5138,13 @@
   "number": 6,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "jail",
+    "B": "cheat",
+    "C": "page",
+    "D": "train"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The annoucer decided to _____ to parents of the lost child."
 },
 {
   "_id": {
@@ -5876,13 +5156,13 @@
   "number": 7,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "stardom",
+    "B": "approval",
+    "C": "haughtiness",
+    "D": "superiority"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The young sister rose to _____ very quickly."
 },
 {
   "_id": {
@@ -5894,13 +5174,13 @@
   "number": 8,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "dealt",
+    "B": "dosed",
+    "C": "denied",
+    "D": "dispensed"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The drug given to the sick patient was _____ by the doctor."
 },
 {
   "_id": {
@@ -5912,10 +5192,10 @@
   "number": 9,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "None of the boys are coming.",
+    "B": "Jane has won the prize.",
+    "C": "He is the youngest of the two brothers.",
+    "D": "She hurted her leg."
   },
   "question_diagram": "",
   "question_text": ""
@@ -5930,10 +5210,10 @@
   "number": 10,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It was him you saw there.",
+    "B": "Is she worst than her sister?",
+    "C": "To whom does this game belong?",
+    "D": "Seeta cannot run no more."
   },
   "question_diagram": "",
   "question_text": ""
@@ -5948,10 +5228,10 @@
   "number": 11,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "They cycled to the finishing line.",
+    "B": "Those people too bad.",
+    "C": "Gave me my portion now, please!",
+    "D": "Where did you seen that?"
   },
   "question_diagram": "",
   "question_text": ""
@@ -5966,10 +5246,10 @@
   "number": 12,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Jane's mother bought mangoes: cherries and plums at the market.",
+    "B": "Jane's mother bought mangoes! cherries and plums at the market.",
+    "C": "Jane's mother bought mangoes; cherries and plums at the market.",
+    "D": "Jane's mother bought mangoes, cherries and plums at the market."
   },
   "question_diagram": "",
   "question_text": ""
@@ -5984,10 +5264,10 @@
   "number": 13,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Were you at the concert yesterday,",
+    "B": "Were you at the concert yesterday.",
+    "C": "Were you at the concert yesterday?",
+    "D": "Were you at the concert yesterday!"
   },
   "question_diagram": "",
   "question_text": ""
@@ -6002,10 +5282,10 @@
   "number": 14,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The shopkeeper had these items in stock: rulers, pencils, pens and books.",
+    "B": "The shopkeeper had these items in stock. rulers, pencils, pens and books.",
+    "C": "The shopkeeper had these items in stock; rulers, pencils, pens and books.",
+    "D": "The shopkeeper had these items in stock? rulers, pencils, pens and books."
   },
   "question_diagram": "",
   "question_text": ""
@@ -6020,10 +5300,10 @@
   "number": 15,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "salary, salute, saint, sale, sailor",
+    "B": "sale, salute, salary, saint, sailor",
+    "C": "salary, sale, salute, sailor, saint",
+    "D": "sailor, saint, sale, salary, salute"
   },
   "question_diagram": "",
   "question_text": ""
@@ -6038,13 +5318,13 @@
   "number": 16,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[excitement]",
+    "B": "[delight]",
+    "C": "[floats]",
+    "D": "[approached]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Ravi and his friends felt great [excitement] and [delight] when the [floats] [approached]."
 },
 {
   "_id": {
@@ -6056,13 +5336,13 @@
   "number": 17,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Bend",
+    "B": "Bellboy",
+    "C": "Belittle",
+    "D": "Below"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of these words can be found on this page?"
 },
 {
   "_id": {
@@ -6074,13 +5354,13 @@
   "number": 18,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "a noun.",
+    "B": "negative.",
+    "C": "neutral.",
+    "D": "a number."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The letter n at the end of the word \"bellows\" indicates that it is."
 },
 {
   "_id": {
@@ -6092,13 +5372,13 @@
   "number": 19,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Conjunction",
+    "B": "Adjective",
+    "C": "Noun",
+    "D": "Adverb"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Are you excited about going on [holiday]?"
 },
 {
   "_id": {
@@ -6110,13 +5390,13 @@
   "number": 20,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Adverb",
+    "B": "Noun",
+    "C": "Pronoun",
+    "D": "Verb"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The headteacher [chairs] that meeting."
 },
 {
   "_id": {
@@ -6128,13 +5408,13 @@
   "number": 21,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Pronoun",
+    "B": "Conjunction",
+    "C": "Adjective",
+    "D": "Preposition"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sanjay threw his bag [over] the wall."
 },
 {
   "_id": {
@@ -6146,13 +5426,13 @@
   "number": 22,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[girls]",
+    "B": "[childrens]",
+    "C": "[instruments]",
+    "D": "[theirs]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [girls] in the [childrens] choir said the [instruments] were [theirs]."
 },
 {
   "_id": {
@@ -6164,13 +5444,13 @@
   "number": 23,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[grades]",
+    "B": "[teachers]",
+    "C": "[students]",
+    "D": "[parents]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [grades] awarded by the [teachers] were questioned by the [students] [parents]."
 },
 {
   "_id": {
@@ -6182,13 +5462,13 @@
   "number": 24,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "appendix.",
+    "B": "preface.",
+    "C": "index.",
+    "D": "content."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The section that gives a brief outline is called the"
 },
 {
   "_id": {
@@ -6200,13 +5480,13 @@
   "number": 25,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "index.",
+    "B": "reference.",
+    "C": "glossary.",
+    "D": "forward."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "An alphabetical listing of names or subjects found at the end is called the "
 },
 {
   "_id": {
@@ -6218,13 +5498,13 @@
   "number": 26,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "preface.",
+    "B": "acknowledgement.",
+    "C": "foreword.",
+    "D": "introduction."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The writer thanks those who helped in the"
 },
 {
   "_id": {
@@ -6236,13 +5516,13 @@
   "number": 27,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Workers do not play when they are at work.",
+    "B": "The mice will not play when the cat is around.",
+    "C": "Workers neglect their duties when the supervisor is not around.",
+    "D": "The mice will always play with the cat's toys when it is not there."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "When the cat's away the mice will play."
 },
 {
   "_id": {
@@ -6254,13 +5534,13 @@
   "number": 28,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The water will never be missed by its users.",
+    "B": "When something is needed it is always there.",
+    "C": "Whenever something is needed it is never there.",
+    "D": "Something is missing only when it is not available."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "We never miss the water 'til the well runs dry."
 },
 {
   "_id": {
@@ -6272,13 +5552,13 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Honest",
+    "B": "Plain spoken",
+    "C": "Hard-hearted",
+    "D": "Concerned"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The shop keeper is always [above board] when he deals with his customers."
 },
 {
   "_id": {
@@ -6290,13 +5570,13 @@
   "number": 30,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Give away the towel",
+    "B": "Ask for help",
+    "C": "Give up the struggle",
+    "D": "Change her opinion"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Despite the difficult situation, she refused to [throw in the towel.]"
 },
 {
   "_id": {
@@ -6308,13 +5588,13 @@
   "number": 31,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "on the decline.",
+    "B": "limited to few countries.",
+    "C": "not attracting many people.",
+    "D": "becoming more popular."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The first sentence shows that tourism is"
 },
 {
   "_id": {
@@ -6326,13 +5606,13 @@
   "number": 32,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "see vineyards covered with lava.",
+    "B": "see the volcano erupt.",
+    "C": "see how impressive the volcano was.",
+    "D": "note its snow-capped mountain peaks."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "All are reasons for the attraction of visiotrs to Etna except to"
 },
 {
   "_id": {
@@ -6344,13 +5624,13 @@
   "number": 33,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "in the restaurant.",
+    "B": "in open pits.",
+    "C": "using underground heat.",
+    "D": "using coals."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "According to the passage, barbeque is done"
 },
 {
   "_id": {
@@ -6362,13 +5642,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "A stretch of 18th century lava.",
+    "B": "Numerous small craters",
+    "C": "A lunar landscape",
+    "D": "Snow cap for 3 or 4 months"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which is not a tourist attraction of Lanzarote?"
 },
 {
   "_id": {
@@ -6380,13 +5660,13 @@
   "number": 35,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "volcanoes do not provide interest for tourists.",
+    "B": "Lanzarote is smaller than Mount Teide.",
+    "C": "tourists visits volcanoes only at times of eruption.",
+    "D": "restaurants are not new to volcanic areas."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "From the passage it can be said that"
 },
 {
   "_id": {
@@ -6398,13 +5678,13 @@
   "number": 36,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "curious.",
+    "B": "happy.",
+    "C": "hesitant.",
+    "D": "elated."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"Wonder\" in line 1 suggests that the poet is"
 },
 {
   "_id": {
@@ -6416,13 +5696,13 @@
   "number": 37,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Jim and kings.",
+    "B": "Jack and Jim.",
+    "C": "schoolmasters and kings.",
+    "D": "Jack and schoolmasters."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The author's friends are"
 },
 {
   "_id": {
@@ -6434,13 +5714,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "1 and 2",
+    "B": "4 and 5",
+    "C": "7 and 8",
+    "D": "9 and 10"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which two lines suggest that the kite has great knowledge?"
 },
 {
   "_id": {
@@ -6452,13 +5732,13 @@
   "number": 39,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "knows that kites do not talk.",
+    "B": "feels that the kite is rude.",
+    "C": "feels that kites should talk.",
+    "D": "knows that kites are silent."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"No, he's as quiet as can be\" in line 10 shows that the poet"
 },
 {
   "_id": {
@@ -6470,733 +5750,13 @@
   "number": 40,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Kites.",
+    "B": "My Kite and I.",
+    "C": "Friends.",
+    "D": "Kites in the Air."
   },
   "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000001"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 1,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000002"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 2,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000003"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 3,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000004"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 4,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000005"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 5,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000006"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 6,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000007"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 7,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000008"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 8,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000009"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 9,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000a"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 10,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000b"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 11,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000c"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 12,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000d"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 13,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000e"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 14,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000000f"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 15,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000010"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 16,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000011"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 17,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000012"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 18,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000013"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 19,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000014"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 20,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000015"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 21,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000016"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 22,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000017"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 23,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000018"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 24,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000019"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 25,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001a"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 26,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001b"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 27,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001c"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 28,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001d"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 29,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001e"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 30,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d023000000000000001f"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 31,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000020"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 32,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000021"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 33,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000022"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 34,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000023"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 35,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000024"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 36,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000025"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 37,
-  "correct_option": "A",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000026"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 38,
-  "correct_option": "D",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000027"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 39,
-  "correct_option": "C",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
-},
-{
-  "_id": {
-    "$oid": "66d0d0230000000000000028"
-  },
-  "test_id": {
-    "$oid": "66d0d0000000000000000023"
-  },
-  "number": 40,
-  "correct_option": "B",
-  "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-  },
-  "question_diagram": "",
-  "question_text": ""
+  "question_text": "A most suitable title for the poem is"
 },
 {
   "_id": {
@@ -7208,13 +5768,13 @@
   "number": 1,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "adventorus",
+    "B": "adventureus",
+    "C": "adventorous",
+    "D": "adventurous"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Calvin is an _____ young man whom I admire."
 },
 {
   "_id": {
@@ -7226,13 +5786,13 @@
   "number": 2,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "fasenated",
+    "B": "fassinated",
+    "C": "fascinated",
+    "D": "fassenated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "John was _____ with his new pencil case."
 },
 {
   "_id": {
@@ -7244,13 +5804,13 @@
   "number": 3,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "end",
+    "B": "start",
+    "C": "resume",
+    "D": "continue"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The meeting will [commence] after lunch."
 },
 {
   "_id": {
@@ -7262,13 +5822,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "similar",
+    "B": "uniform",
+    "C": "different",
+    "D": "corresponding"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The two sisters have [identical] school bags."
 },
 {
   "_id": {
@@ -7280,13 +5840,13 @@
   "number": 5,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "parents",
+    "B": "receieved",
+    "C": "expensive",
+    "D": "basketball"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Julius received an expensive basketball from his parents."
 },
 {
   "_id": {
@@ -7298,13 +5858,13 @@
   "number": 6,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sister's",
+    "B": "birthday",
+    "C": "February",
+    "D": "celebrated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My sister's birthday will be celebrated in February."
 },
 {
   "_id": {
@@ -7316,13 +5876,13 @@
   "number": 7,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ed",
+    "B": "ion",
+    "C": "ing",
+    "D": "ment"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Joan lost the connect_____ on her cellphone."
 },
 {
   "_id": {
@@ -7334,13 +5894,13 @@
   "number": 8,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ly",
+    "B": "ing",
+    "C": "less",
+    "D": "able"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sarah wore a love_____ dress to the play."
 },
 {
   "_id": {
@@ -7352,13 +5912,13 @@
   "number": 9,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "proof",
+    "B": "notice",
+    "C": "answer",
+    "D": "solution"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "You need to provide the [evidence] that you were not at the scene."
 },
 {
   "_id": {
@@ -7370,13 +5930,13 @@
   "number": 10,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "baby",
+    "B": "short",
+    "C": "small",
+    "D": "weak"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [feeble] pup sat on my lap."
 },
 {
   "_id": {
@@ -7388,13 +5948,13 @@
   "number": 11,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Pray",
+    "B": "Pinch",
+    "C": "Perch",
+    "D": "Purple"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words would be second if the words were arranged in alphabetical order."
 },
 {
   "_id": {
@@ -7406,10 +5966,10 @@
   "number": 12,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "after, almost, angle, aspire",
+    "B": "after, angle, aspire, almost",
+    "C": "angle, almost, aspire, after",
+    "D": "almost, after, angle, aspire"
   },
   "question_diagram": "",
   "question_text": ""
@@ -7424,13 +5984,13 @@
   "number": 13,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "limit",
+    "B": "reduce",
+    "C": "improve",
+    "D": "thicken"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "If you pay attention in class, you will be able to _____ your performance."
 },
 {
   "_id": {
@@ -7442,13 +6002,13 @@
   "number": 14,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "angered",
+    "B": "cautioned",
+    "C": "congratulated",
+    "D": "complimented"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The police _____ the child for not using the pedestrian crossing."
 },
 {
   "_id": {
@@ -7460,13 +6020,13 @@
   "number": 15,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "yet",
+    "B": "but",
+    "C": "while",
+    "D": "although"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Marvin listened carefully _____ the teacher explained the topic."
 },
 {
   "_id": {
@@ -7478,13 +6038,13 @@
   "number": 16,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "if",
+    "B": "so",
+    "C": "but",
+    "D": "when"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I want to visit you _____ I do not know your address."
 },
 {
   "_id": {
@@ -7496,13 +6056,13 @@
   "number": 17,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": ":",
+    "B": "?",
+    "C": ",",
+    "D": "!"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "You are an amazing friend"
 },
 {
   "_id": {
@@ -7514,10 +6074,10 @@
   "number": 18,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Kevin is very talkative in class'",
+    "B": "Did you find your backpack yesterday?",
+    "C": "Carla, will be attending the concert, next week.",
+    "D": "Mandy bought pencils, markers and a textbook."
   },
   "question_diagram": "",
   "question_text": ""
@@ -7538,7 +6098,7 @@
     "D": ""
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "One of my sisters _____ on a tour to Georgetown"
 },
 {
   "_id": {
@@ -7550,13 +6110,13 @@
   "number": 20,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is",
+    "B": "has",
+    "C": "was",
+    "D": "were"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The boy's feet _____ swolledn from the injury."
 },
 {
   "_id": {
@@ -7568,13 +6128,13 @@
   "number": 21,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sing",
+    "B": "sang",
+    "C": "sung",
+    "D": "sings"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Next week the group will _____ at the concert."
 },
 {
   "_id": {
@@ -7586,13 +6146,13 @@
   "number": 22,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ask",
+    "B": "asks",
+    "C": "asked",
+    "D": "asking"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Yesterday, the teacher _____ the pupils to solve the question."
 },
 {
   "_id": {
@@ -7604,13 +6164,13 @@
   "number": 23,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "set",
+    "B": "box",
+    "C": "pack",
+    "D": "group"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The players opened a new _____ of cards to play the game."
 },
 {
   "_id": {
@@ -7622,13 +6182,13 @@
   "number": 24,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "greedy",
+    "B": "hungry",
+    "C": "heartless",
+    "D": "courageous"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The _____ man saved the child from being attacked by the dog."
 },
 {
   "_id": {
@@ -7640,13 +6200,13 @@
   "number": 25,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "up",
+    "B": "into",
+    "C": "under",
+    "D": "around"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "He climbed _____ the ladder in order to get to the roof."
 },
 {
   "_id": {
@@ -7658,13 +6218,13 @@
   "number": 26,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "lesson",
+    "B": "taught",
+    "C": "children",
+    "D": "attentively"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The children listened attentively to the teacher while she taught the lesson."
 },
 {
   "_id": {
@@ -7676,13 +6236,13 @@
   "number": 27,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "First",
+    "B": "Second",
+    "C": "Third",
+    "D": "Fifth"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Where should the sentence \"He spent most of his nights thinking about the exam\" be placed in the paragraph?"
 },
 {
   "_id": {
@@ -7694,13 +6254,13 @@
   "number": 28,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Sentence 2",
+    "B": "Sentence 3",
+    "C": "Sentence 4",
+    "D": "Sentence 5"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following sentences should be fourth in the paragraph?"
 },
 {
   "_id": {
@@ -7712,13 +6272,13 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "3, 5, 2, 4, 1",
+    "B": "3, 4, 5, 1, 2",
+    "C": "4, 3, 2, 5, 1",
+    "D": "4, 5, 1, 2, 3"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Choose the order in which the sentences would make the best paragraph."
 },
 {
   "_id": {
@@ -7730,13 +6290,13 @@
   "number": 30,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "gift centre.",
+    "B": "gas station.",
+    "C": "supermarket.",
+    "D": "shopping mall."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The sale will happen at a"
 },
 {
   "_id": {
@@ -7748,13 +6308,13 @@
   "number": 31,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "2 days",
+    "B": "3 days",
+    "C": "4 days",
+    "D": "5 days"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "How long will the sale last?"
 },
 {
   "_id": {
@@ -7766,13 +6326,13 @@
   "number": 32,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "free of cost.",
+    "B": "more expensive to buy.",
+    "C": "sold at a reduced price.",
+    "D": "readily available to all customers"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The word \"discounts\" means that the items will be."
 },
 {
   "_id": {
@@ -7784,13 +6344,13 @@
   "number": 33,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "prevent customers from shopping",
+    "B": "encourage customers to shop more",
+    "C": "make customers feel energetic and strong.",
+    "D": "make customers aware of the perfume set."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The above statement is most likely used to"
 },
 {
   "_id": {
@@ -7802,13 +6362,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Tuesday",
+    "B": "Wednesday",
+    "C": "Thursday",
+    "D": "Friday"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "On which of the following days will the sale end?"
 },
 {
   "_id": {
@@ -7820,13 +6380,13 @@
   "number": 35,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sisters.",
+    "B": "nieces.",
+    "C": "cousins.",
+    "D": "best friends."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Suzie and June are"
 },
 {
   "_id": {
@@ -7838,13 +6398,13 @@
   "number": 36,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Science",
+    "B": "Reading",
+    "C": "Mathematics",
+    "D": "Social Studies"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following subjects did June fail?"
 },
 {
   "_id": {
@@ -7856,13 +6416,13 @@
   "number": 37,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "be like each other.",
+    "B": "please their mothers.",
+    "C": "pass all the subjects.",
+    "D": "do better that each other."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The girls decided to study because they wanted to"
 },
 {
   "_id": {
@@ -7874,13 +6434,13 @@
   "number": 38,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "certain",
+    "B": "thrilled",
+    "C": "puzzled",
+    "D": "disappointed"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words can be used to replace the word \"delighted\" as used in line 13?"
 },
 {
   "_id": {
@@ -7892,13 +6452,13 @@
   "number": 39,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The girls had many roses.",
+    "B": "The mother was angry with the girls.",
+    "C": "The girls were no longer best friends.",
+    "D": "The girls were uncomfortable with each other."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What does the phrase \"Tensions rose\" in line 3 suggest?"
 },
 {
   "_id": {
@@ -7910,11 +6470,11 @@
   "number": 40,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Working Together",
+    "B": "Suzie Helps June",
+    "C": "Failing in Mathematics",
+    "D": "The Sisters and Their Mother"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following titles would be best suited for the passage?"
 }]

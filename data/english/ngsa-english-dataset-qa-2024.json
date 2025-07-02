@@ -8,13 +8,13 @@
   "number": 1,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "adventorus",
+    "B": "adventureus",
+    "C": "adventorous",
+    "D": "adventurous"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Calvin is an _____ young man whom I admire."
 },
 {
   "_id": {
@@ -26,13 +26,13 @@
   "number": 2,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "fasenated",
+    "B": "fassinated",
+    "C": "fascinated",
+    "D": "fassenated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "John was _____ with his new pencil case."
 },
 {
   "_id": {
@@ -44,13 +44,13 @@
   "number": 3,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "end",
+    "B": "start",
+    "C": "resume",
+    "D": "continue"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The meeting will [commence] after lunch."
 },
 {
   "_id": {
@@ -62,13 +62,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "similar",
+    "B": "uniform",
+    "C": "different",
+    "D": "corresponding"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The two sisters have [identical] school bags."
 },
 {
   "_id": {
@@ -80,13 +80,13 @@
   "number": 5,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "parents",
+    "B": "receieved",
+    "C": "expensive",
+    "D": "basketball"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Julius received an expensive basketball from his parents."
 },
 {
   "_id": {
@@ -98,13 +98,13 @@
   "number": 6,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sister's",
+    "B": "birthday",
+    "C": "February",
+    "D": "celebrated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "My sister's birthday will be celebrated in February."
 },
 {
   "_id": {
@@ -116,13 +116,13 @@
   "number": 7,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ed",
+    "B": "ion",
+    "C": "ing",
+    "D": "ment"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Joan lost the connect_____ on her cellphone."
 },
 {
   "_id": {
@@ -134,13 +134,13 @@
   "number": 8,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ly",
+    "B": "ing",
+    "C": "less",
+    "D": "able"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sarah wore a love_____ dress to the play."
 },
 {
   "_id": {
@@ -152,13 +152,13 @@
   "number": 9,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "proof",
+    "B": "notice",
+    "C": "answer",
+    "D": "solution"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "You need to provide the [evidence] that you were not at the scene."
 },
 {
   "_id": {
@@ -170,13 +170,13 @@
   "number": 10,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "baby",
+    "B": "short",
+    "C": "small",
+    "D": "weak"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [feeble] pup sat on my lap."
 },
 {
   "_id": {
@@ -188,13 +188,13 @@
   "number": 11,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Pray",
+    "B": "Pinch",
+    "C": "Perch",
+    "D": "Purple"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words would be second if the words were arranged in alphabetical order."
 },
 {
   "_id": {
@@ -206,10 +206,10 @@
   "number": 12,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "after, almost, angle, aspire",
+    "B": "after, angle, aspire, almost",
+    "C": "angle, almost, aspire, after",
+    "D": "almost, after, angle, aspire"
   },
   "question_diagram": "",
   "question_text": ""
@@ -224,13 +224,13 @@
   "number": 13,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "limit",
+    "B": "reduce",
+    "C": "improve",
+    "D": "thicken"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "If you pay attention in class, you will be able to _____ your performance."
 },
 {
   "_id": {
@@ -242,13 +242,13 @@
   "number": 14,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "angered",
+    "B": "cautioned",
+    "C": "congratulated",
+    "D": "complimented"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The police _____ the child for not using the pedestrian crossing."
 },
 {
   "_id": {
@@ -260,13 +260,13 @@
   "number": 15,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "yet",
+    "B": "but",
+    "C": "while",
+    "D": "although"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Marvin listened carefully _____ the teacher explained the topic."
 },
 {
   "_id": {
@@ -278,13 +278,13 @@
   "number": 16,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "if",
+    "B": "so",
+    "C": "but",
+    "D": "when"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "I want to visit you _____ I do not know your address."
 },
 {
   "_id": {
@@ -296,13 +296,13 @@
   "number": 17,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": ":",
+    "B": "?",
+    "C": ",",
+    "D": "!"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "You are an amazing friend"
 },
 {
   "_id": {
@@ -314,10 +314,10 @@
   "number": 18,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Kevin is very talkative in class'",
+    "B": "Did you find your backpack yesterday?",
+    "C": "Carla, will be attending the concert, next week.",
+    "D": "Mandy bought pencils, markers and a textbook."
   },
   "question_diagram": "",
   "question_text": ""
@@ -338,7 +338,7 @@
     "D": ""
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "One of my sisters _____ on a tour to Georgetown"
 },
 {
   "_id": {
@@ -350,13 +350,13 @@
   "number": 20,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "is",
+    "B": "has",
+    "C": "was",
+    "D": "were"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The boy's feet _____ swolledn from the injury."
 },
 {
   "_id": {
@@ -368,13 +368,13 @@
   "number": 21,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sing",
+    "B": "sang",
+    "C": "sung",
+    "D": "sings"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Next week the group will _____ at the concert."
 },
 {
   "_id": {
@@ -386,13 +386,13 @@
   "number": 22,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "ask",
+    "B": "asks",
+    "C": "asked",
+    "D": "asking"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Yesterday, the teacher _____ the pupils to solve the question."
 },
 {
   "_id": {
@@ -404,13 +404,13 @@
   "number": 23,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "set",
+    "B": "box",
+    "C": "pack",
+    "D": "group"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The players opened a new _____ of cards to play the game."
 },
 {
   "_id": {
@@ -422,13 +422,13 @@
   "number": 24,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "greedy",
+    "B": "hungry",
+    "C": "heartless",
+    "D": "courageous"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The _____ man saved the child from being attacked by the dog."
 },
 {
   "_id": {
@@ -440,13 +440,13 @@
   "number": 25,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "up",
+    "B": "into",
+    "C": "under",
+    "D": "around"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "He climbed _____ the ladder in order to get to the roof."
 },
 {
   "_id": {
@@ -458,13 +458,13 @@
   "number": 26,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "lesson",
+    "B": "taught",
+    "C": "children",
+    "D": "attentively"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The children listened attentively to the teacher while she taught the lesson."
 },
 {
   "_id": {
@@ -476,13 +476,13 @@
   "number": 27,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "First",
+    "B": "Second",
+    "C": "Third",
+    "D": "Fifth"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Where should the sentence \"He spent most of his nights thinking about the exam\" be placed in the paragraph?"
 },
 {
   "_id": {
@@ -494,13 +494,13 @@
   "number": 28,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Sentence 2",
+    "B": "Sentence 3",
+    "C": "Sentence 4",
+    "D": "Sentence 5"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following sentences should be fourth in the paragraph?"
 },
 {
   "_id": {
@@ -512,13 +512,13 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "3, 5, 2, 4, 1",
+    "B": "3, 4, 5, 1, 2",
+    "C": "4, 3, 2, 5, 1",
+    "D": "4, 5, 1, 2, 3"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Choose the order in which the sentences would make the best paragraph."
 },
 {
   "_id": {
@@ -530,13 +530,13 @@
   "number": 30,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "gift centre.",
+    "B": "gas station.",
+    "C": "supermarket.",
+    "D": "shopping mall."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The sale will happen at a"
 },
 {
   "_id": {
@@ -548,13 +548,13 @@
   "number": 31,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "2 days",
+    "B": "3 days",
+    "C": "4 days",
+    "D": "5 days"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "How long will the sale last?"
 },
 {
   "_id": {
@@ -566,13 +566,13 @@
   "number": 32,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "free of cost.",
+    "B": "more expensive to buy.",
+    "C": "sold at a reduced price.",
+    "D": "readily available to all customers"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The word \"discounts\" means that the items will be."
 },
 {
   "_id": {
@@ -584,13 +584,13 @@
   "number": 33,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "prevent customers from shopping",
+    "B": "encourage customers to shop more",
+    "C": "make customers feel energetic and strong.",
+    "D": "make customers aware of the perfume set."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The above statement is most likely used to"
 },
 {
   "_id": {
@@ -602,13 +602,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Tuesday",
+    "B": "Wednesday",
+    "C": "Thursday",
+    "D": "Friday"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "On which of the following days will the sale end?"
 },
 {
   "_id": {
@@ -620,13 +620,13 @@
   "number": 35,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sisters.",
+    "B": "nieces.",
+    "C": "cousins.",
+    "D": "best friends."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Suzie and June are"
 },
 {
   "_id": {
@@ -638,13 +638,13 @@
   "number": 36,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Science",
+    "B": "Reading",
+    "C": "Mathematics",
+    "D": "Social Studies"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following subjects did June fail?"
 },
 {
   "_id": {
@@ -656,13 +656,13 @@
   "number": 37,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "be like each other.",
+    "B": "please their mothers.",
+    "C": "pass all the subjects.",
+    "D": "do better that each other."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The girls decided to study because they wanted to"
 },
 {
   "_id": {
@@ -674,13 +674,13 @@
   "number": 38,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "certain",
+    "B": "thrilled",
+    "C": "puzzled",
+    "D": "disappointed"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following words can be used to replace the word \"delighted\" as used in line 13?"
 },
 {
   "_id": {
@@ -692,13 +692,13 @@
   "number": 39,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The girls had many roses.",
+    "B": "The mother was angry with the girls.",
+    "C": "The girls were no longer best friends.",
+    "D": "The girls were uncomfortable with each other."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "What does the phrase \"Tensions rose\" in line 3 suggest?"
 },
 {
   "_id": {
@@ -710,11 +710,11 @@
   "number": 40,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Working Together",
+    "B": "Suzie Helps June",
+    "C": "Failing in Mathematics",
+    "D": "The Sisters and Their Mother"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of the following titles would be best suited for the passage?"
 }]

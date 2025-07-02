@@ -8,13 +8,13 @@
   "number": 1,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "seperated",
+    "B": "sepirated",
+    "C": "separated",
+    "D": "seporated"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "At the farm the sheep were _____ from the goats."
 },
 {
   "_id": {
@@ -26,13 +26,13 @@
   "number": 2,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "sootible",
+    "B": "suitable",
+    "C": "suiteable",
+    "D": "suetable"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "They were asked to choose _____ clothing for the outing."
 },
 {
   "_id": {
@@ -44,13 +44,13 @@
   "number": 3,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "truely",
+    "B": "truly",
+    "C": "truily",
+    "D": "trewly"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Fishing is _____ an exciting sport."
 },
 {
   "_id": {
@@ -62,13 +62,13 @@
   "number": 4,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "adamant",
+    "B": "eager",
+    "C": "obedient",
+    "D": "lazy"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [obstinate] pupil refused to apologise to the teacher."
 },
 {
   "_id": {
@@ -80,13 +80,13 @@
   "number": 5,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "waste",
+    "B": "protect",
+    "C": "maintain",
+    "D": "disperse"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Citizens were asked to [conserve] water."
 },
 {
   "_id": {
@@ -98,13 +98,13 @@
   "number": 6,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "jail",
+    "B": "cheat",
+    "C": "page",
+    "D": "train"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The annoucer decided to _____ to parents of the lost child."
 },
 {
   "_id": {
@@ -116,13 +116,13 @@
   "number": 7,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "stardom",
+    "B": "approval",
+    "C": "haughtiness",
+    "D": "superiority"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The young sister rose to _____ very quickly."
 },
 {
   "_id": {
@@ -134,13 +134,13 @@
   "number": 8,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "dealt",
+    "B": "dosed",
+    "C": "denied",
+    "D": "dispensed"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The drug given to the sick patient was _____ by the doctor."
 },
 {
   "_id": {
@@ -152,10 +152,10 @@
   "number": 9,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "None of the boys are coming.",
+    "B": "Jane has won the prize.",
+    "C": "He is the youngest of the two brothers.",
+    "D": "She hurted her leg."
   },
   "question_diagram": "",
   "question_text": ""
@@ -170,10 +170,10 @@
   "number": 10,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "It was him you saw there.",
+    "B": "Is she worst than her sister?",
+    "C": "To whom does this game belong?",
+    "D": "Seeta cannot run no more."
   },
   "question_diagram": "",
   "question_text": ""
@@ -188,10 +188,10 @@
   "number": 11,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "They cycled to the finishing line.",
+    "B": "Those people too bad.",
+    "C": "Gave me my portion now, please!",
+    "D": "Where did you seen that?"
   },
   "question_diagram": "",
   "question_text": ""
@@ -206,10 +206,10 @@
   "number": 12,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Jane's mother bought mangoes: cherries and plums at the market.",
+    "B": "Jane's mother bought mangoes! cherries and plums at the market.",
+    "C": "Jane's mother bought mangoes; cherries and plums at the market.",
+    "D": "Jane's mother bought mangoes, cherries and plums at the market."
   },
   "question_diagram": "",
   "question_text": ""
@@ -224,10 +224,10 @@
   "number": 13,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Were you at the concert yesterday,",
+    "B": "Were you at the concert yesterday.",
+    "C": "Were you at the concert yesterday?",
+    "D": "Were you at the concert yesterday!"
   },
   "question_diagram": "",
   "question_text": ""
@@ -242,10 +242,10 @@
   "number": 14,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The shopkeeper had these items in stock: rulers, pencils, pens and books.",
+    "B": "The shopkeeper had these items in stock. rulers, pencils, pens and books.",
+    "C": "The shopkeeper had these items in stock; rulers, pencils, pens and books.",
+    "D": "The shopkeeper had these items in stock? rulers, pencils, pens and books."
   },
   "question_diagram": "",
   "question_text": ""
@@ -260,10 +260,10 @@
   "number": 15,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "salary, salute, saint, sale, sailor",
+    "B": "sale, salute, salary, saint, sailor",
+    "C": "salary, sale, salute, sailor, saint",
+    "D": "sailor, saint, sale, salary, salute"
   },
   "question_diagram": "",
   "question_text": ""
@@ -278,13 +278,13 @@
   "number": 16,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[excitement]",
+    "B": "[delight]",
+    "C": "[floats]",
+    "D": "[approached]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Ravi and his friends felt great [excitement] and [delight] when the [floats] [approached]."
 },
 {
   "_id": {
@@ -296,13 +296,13 @@
   "number": 17,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Bend",
+    "B": "Bellboy",
+    "C": "Belittle",
+    "D": "Below"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which of these words can be found on this page?"
 },
 {
   "_id": {
@@ -314,13 +314,13 @@
   "number": 18,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "a noun.",
+    "B": "negative.",
+    "C": "neutral.",
+    "D": "a number."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The letter n at the end of the word \"bellows\" indicates that it is."
 },
 {
   "_id": {
@@ -332,13 +332,13 @@
   "number": 19,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Conjunction",
+    "B": "Adjective",
+    "C": "Noun",
+    "D": "Adverb"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Are you excited about going on [holiday]?"
 },
 {
   "_id": {
@@ -350,13 +350,13 @@
   "number": 20,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Adverb",
+    "B": "Noun",
+    "C": "Pronoun",
+    "D": "Verb"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The headteacher [chairs] that meeting."
 },
 {
   "_id": {
@@ -368,13 +368,13 @@
   "number": 21,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Pronoun",
+    "B": "Conjunction",
+    "C": "Adjective",
+    "D": "Preposition"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Sanjay threw his bag [over] the wall."
 },
 {
   "_id": {
@@ -386,13 +386,13 @@
   "number": 22,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[girls]",
+    "B": "[childrens]",
+    "C": "[instruments]",
+    "D": "[theirs]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [girls] in the [childrens] choir said the [instruments] were [theirs]."
 },
 {
   "_id": {
@@ -404,13 +404,13 @@
   "number": 23,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "[grades]",
+    "B": "[teachers]",
+    "C": "[students]",
+    "D": "[parents]"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The [grades] awarded by the [teachers] were questioned by the [students] [parents]."
 },
 {
   "_id": {
@@ -422,13 +422,13 @@
   "number": 24,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "appendix.",
+    "B": "preface.",
+    "C": "index.",
+    "D": "content."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The section that gives a brief outline is called the"
 },
 {
   "_id": {
@@ -440,13 +440,13 @@
   "number": 25,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "index.",
+    "B": "reference.",
+    "C": "glossary.",
+    "D": "forward."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "An alphabetical listing of names or subjects found at the end is called the "
 },
 {
   "_id": {
@@ -458,13 +458,13 @@
   "number": 26,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "preface.",
+    "B": "acknowledgement.",
+    "C": "foreword.",
+    "D": "introduction."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The writer thanks those who helped in the"
 },
 {
   "_id": {
@@ -476,13 +476,13 @@
   "number": 27,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Workers do not play when they are at work.",
+    "B": "The mice will not play when the cat is around.",
+    "C": "Workers neglect their duties when the supervisor is not around.",
+    "D": "The mice will always play with the cat's toys when it is not there."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "When the cat's away the mice will play."
 },
 {
   "_id": {
@@ -494,13 +494,13 @@
   "number": 28,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "The water will never be missed by its users.",
+    "B": "When something is needed it is always there.",
+    "C": "Whenever something is needed it is never there.",
+    "D": "Something is missing only when it is not available."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "We never miss the water 'til the well runs dry."
 },
 {
   "_id": {
@@ -512,13 +512,13 @@
   "number": 29,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Honest",
+    "B": "Plain spoken",
+    "C": "Hard-hearted",
+    "D": "Concerned"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The shop keeper is always [above board] when he deals with his customers."
 },
 {
   "_id": {
@@ -530,13 +530,13 @@
   "number": 30,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Give away the towel",
+    "B": "Ask for help",
+    "C": "Give up the struggle",
+    "D": "Change her opinion"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Despite the difficult situation, she refused to [throw in the towel.]"
 },
 {
   "_id": {
@@ -548,13 +548,13 @@
   "number": 31,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "on the decline.",
+    "B": "limited to few countries.",
+    "C": "not attracting many people.",
+    "D": "becoming more popular."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The first sentence shows that tourism is"
 },
 {
   "_id": {
@@ -566,13 +566,13 @@
   "number": 32,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "see vineyards covered with lava.",
+    "B": "see the volcano erupt.",
+    "C": "see how impressive the volcano was.",
+    "D": "note its snow-capped mountain peaks."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "All are reasons for the attraction of visiotrs to Etna except to"
 },
 {
   "_id": {
@@ -584,13 +584,13 @@
   "number": 33,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "in the restaurant.",
+    "B": "in open pits.",
+    "C": "using underground heat.",
+    "D": "using coals."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "According to the passage, barbeque is done"
 },
 {
   "_id": {
@@ -602,13 +602,13 @@
   "number": 34,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "A stretch of 18th century lava.",
+    "B": "Numerous small craters",
+    "C": "A lunar landscape",
+    "D": "Snow cap for 3 or 4 months"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which is not a tourist attraction of Lanzarote?"
 },
 {
   "_id": {
@@ -620,13 +620,13 @@
   "number": 35,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "volcanoes do not provide interest for tourists.",
+    "B": "Lanzarote is smaller than Mount Teide.",
+    "C": "tourists visits volcanoes only at times of eruption.",
+    "D": "restaurants are not new to volcanic areas."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "From the passage it can be said that"
 },
 {
   "_id": {
@@ -638,13 +638,13 @@
   "number": 36,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "curious.",
+    "B": "happy.",
+    "C": "hesitant.",
+    "D": "elated."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"Wonder\" in line 1 suggests that the poet is"
 },
 {
   "_id": {
@@ -656,13 +656,13 @@
   "number": 37,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Jim and kings.",
+    "B": "Jack and Jim.",
+    "C": "schoolmasters and kings.",
+    "D": "Jack and schoolmasters."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "The author's friends are"
 },
 {
   "_id": {
@@ -674,13 +674,13 @@
   "number": 38,
   "correct_option": "C",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "1 and 2",
+    "B": "4 and 5",
+    "C": "7 and 8",
+    "D": "9 and 10"
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "Which two lines suggest that the kite has great knowledge?"
 },
 {
   "_id": {
@@ -692,13 +692,13 @@
   "number": 39,
   "correct_option": "A",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "knows that kites do not talk.",
+    "B": "feels that the kite is rude.",
+    "C": "feels that kites should talk.",
+    "D": "knows that kites are silent."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "\"No, he's as quiet as can be\" in line 10 shows that the poet"
 },
 {
   "_id": {
@@ -710,11 +710,11 @@
   "number": 40,
   "correct_option": "B",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "Kites.",
+    "B": "My Kite and I.",
+    "C": "Friends.",
+    "D": "Kites in the Air."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "A most suitable title for the poem is"
 }]
