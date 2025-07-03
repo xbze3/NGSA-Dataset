@@ -14,7 +14,12 @@
     "D": "tellivision"
   },
   "question_diagram": "",
-  "question_text": "I am not allowed to watch _____ during the week."
+  "question_text": "I am not allowed to watch _____ during the week.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the correct spelling of the word to complete \neach sentence."
 },
 {
   "_id": {
@@ -32,7 +37,12 @@
     "D": "relegious"
   },
   "question_diagram": "",
-  "question_text": "Mr. Joseph is a very _____ man."
+  "question_text": "Mr. Joseph is a very _____ man.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the correct spelling of the word to complete \neach sentence."
 },
 {
   "_id": {
@@ -50,7 +60,12 @@
     "D": "cematry"
   },
   "question_diagram": "",
-  "question_text": "It can be dangerous walking through the _____ at night."
+  "question_text": "It can be dangerous walking through the _____ at night.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the correct spelling of the word to complete \neach sentence."
 },
 {
   "_id": {
@@ -68,7 +83,12 @@
     "D": "sorry"
   },
   "question_diagram": "",
-  "question_text": "John was [surprised] when he won the lottery."
+  "question_text": "John was [surprised] when he won the lottery.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that has the same meaning as the \nword underlined in each sentence."
 },
 {
   "_id": {
@@ -86,7 +106,12 @@
     "D": "friendship"
   },
   "question_diagram": "",
-  "question_text": "The great speaker advised the members of the team to strive for [unity]."
+  "question_text": "The great speaker advised the members of the team to strive for [unity].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that has the same meaning as the \nword underlined in each sentence."
 },
 {
   "_id": {
@@ -104,7 +129,12 @@
     "D": "tiny"
   },
   "question_diagram": "",
-  "question_text": "We put the [weak] baby to lie near its mother."
+  "question_text": "We put the [weak] baby to lie near its mother.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that has the same meaning as the \nword underlined in each sentence."
 },
 {
   "_id": {
@@ -122,7 +152,12 @@
     "D": "dropped"
   },
   "question_diagram": "",
-  "question_text": "The golden arrowhead must be _____ at 6:00h everyday."
+  "question_text": "The golden arrowhead must be _____ at 6:00h everyday.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 9, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -140,7 +175,12 @@
     "D": "train"
   },
   "question_diagram": "",
-  "question_text": "The dormitory was constructed to _____ two hundred children."
+  "question_text": "The dormitory was constructed to _____ two hundred children.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 9, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -158,7 +198,12 @@
     "D": "command"
   },
   "question_diagram": "",
-  "question_text": "The salegirl was unable to _____ the lady to buy the pink curtains."
+  "question_text": "The salegirl was unable to _____ the lady to buy the pink curtains.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 9, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -176,7 +221,12 @@
     "D": "tyrant"
   },
   "question_diagram": "",
-  "question_text": "Someone who uses his power to oppress others is called a _____."
+  "question_text": "Someone who uses his power to oppress others is called a _____.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 10 and 11, choose the best word to complete each statement."
 },
 {
   "_id": {
@@ -194,7 +244,12 @@
     "D": "patroit"
   },
   "question_diagram": "",
-  "question_text": "A person who goes to work while his workmates are on strike is called a _____."
+  "question_text": "A person who goes to work while his workmates are on strike is called a _____.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 10 and 11, choose the best word to complete each statement."
 },
 {
   "_id": {
@@ -212,7 +267,12 @@
     "D": "Don't you want to hear her [accent]?"
   },
   "question_diagram": "",
-  "question_text": "Judging by her [accent]. I believe that she is a Guyanese."
+  "question_text": "Judging by her [accent]. I believe that she is a Guyanese.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 12 and 13, choose the answer in which the word underlined has the same meaning as the word underlined in the sentence."
 },
 {
   "_id": {
@@ -230,7 +290,12 @@
     "D": "The [material] needed to complete the building is expensive."
   },
   "question_diagram": "",
-  "question_text": "My sweater is made of soft [material]."
+  "question_text": "My sweater is made of soft [material].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 12 and 13, choose the answer in which the word underlined has the same meaning as the word underlined in the sentence."
 },
 {
   "_id": {
@@ -248,7 +313,12 @@
     "D": "is"
   },
   "question_diagram": "",
-  "question_text": "The children _____"
+  "question_text": "The children _____",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 14 to 16, choose the correct verb for each subject."
 },
 {
   "_id": {
@@ -266,7 +336,12 @@
     "D": "plays"
   },
   "question_diagram": "",
-  "question_text": "John and his two cousins _____"
+  "question_text": "John and his two cousins _____",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 14 to 16, choose the correct verb for each subject."
 },
 {
   "_id": {
@@ -284,7 +359,12 @@
     "D": "smell"
   },
   "question_diagram": "",
-  "question_text": "The onion _____"
+  "question_text": "The onion _____",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 14 to 16, choose the correct verb for each subject."
 },
 {
   "_id": {
@@ -302,7 +382,12 @@
     "D": "adverb"
   },
   "question_diagram": "",
-  "question_text": "We"
+  "question_text": "We",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17 and 18, choose the correct function of the words underlined in the sentence."
 },
 {
   "_id": {
@@ -320,7 +405,12 @@
     "D": "preposition"
   },
   "question_diagram": "",
-  "question_text": "Well"
+  "question_text": "Well",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17 and 18, choose the correct function of the words underlined in the sentence."
 },
 {
   "_id": {
@@ -338,7 +428,12 @@
     "D": "She tell her not to go outside."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 19 to 21, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -356,7 +451,12 @@
     "D": "\"Where did he go when he left?\" asked Mother."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 19 to 21, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -374,7 +474,12 @@
     "D": "Either of the girls will come."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 19 to 21, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -392,7 +497,12 @@
     "D": "Guyana"
   },
   "question_diagram": "",
-  "question_text": "[Events] for [carifesta] were held at different [venues] throughout [Guyana]."
+  "question_text": "[Events] for [carifesta] were held at different [venues] throughout [Guyana].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 22 to 24, there is an error in capitalization. Choose the underlined word that has the error."
 },
 {
   "_id": {
@@ -410,7 +520,12 @@
     "D": "[ceremony]"
   },
   "question_diagram": "",
-  "question_text": "Different [Artistes] performed at the [National] [Stadium] during the opening [ceremony]."
+  "question_text": "Different [Artistes] performed at the [National] [Stadium] during the opening [ceremony].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 22 to 24, there is an error in capitalization. Choose the underlined word that has the error."
 },
 {
   "_id": {
@@ -428,7 +543,12 @@
     "D": "[olympics]"
   },
   "question_diagram": "",
-  "question_text": "[Every] four years a different [country] is chosen to [host] the [olympics]."
+  "question_text": "[Every] four years a different [country] is chosen to [host] the [olympics].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 22 to 24, there is an error in capitalization. Choose the underlined word that has the error."
 },
 {
   "_id": {
@@ -446,7 +566,12 @@
     "D": "Encyclopedia"
   },
   "question_diagram": "",
-  "question_text": "This is a kind of dictionary that has mostly synonyms."
+  "question_text": "This is a kind of dictionary that has mostly synonyms.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 25 and 26, choose the name of the book."
 },
 {
   "_id": {
@@ -464,7 +589,12 @@
     "D": "Catalogue"
   },
   "question_diagram": "",
-  "question_text": "It is a book which encourages us to use or buy a product."
+  "question_text": "It is a book which encourages us to use or buy a product.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 25 and 26, choose the name of the book."
 },
 {
   "_id": {
@@ -482,7 +612,12 @@
     "D": "contents"
   },
   "question_diagram": "",
-  "question_text": "A list at the front of the book that tells what the book contains."
+  "question_text": "A list at the front of the book that tells what the book contains.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 27 and 28, choose the name given to the parts of a book."
 },
 {
   "_id": {
@@ -500,7 +635,12 @@
     "D": "acknowledgement"
   },
   "question_diagram": "",
-  "question_text": "An alphabetical list of words and meanings at the end of a book."
+  "question_text": "An alphabetical list of words and meanings at the end of a book.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 27 and 28, choose the name given to the parts of a book."
 },
 {
   "_id": {
@@ -512,13 +652,18 @@
   "number": 29,
   "correct_option": "D",
   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
+    "A": "A rolling stone is a slippery stone.",
+    "B": "It is hard to catch a moving stone.",
+    "C": "Someone who is always busy gets much work done.",
+    "D": "Someone who frequently changes jobs will never be rich."
   },
   "question_diagram": "",
-  "question_text": ""
+  "question_text": "[A rolling stone gathers no mosee].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 29 and 30, choose the most suitable meaning of the underlined proverbs."
 },
 {
   "_id": {
@@ -536,7 +681,12 @@
     "D": "It is easy to cut grass when the sun is shining."
   },
   "question_diagram": "",
-  "question_text": "[Make hay while the sun shines.]"
+  "question_text": "[Make hay while the sun shines.]",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 29 and 30, choose the most suitable meaning of the underlined proverbs."
 },
 {
   "_id": {
@@ -554,7 +704,12 @@
     "D": "is ill."
   },
   "question_diagram": "",
-  "question_text": "The invalid is child who _____"
+  "question_text": "The invalid is child who _____",
+  "context": {
+    "type": "poem",
+    "content": "He comes with mother up the stair, \nAnd by my bed he takes a chair, \nAnd says in such a twinkly way, \n\"And how's the invalid today? \nHe sees my tongue, he sees my throat; \nHe has a thing inside his coat \nWith which he listens at my chest; \nAnd that is what I like the best. \nHe often makes me stay in bed, \nWhen I would rather play instead, \nAnd gives me horrid things to take, \nIn bottles that you have to shake. \nAnd yet I really never mind \nBecause he is so very kind."
+  },
+  "instruction": "Read the poem below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -572,7 +727,12 @@
     "D": "The doctor"
   },
   "question_diagram": "",
-  "question_text": "Who visits the invalid?"
+  "question_text": "Who visits the invalid?",
+  "context": {
+    "type": "poem",
+    "content": "He comes with mother up the stair, \nAnd by my bed he takes a chair, \nAnd says in such a twinkly way, \n\"And how's the invalid today? \nHe sees my tongue, he sees my throat; \nHe has a thing inside his coat \nWith which he listens at my chest; \nAnd that is what I like the best. \nHe often makes me stay in bed, \nWhen I would rather play instead, \nAnd gives me horrid things to take, \nIn bottles that you have to shake. \nAnd yet I really never mind \nBecause he is so very kind. "
+  },
+  "instruction": "Read the poem below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -590,7 +750,12 @@
     "D": "Combing his hair"
   },
   "question_diagram": "",
-  "question_text": "What is horrid to take?"
+  "question_text": "What is horrid to take?",
+  "context": {
+    "type": "poem",
+    "content": "He comes with mother up the stair, \nAnd by my bed he takes a chair, \nAnd says in such a twinkly way, \n\"And how's the invalid today? \nHe sees my tongue, he sees my throat; \nHe has a thing inside his coat \nWith which he listens at my chest; \nAnd that is what I like the best. \nHe often makes me stay in bed, \nWhen I would rather play instead, \nAnd gives me horrid things to take, \nIn bottles that you have to shake. \nAnd yet I really never mind \nBecause he is so very kind. "
+  },
+  "instruction": "Read the poem below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -608,7 +773,12 @@
     "D": "Best"
   },
   "question_diagram": "",
-  "question_text": "Which word is used to describe the visitors?"
+  "question_text": "Which word is used to describe the visitors?",
+  "context": {
+    "type": "poem",
+    "content": "He comes with mother up the stair, \nAnd by my bed he takes a chair, \nAnd says in such a twinkly way, \n\"And how's the invalid today? \nHe sees my tongue, he sees my throat; \nHe has a thing inside his coat \nWith which he listens at my chest; \nAnd that is what I like the best. \nHe often makes me stay in bed, \nWhen I would rather play instead, \nAnd gives me horrid things to take, \nIn bottles that you have to shake. \nAnd yet I really never mind \nBecause he is so very kind. "
+  },
+  "instruction": "Read the poem below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -626,7 +796,12 @@
     "D": "The Visitor."
   },
   "question_diagram": "",
-  "question_text": "The best name for the poem is _____"
+  "question_text": "The best name for the poem is _____",
+  "context": {
+    "type": "poem",
+    "content": "He comes with mother up the stair, \nAnd by my bed he takes a chair, \nAnd says in such a twinkly way, \n\"And how's the invalid today? \nHe sees my tongue, he sees my throat; \nHe has a thing inside his coat \nWith which he listens at my chest; \nAnd that is what I like the best. \nHe often makes me stay in bed, \nWhen I would rather play instead, \nAnd gives me horrid things to take, \nIn bottles that you have to shake. \nAnd yet I really never mind \nBecause he is so very kind. "
+  },
+  "instruction": "Read the poem below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -644,7 +819,12 @@
     "D": "is stored in trenches."
   },
   "question_diagram": "",
-  "question_text": "The land does not flood when it rains because the water"
+  "question_text": "The land does not flood when it rains because the water",
+  "context": {
+    "type": "passage",
+    "content": "Rainwater is carried from the hills down to the sea by rivers. If this did not \nhappen the land would be flooded. \n\nRivers often help persons to travel and transport things from one place to \nanother. That is why towns were sometimes built on the banks of large \nrivers. Riverboats and barges are used in some countries to transport \npassengers and cargo.\n\nRivers are also important to persons who live nearby and do not have \naccess to tap water in their homes. Water for drinking, cooking and \nwashing is then accessed from the river. Many farriilies depend on this \n10 ready source of water, even if they have to boil it for drinking purposes.\n \nRivers supply many persons with food such as fish and shrimp. \nFreshwater fish can also be caught from the river. They make a delicious \nmeal. \n\nSome persons just like to look at the beauty of a river, with its waterfalls, its \nrapids and its wide, calm stretches where the water is barely moving. \n\nAdapted from: Communication Tasks \nAn Integrated Approach \nby Sheila Callow & P.L. Maxwell "
+  },
+  "instruction": "Read the passage below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -662,7 +842,12 @@
     "D": "provide persons with a beautiful, peaceful scenery."
   },
   "question_diagram": "",
-  "question_text": "Some towns were built on the banks of rivers to _____"
+  "question_text": "Some towns were built on the banks of rivers to _____",
+  "context": {
+    "type": "passage",
+    "content": "Rainwater is carried from the hills down to the sea by rivers. If this did not \nhappen the land would be flooded. \n\nRivers often help persons to travel and transport things from one place to \nanother. That is why towns were sometimes built on the banks of large \nrivers. Riverboats and barges are used in some countries to transport \npassengers and cargo.\n\nRivers are also important to persons who live nearby and do not have \naccess to tap water in their homes. Water for drinking, cooking and \nwashing is then accessed from the river. Many farriilies depend on this \n10 ready source of water, even if they have to boil it for drinking purposes.\n \nRivers supply many persons with food such as fish and shrimp. \nFreshwater fish can also be caught from the river. They make a delicious \nmeal. \n\nSome persons just like to look at the beauty of a river, with its waterfalls, its \nrapids and its wide, calm stretches where the water is barely moving. \n\nAdapted from: Communication Tasks \nAn Integrated Approach \nby Sheila Callow & P.L. Maxwell "
+  },
+  "instruction": "Read the passage below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -680,7 +865,12 @@
     "D": "rain water."
   },
   "question_diagram": "",
-  "question_text": "'Tap water' in line 8 means"
+  "question_text": "'Tap water' in line 8 means",
+  "context": {
+    "type": "passage",
+    "content": "Rainwater is carried from the hills down to the sea by rivers. If this did not \nhappen the land would be flooded. \n\nRivers often help persons to travel and transport things from one place to \nanother. That is why towns were sometimes built on the banks of large \nrivers. Riverboats and barges are used in some countries to transport \npassengers and cargo.\n\nRivers are also important to persons who live nearby and do not have \naccess to tap water in their homes. Water for drinking, cooking and \nwashing is then accessed from the river. Many farriilies depend on this \n10 ready source of water, even if they have to boil it for drinking purposes.\n \nRivers supply many persons with food such as fish and shrimp. \nFreshwater fish can also be caught from the river. They make a delicious \nmeal. \n\nSome persons just like to look at the beauty of a river, with its waterfalls, its \nrapids and its wide, calm stretches where the water is barely moving. \n\nAdapted from: Communication Tasks \nAn Integrated Approach \nby Sheila Callow & P.L. Maxwell "
+  },
+  "instruction": "Read the passage below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -698,7 +888,12 @@
     "D": "Every large river has a town on its bank."
   },
   "question_diagram": "",
-  "question_text": "Which of the following is not true about rivers?"
+  "question_text": "Which of the following is not true about rivers?",
+  "context": {
+    "type": "passage",
+    "content": "Rainwater is carried from the hills down to the sea by rivers. If this did not \nhappen the land would be flooded. \n\nRivers often help persons to travel and transport things from one place to \nanother. That is why towns were sometimes built on the banks of large \nrivers. Riverboats and barges are used in some countries to transport \npassengers and cargo.\n\nRivers are also important to persons who live nearby and do not have \naccess to tap water in their homes. Water for drinking, cooking and \nwashing is then accessed from the river. Many farriilies depend on this \n10 ready source of water, even if they have to boil it for drinking purposes.\n \nRivers supply many persons with food such as fish and shrimp. \nFreshwater fish can also be caught from the river. They make a delicious \nmeal. \n\nSome persons just like to look at the beauty of a river, with its waterfalls, its \nrapids and its wide, calm stretches where the water is barely moving. \n\nAdapted from: Communication Tasks \nAn Integrated Approach \nby Sheila Callow & P.L. Maxwell "
+  },
+  "instruction": "Read the passage below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -716,5 +911,10 @@
     "D": "The beauty of the River."
   },
   "question_diagram": "",
-  "question_text": "Which is an appropriate title for the passage?"
+  "question_text": "Which is an appropriate title for the passage?",
+  "context": {
+    "type": "passage",
+    "content": "Rainwater is carried from the hills down to the sea by rivers. If this did not \nhappen the land would be flooded. \n\nRivers often help persons to travel and transport things from one place to \nanother. That is why towns were sometimes built on the banks of large \nrivers. Riverboats and barges are used in some countries to transport \npassengers and cargo.\n\nRivers are also important to persons who live nearby and do not have \naccess to tap water in their homes. Water for drinking, cooking and \nwashing is then accessed from the river. Many farriilies depend on this \n10 ready source of water, even if they have to boil it for drinking purposes.\n \nRivers supply many persons with food such as fish and shrimp. \nFreshwater fish can also be caught from the river. They make a delicious \nmeal. \n\nSome persons just like to look at the beauty of a river, with its waterfalls, its \nrapids and its wide, calm stretches where the water is barely moving. \n\nAdapted from: Communication Tasks \nAn Integrated Approach \nby Sheila Callow & P.L. Maxwell "
+  },
+  "instruction": "Read the passage below, then answer questions 36 to 40."
 }]
