@@ -6459,7 +6459,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 1 to 3 choose the correct spelling of the word to complete each sentence."
 },
 {
   "_id": {
@@ -6482,7 +6482,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 1 to 3 choose the correct spelling of the word to complete each sentence."
 },
 {
   "_id": {
@@ -6505,7 +6505,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 1 to 3 choose the correct spelling of the word to complete each sentence."
 },
 {
   "_id": {
@@ -6528,7 +6528,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 4 and 5, choose the word that is opposite in meaning to the word underlined in each sentence."
 },
 {
   "_id": {
@@ -6551,7 +6551,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 4 and 5, choose the word that is opposite in meaning to the word underlined in each sentence."
 },
 {
   "_id": {
@@ -6574,7 +6574,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 6 to 8, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -6597,7 +6597,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 6 to 8, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -6620,7 +6620,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 6 to 8, choose the best word to complete each sentence."
 },
 {
   "_id": {
@@ -6643,7 +6643,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 9 to 11, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -6666,7 +6666,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 9 to 11, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -6689,7 +6689,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 9 to 11, choose the sentence that is correctly written."
 },
 {
   "_id": {
@@ -6712,7 +6712,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 12 to 14, select the sentence which has the correct punctuation mark."
 },
 {
   "_id": {
@@ -6735,7 +6735,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 12 to 14, select the sentence which has the correct punctuation mark."
 },
 {
   "_id": {
@@ -6758,7 +6758,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 12 to 14, select the sentence which has the correct punctuation mark."
 },
 {
   "_id": {
@@ -6781,7 +6781,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 15, choose the set of words which are arranged in alphabetical order."
 },
 {
   "_id": {
@@ -6804,7 +6804,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 16, select the underlined word which has a suffix."
 },
 {
   "_id": {
@@ -6824,10 +6824,10 @@
   "question_diagram": "",
   "question_text": "Which of these words can be found on this page?",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "dictionary_snippet",
+    "content": "bell  I beloved \n• • • • • • ••••4110• ••• •••••••1111 ••••••••••••0411,••••••••••44••4114•••••••••••••••4111••• ••••••••••••• \nv. roar:at% \n• n. roar, \ncolloq. holltr. \nbellows /bell& \nstryi'..t‘Aare, trwnpetilhunder, howl, \nsing out,  LJS colloq. holler. \nshout crWdall; ;blare,  holla, howl, US \ndi a device with an air bag that emits a \nstream of air wh squeezed;-esp.: st(infull pat of bellows) \na kinct=with two _handles used for blowing. air on to a fire. \nb a kind used in a harmonium or small organ. \nExtract- Oxford Dictionary and Thesaurus"
   },
-  "instruction": ""
+  "instruction": "Select the extract from a dictionary carefully, then answer question 17 and 18."
 },
 {
   "_id": {
@@ -6847,10 +6847,10 @@
   "question_diagram": "",
   "question_text": "The letter n at the end of the word \"bellows\" indicates that it is.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "dictionary_snippet",
+    "content": "bell  I beloved \n• • • • • • ••••4110• ••• •••••••1111 ••••••••••••0411,••••••••••44••4114•••••••••••••••4111••• ••••••••••••• \nv. roar:at% \n• n. roar, \ncolloq. holltr. \nbellows /bell& \nstryi'..t‘Aare, trwnpetilhunder, howl, \nsing out,  LJS colloq. holler. \nshout crWdall; ;blare,  holla, howl, US \ndi a device with an air bag that emits a \nstream of air wh squeezed;-esp.: st(infull pat of bellows) \na kinct=with two _handles used for blowing. air on to a fire. \nb a kind used in a harmonium or small organ. \nExtract- Oxford Dictionary and Thesaurus"
   },
-  "instruction": ""
+  "instruction": "Select the extract from a dictionary carefully, then answer question 17 and 18."
 },
 {
   "_id": {
@@ -6873,7 +6873,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 19 to 21, what is the function of the word underlined?"
 },
 {
   "_id": {
@@ -6896,7 +6896,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 19 to 21, what is the function of the word underlined?"
 },
 {
   "_id": {
@@ -6919,7 +6919,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 19 to 21, what is the function of the word underlined?"
 },
 {
   "_id": {
@@ -6942,7 +6942,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 22 and 23, choose the underlined word which should have an apostrophe."
 },
 {
   "_id": {
@@ -6965,7 +6965,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 22 and 23, choose the underlined word which should have an apostrophe."
 },
 {
   "_id": {
@@ -6988,7 +6988,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 24 to 26, choose the name given to the part of the book described."
 },
 {
   "_id": {
@@ -7011,7 +7011,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 24 to 26, choose the name given to the part of the book described."
 },
 {
   "_id": {
@@ -7034,7 +7034,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 24 to 26, choose the name given to the part of the book described."
 },
 {
   "_id": {
@@ -7057,7 +7057,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 27 and 28, choose the most suitable meaning of each of the proverbs."
 },
 {
   "_id": {
@@ -7080,7 +7080,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 27 and 28, choose the most suitable meaning of each of the proverbs."
 },
 {
   "_id": {
@@ -7103,7 +7103,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 29 and 30, choose the meaning of the underlined phrase."
 },
 {
   "_id": {
@@ -7126,7 +7126,7 @@
     "type": "none",
     "content": ""
   },
-  "instruction": ""
+  "instruction": "In question 29 and 30, choose the meaning of the underlined phrase."
 },
 {
   "_id": {
@@ -7146,10 +7146,10 @@
   "question_diagram": "",
   "question_text": "The first sentence shows that tourism is",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Of ever increasing importance in many parts of the world is the tourist industry. \nThe presence of a volcano, especially if it is very large, or active, is a great advantage. \nTourists are always eager to visit the scenes of disasters, as happened on Etna in 1971, \nwhen tourists flocked to the areas where lava overran vineyards and threatened \nhouses. This volcano is also an attraction because it is so large and impressive, and \nhas snow on the summit for much of the year. Mount Teide in Tenerife is an impressive \nand even higher volcano which has a snow cap for 3 or 4 months of the year. \nLanzarote, another Canary Island, has a few tourist volcanic attractions. There is \na stretch of 18th  century lava studded with numerous small craters which resemble a \nlunar landscape. In the same area are a few hotspots where the ground is extremely \nhot. Only sixty centimetres below the surface the temperature reaches 400°C. Water \ncan be thrown into a hole and will reappear as a small geyser within seconds. \nBrushwood thrust into a hole in the ground bursts into flames almost immediately. Both \nof these localities are near a new restaurant which has an open barbeque utilising heat \nfrom subterranean sources. The restaurant is of course built on lava. \nAdapted from: Communication Tasks — An Integrated Approach by Sheila Callow and P. L. \nMaxwell"
   },
-  "instruction": ""
+  "instruction": "Read the passage below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -7169,10 +7169,10 @@
   "question_diagram": "",
   "question_text": "All are reasons for the attraction of visiotrs to Etna except to",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Of ever increasing importance in many parts of the world is the tourist industry. \nThe presence of a volcano, especially if it is very large, or active, is a great advantage. \nTourists are always eager to visit the scenes of disasters, as happened on Etna in 1971, \nwhen tourists flocked to the areas where lava overran vineyards and threatened \nhouses. This volcano is also an attraction because it is so large and impressive, and \nhas snow on the summit for much of the year. Mount Teide in Tenerife is an impressive \nand even higher volcano which has a snow cap for 3 or 4 months of the year. \nLanzarote, another Canary Island, has a few tourist volcanic attractions. There is \na stretch of 18th  century lava studded with numerous small craters which resemble a \nlunar landscape. In the same area are a few hotspots where the ground is extremely \nhot. Only sixty centimetres below the surface the temperature reaches 400°C. Water \ncan be thrown into a hole and will reappear as a small geyser within seconds. \nBrushwood thrust into a hole in the ground bursts into flames almost immediately. Both \nof these localities are near a new restaurant which has an open barbeque utilising heat \nfrom subterranean sources. The restaurant is of course built on lava. \nAdapted from: Communication Tasks — An Integrated Approach by Sheila Callow and P. L. \nMaxwell"
   },
-  "instruction": ""
+  "instruction": "Read the passage below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -7192,10 +7192,10 @@
   "question_diagram": "",
   "question_text": "According to the passage, barbeque is done",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Of ever increasing importance in many parts of the world is the tourist industry. \nThe presence of a volcano, especially if it is very large, or active, is a great advantage. \nTourists are always eager to visit the scenes of disasters, as happened on Etna in 1971, \nwhen tourists flocked to the areas where lava overran vineyards and threatened \nhouses. This volcano is also an attraction because it is so large and impressive, and \nhas snow on the summit for much of the year. Mount Teide in Tenerife is an impressive \nand even higher volcano which has a snow cap for 3 or 4 months of the year. \nLanzarote, another Canary Island, has a few tourist volcanic attractions. There is \na stretch of 18th  century lava studded with numerous small craters which resemble a \nlunar landscape. In the same area are a few hotspots where the ground is extremely \nhot. Only sixty centimetres below the surface the temperature reaches 400°C. Water \ncan be thrown into a hole and will reappear as a small geyser within seconds. \nBrushwood thrust into a hole in the ground bursts into flames almost immediately. Both \nof these localities are near a new restaurant which has an open barbeque utilising heat \nfrom subterranean sources. The restaurant is of course built on lava. \nAdapted from: Communication Tasks — An Integrated Approach by Sheila Callow and P. L. \nMaxwell"
   },
-  "instruction": ""
+  "instruction": "Read the passage below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -7215,10 +7215,10 @@
   "question_diagram": "",
   "question_text": "Which is not a tourist attraction of Lanzarote?",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Of ever increasing importance in many parts of the world is the tourist industry. \nThe presence of a volcano, especially if it is very large, or active, is a great advantage. \nTourists are always eager to visit the scenes of disasters, as happened on Etna in 1971, \nwhen tourists flocked to the areas where lava overran vineyards and threatened \nhouses. This volcano is also an attraction because it is so large and impressive, and \nhas snow on the summit for much of the year. Mount Teide in Tenerife is an impressive \nand even higher volcano which has a snow cap for 3 or 4 months of the year. \nLanzarote, another Canary Island, has a few tourist volcanic attractions. There is \na stretch of 18th  century lava studded with numerous small craters which resemble a \nlunar landscape. In the same area are a few hotspots where the ground is extremely \nhot. Only sixty centimetres below the surface the temperature reaches 400°C. Water \ncan be thrown into a hole and will reappear as a small geyser within seconds. \nBrushwood thrust into a hole in the ground bursts into flames almost immediately. Both \nof these localities are near a new restaurant which has an open barbeque utilising heat \nfrom subterranean sources. The restaurant is of course built on lava. \nAdapted from: Communication Tasks — An Integrated Approach by Sheila Callow and P. L. \nMaxwell"
   },
-  "instruction": ""
+  "instruction": "Read the passage below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -7238,10 +7238,10 @@
   "question_diagram": "",
   "question_text": "From the passage it can be said that",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Of ever increasing importance in many parts of the world is the tourist industry. \nThe presence of a volcano, especially if it is very large, or active, is a great advantage. \nTourists are always eager to visit the scenes of disasters, as happened on Etna in 1971, \nwhen tourists flocked to the areas where lava overran vineyards and threatened \nhouses. This volcano is also an attraction because it is so large and impressive, and \nhas snow on the summit for much of the year. Mount Teide in Tenerife is an impressive \nand even higher volcano which has a snow cap for 3 or 4 months of the year. \nLanzarote, another Canary Island, has a few tourist volcanic attractions. There is \na stretch of 18th  century lava studded with numerous small craters which resemble a \nlunar landscape. In the same area are a few hotspots where the ground is extremely \nhot. Only sixty centimetres below the surface the temperature reaches 400°C. Water \ncan be thrown into a hole and will reappear as a small geyser within seconds. \nBrushwood thrust into a hole in the ground bursts into flames almost immediately. Both \nof these localities are near a new restaurant which has an open barbeque utilising heat \nfrom subterranean sources. The restaurant is of course built on lava. \nAdapted from: Communication Tasks — An Integrated Approach by Sheila Callow and P. L. \nMaxwell"
   },
-  "instruction": ""
+  "instruction": "Read the passage below, then answer questions 31 to 35."
 },
 {
   "_id": {
@@ -7261,10 +7261,10 @@
   "question_diagram": "",
   "question_text": "\"Wonder\" in line 1 suggests that the poet is",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "poem",
+    "content": "I wonder what my kite can see, \nSo high above the world and me; \nAnd if the birds are friends to him, \n4 \n8 \nAs I am friends with Jack and Jim, \nAnd are the clouds just really rain, \nThat melts and pours all down again? \nOh! he must know a thousand things, \nAs much as schoolmasters, and kings; \nBut will he breathe a word to me? \nNo, he's as quiet as quiet can be. \n100 Comprehensive Exercises - by Harry Subnaik and Reginald Charran"
   },
-  "instruction": ""
+  "instruction": "Read the poem below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -7284,10 +7284,10 @@
   "question_diagram": "",
   "question_text": "The author's friends are",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "poem",
+    "content": "I wonder what my kite can see, \nSo high above the world and me; \nAnd if the birds are friends to him, \n4 \n8 \nAs I am friends with Jack and Jim, \nAnd are the clouds just really rain, \nThat melts and pours all down again? \nOh! he must know a thousand things, \nAs much as schoolmasters, and kings; \nBut will he breathe a word to me? \nNo, he's as quiet as quiet can be. \n100 Comprehensive Exercises - by Harry Subnaik and Reginald Charran"
   },
-  "instruction": ""
+  "instruction": "Read the poem below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -7307,10 +7307,10 @@
   "question_diagram": "",
   "question_text": "Which two lines suggest that the kite has great knowledge?",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "poem",
+    "content": "I wonder what my kite can see, \nSo high above the world and me; \nAnd if the birds are friends to him, \n4 \n8 \nAs I am friends with Jack and Jim, \nAnd are the clouds just really rain, \nThat melts and pours all down again? \nOh! he must know a thousand things, \nAs much as schoolmasters, and kings; \nBut will he breathe a word to me? \nNo, he's as quiet as quiet can be. \n100 Comprehensive Exercises - by Harry Subnaik and Reginald Charran"
   },
-  "instruction": ""
+  "instruction": "Read the poem below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -7330,10 +7330,10 @@
   "question_diagram": "",
   "question_text": "\"No, he's as quiet as can be\" in line 10 shows that the poet",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "poem",
+    "content": "I wonder what my kite can see, \nSo high above the world and me; \nAnd if the birds are friends to him, \n4 \n8 \nAs I am friends with Jack and Jim, \nAnd are the clouds just really rain, \nThat melts and pours all down again? \nOh! he must know a thousand things, \nAs much as schoolmasters, and kings; \nBut will he breathe a word to me? \nNo, he's as quiet as quiet can be. \n100 Comprehensive Exercises - by Harry Subnaik and Reginald Charran"
   },
-  "instruction": ""
+  "instruction": "Read the poem below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -7353,10 +7353,10 @@
   "question_diagram": "",
   "question_text": "A most suitable title for the poem is",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "poem",
+    "content": "I wonder what my kite can see, \nSo high above the world and me; \nAnd if the birds are friends to him, \n4 \n8 \nAs I am friends with Jack and Jim, \nAnd are the clouds just really rain, \nThat melts and pours all down again? \nOh! he must know a thousand things, \nAs much as schoolmasters, and kings; \nBut will he breathe a word to me? \nNo, he's as quiet as quiet can be. \n100 Comprehensive Exercises - by Harry Subnaik and Reginald Charran"
   },
-  "instruction": ""
+  "instruction": "Read the poem below, then answer questions 36 to 40."
 },
 {
   "_id": {
@@ -8295,7 +8295,7 @@
     "D": "edieble."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 1 and 2, choose the correct spelling of the word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8318,7 +8318,7 @@
     "D": "celebrate"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 1 and 2, choose the correct spelling of the word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8341,7 +8341,7 @@
     "D": "clerk."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8364,7 +8364,7 @@
     "D": "judge"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8387,7 +8387,7 @@
     "D": "founder"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8410,7 +8410,7 @@
     "D": "rare"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8433,7 +8433,7 @@
     "D": "collapse"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8456,7 +8456,7 @@
     "D": "gain"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
@@ -8479,7 +8479,7 @@
     "D": "preposition"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
@@ -8502,7 +8502,7 @@
     "D": "noun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
@@ -8525,7 +8525,7 @@
     "D": "pronoun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
@@ -8548,7 +8548,7 @@
     "D": "noun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
@@ -8571,7 +8571,7 @@
     "D": "blessed"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 13 and 14, choose the word that is opposite in meaning to the word underlined.",
   "context": {
     "type": "none",
     "content": ""
@@ -8594,7 +8594,7 @@
     "D": "bright"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 13 and 14, choose the word that is opposite in meaning to the word underlined.",
   "context": {
     "type": "none",
     "content": ""
@@ -8617,7 +8617,7 @@
     "D": "\"I have given the book to Joy\", said the teacher."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 15 and 16, identify the sentence in which a punctuation mark or a capital letter is left out.",
   "context": {
     "type": "none",
     "content": ""
@@ -8640,7 +8640,7 @@
     "D": "Do you have the key for the door?"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 15 and 16, identify the sentence in which a punctuation mark or a capital letter is left out.",
   "context": {
     "type": "none",
     "content": ""
@@ -8663,7 +8663,7 @@
     "D": "Today we will learning a new song in class. "
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
@@ -8686,7 +8686,7 @@
     "D": "Either the teacher nor the parent attended the Prize Giving Ceremony. "
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
@@ -8709,7 +8709,7 @@
     "D": "Between you and I, we will share the cookies."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
@@ -8732,7 +8732,7 @@
     "D": "I did not enjoy my holiday because I did not going anywhere of interest."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
@@ -8755,7 +8755,7 @@
     "D": "[dresses]"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 21 and 22, choose the underlined word which should have an apostrophe.",
   "context": {
     "type": "none",
     "content": ""
@@ -8778,7 +8778,7 @@
     "D": "[Guild]"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 21 and 22, choose the underlined word which should have an apostrophe.",
   "context": {
     "type": "none",
     "content": ""
@@ -8801,7 +8801,7 @@
     "D": "stitch both ends together"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
@@ -8824,7 +8824,7 @@
     "D": "boasted about himself"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
@@ -8847,7 +8847,7 @@
     "D": "fight with each other"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
@@ -8870,7 +8870,7 @@
     "D": "Carl Wong, John Dey, Andy Smith, Kumar Persaud"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 26 and 27 select the correct order in which the names should appear in the telephone directory.",
   "context": {
     "type": "none",
     "content": ""
@@ -8893,7 +8893,7 @@
     "D": "Ann Duncan, John Dover, Michael Dass, Pam Dyer"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 26 and 27 select the correct order in which the names should appear in the telephone directory.",
   "context": {
     "type": "none",
     "content": ""
@@ -8916,7 +8916,7 @@
     "D": "hair"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
@@ -8939,7 +8939,7 @@
     "D": "pair"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
@@ -8962,7 +8962,7 @@
     "D": "bear."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
@@ -8985,10 +8985,10 @@
     "D": "an uncaring government."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -9008,10 +9008,10 @@
     "D": "making the rich richer."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -9031,10 +9031,10 @@
     "D": "the open."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -9054,10 +9054,10 @@
     "D": "help."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -9077,10 +9077,10 @@
     "D": "not eating."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -9092,18 +9092,18 @@
   },
   "number": 36,
   "correct_option": "B",
-  "question_text": "",
+  "question_text": "In which chapter can we find information on Mosques and Mandirs?",
   "options": {
     "A": "1",
     "B": "2",
     "C": "3",
     "D": "4"
   },
-  "question_diagram": "In which chapter can we find information on Mosques and Mandirs?",
-  "instruction": "",
+  "question_diagram": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -9123,10 +9123,10 @@
     "D": "An Amerindian Folk Tale."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -9146,10 +9146,10 @@
     "D": "3"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -9169,10 +9169,10 @@
     "D": "40"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -9192,9 +9192,9 @@
     "D": "meaning of difficult words."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 }]

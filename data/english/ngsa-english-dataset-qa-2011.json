@@ -15,15 +15,10 @@
     "D": "edieble."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 1 and 2, choose the correct spelling of the word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -43,15 +38,10 @@
     "D": "celebrate"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 1 and 2, choose the correct spelling of the word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -71,15 +61,10 @@
     "D": "clerk."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -99,15 +84,10 @@
     "D": "judge"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -127,15 +107,10 @@
     "D": "founder"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In questions 3 to 5, choose the best word to complete each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -155,15 +130,10 @@
     "D": "rare"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -183,15 +153,10 @@
     "D": "collapse"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -211,15 +176,10 @@
     "D": "gain"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the word that is similar in meaning to the underlined word in each sentence.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -239,15 +199,10 @@
     "D": "preposition"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -267,15 +222,10 @@
     "D": "noun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -295,15 +245,10 @@
     "D": "pronoun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -323,15 +268,10 @@
     "D": "noun"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In sentence 9 to 12, what is the function of the word underlined in each sentence?",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -351,15 +291,10 @@
     "D": "blessed"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 13 and 14, choose the word that is opposite in meaning to the word underlined.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -379,15 +314,10 @@
     "D": "bright"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 13 and 14, choose the word that is opposite in meaning to the word underlined.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -407,15 +337,10 @@
     "D": "\"I have given the book to Joy\", said the teacher."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 15 and 16, identify the sentence in which a punctuation mark or a capital letter is left out.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -435,15 +360,10 @@
     "D": "Do you have the key for the door?"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 15 and 16, identify the sentence in which a punctuation mark or a capital letter is left out.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -463,15 +383,10 @@
     "D": "Today we will learning a new song in class. "
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -491,15 +406,10 @@
     "D": "Either the teacher nor the parent attended the Prize Giving Ceremony. "
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -519,15 +429,10 @@
     "D": "Between you and I, we will share the cookies."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -547,15 +452,10 @@
     "D": "I did not enjoy my holiday because I did not going anywhere of interest."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 17 to 20, identify the sentence that is correctly written.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -575,15 +475,10 @@
     "D": "[dresses]"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 21 and 22, choose the underlined word which should have an apostrophe.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -603,15 +498,10 @@
     "D": "[Guild]"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 21 and 22, choose the underlined word which should have an apostrophe.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -631,15 +521,10 @@
     "D": "stitch both ends together"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -659,15 +544,10 @@
     "D": "boasted about himself"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -687,15 +567,10 @@
     "D": "fight with each other"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 23 to 25, choose the meaning of the underlined phrase.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -715,15 +590,10 @@
     "D": "Carl Wong, John Dey, Andy Smith, Kumar Persaud"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 26 and 27 select the correct order in which the names should appear in the telephone directory.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -743,15 +613,10 @@
     "D": "Ann Duncan, John Dover, Michael Dass, Pam Dyer"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "In question 26 and 27 select the correct order in which the names should appear in the telephone directory.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -771,15 +636,10 @@
     "D": "hair"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -799,15 +659,10 @@
     "D": "pair"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -827,15 +682,10 @@
     "D": "bear."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Choose the correct word to complete each sentence in question 28 to 30.",
   "context": {
     "type": "none",
     "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
   }
 },
 {
@@ -855,15 +705,10 @@
     "D": "an uncaring government."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": true,
-    "source_reference": null
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -883,15 +728,10 @@
     "D": "making the rich richer."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": true,
-    "source_reference": null
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -911,15 +751,10 @@
     "D": "the open."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": true,
-    "source_reference": null
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -939,15 +774,10 @@
     "D": "help."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": true,
-    "source_reference": null
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -967,15 +797,10 @@
     "D": "not eating."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Read the passage below, then answer the questions 31 to 35.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": true,
-    "source_reference": null
+    "type": "passage",
+    "content": "Crab Town is a land of contrast. It is a beautiful country with \nwealthy people. However, while some people live in fancy \nhouses and drive luxurious cars, many children are not so \nfortunate. There are those who suffer from malnutrition since \nthe only food they have to eat is what they get out of garbage \nbins. Some of them do not even own a pair of shoes. These \nare the children who have never been to school since they \nhave been abandoned by their parents. They are the ones \nwho use the pavement for their pillows and the sky for a roof \nover their heads. They have no real home life and are crying \nout for help. Who will help them? [Adapted from \nMultiple Choice Test for \nCommon Entrance]"
   }
 },
 {
@@ -987,23 +812,18 @@
   },
   "number": 36,
   "correct_option": "B",
-  "question_text": "",
+  "question_text": "In which chapter can we find information on Mosques and Mandirs?",
   "options": {
     "A": "1",
     "B": "2",
     "C": "3",
     "D": "4"
   },
-  "question_diagram": "In which chapter can we find information on Mosques and Mandirs?",
-  "instruction": "",
+  "question_diagram": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -1023,15 +843,10 @@
     "D": "An Amerindian Folk Tale."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -1051,15 +866,10 @@
     "D": "3"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -1079,15 +889,10 @@
     "D": "40"
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 },
 {
@@ -1107,14 +912,9 @@
     "D": "meaning of difficult words."
   },
   "question_diagram": "",
-  "instruction": "",
+  "instruction": "Study the Table of Contents below, then answer questions 36 to 40.",
   "context": {
-    "type": "none",
-    "content": ""
-  },
-  "meta": {
-    "has_diagram": false,
-    "has_passage": false,
-    "source_reference": null
+    "type": "passage",
+    "content": "Chapter \nI \n2 \n3 \n4 \n5 \n6 \nFamous Guyanese \nWorship \nAn Amerindian Folk Tale \nLet's Write Poems \nPopulation Census \nReview \nPage \n2 \n13 \n18 \n25 \n32 \n40"
   }
 }]
