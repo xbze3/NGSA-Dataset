@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "66d0d0020000000000000001"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 1,
+  "correct_option": "A",
+  "options": {
+    "A": "photographer",
+    "B": "photographor",
+    "C": "photographer",
+    "D": "photagraphor"
+  },
+  "question_diagram": "",
+  "question_text": "The _____ puts a lot of time and thought in arranging the subject for his pictures.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the word that is correctly spelt to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000002"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 2,
+  "correct_option": "D",
+  "options": {
+    "A": "secratry",
+    "B": "secatary",
+    "C": "secratery",
+    "D": "secretary"
+  },
+  "question_diagram": "",
+  "question_text": "The manager asked his _____ to reply to the letter.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the word that is correctly spelt to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000003"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 3,
+  "correct_option": "B",
+  "options": {
+    "A": "celibrates",
+    "B": "celebrates",
+    "C": "celabrates",
+    "D": "cellebrates"
+  },
+  "question_diagram": "",
+  "question_text": "This year, Guyana _____ fifty years of independence.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 1 to 3, choose the word that is correctly spelt to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000004"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 4,
+  "correct_option": "D",
+  "options": {
+    "A": "proud",
+    "B": "violent",
+    "C": "friendly",
+    "D": "childish"
+  },
+  "question_diagram": "",
+  "question_text": "Mr. King's [infantile] behavious surprised everyone.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that means the same as the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000005"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 5,
+  "correct_option": "C",
+  "options": {
+    "A": "deny",
+    "B": "hide",
+    "C": "confirm",
+    "D": "disprove"
+  },
+  "question_diagram": "",
+  "question_text": "Mrs. Jones did not need to [verify] Shari's story as she knows her well.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that means the same as the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000006"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 6,
+  "correct_option": "A",
+  "options": {
+    "A": "shy",
+    "B": "quiet",
+    "C": "brave",
+    "D": "playful"
+  },
+  "question_diagram": "",
+  "question_text": "The [timid] boy refused to speak to the stranger.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 4 to 6, choose the word that means the same as the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000007"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 7,
+  "correct_option": "B",
+  "options": {
+    "A": "angry",
+    "B": "agreeable",
+    "C": "unhappy",
+    "D": "reluctant"
+  },
+  "question_diagram": "",
+  "question_text": "When asked to run an errand, Raj's response is always kind and _____.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 10, choose the MOST appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000008"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 8,
+  "correct_option": "B",
+  "options": {
+    "A": "happy",
+    "B": "mocking",
+    "C": "pleasant",
+    "D": "complaining"
+  },
+  "question_diagram": "",
+  "question_text": "The boxer was unmoved by the teasing and _____ remarks from his opponent.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 10, choose the MOST appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000009"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 9,
+  "correct_option": "D",
+  "options": {
+    "A": "ruthless",
+    "B": "reckless",
+    "C": "careless",
+    "D": "sensible"
+  },
+  "question_diagram": "",
+  "question_text": "The _____ businessman invested his money wisely and so made a huge profit.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 10, choose the MOST appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 10,
+  "correct_option": "C",
+  "options": {
+    "A": "new",
+    "B": "model",
+    "C": "antique",
+    "D": "mahogany"
+  },
+  "question_diagram": "",
+  "question_text": "Because of age, style and other factors _____ furniture is sometimes more expensive than modern types.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 7 to 10, choose the MOST appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 11,
+  "correct_option": "A",
+  "options": {
+    "A": "a diary",
+    "B": "an album",
+    "C": "a directory",
+    "D": "an encyclopaedia"
+  },
+  "question_diagram": "",
+  "question_text": "Ken bought [a book in which to record each day's events.]",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 11 and 12, choose the MOST suitable word to replacce the underlined phrase in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 12,
+  "correct_option": "C",
+  "options": {
+    "A": "is light",
+    "B": "is solid",
+    "C": "is fragile",
+    "D": "is transparent"
+  },
+  "question_diagram": "",
+  "question_text": "The vase Ms. Persaud bought [can be easily broken.]",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 11 and 12, choose the MOST suitable word to replacce the underlined phrase in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 13,
+  "correct_option": "D",
+  "options": {
+    "A": "Do not engage in gossip.",
+    "B": "Do not touch a dog that is sleeping.",
+    "C": "Allow quiet persons to remain silent.",
+    "D": "Avoid talking about past misfortunes."
+  },
+  "question_diagram": "",
+  "question_text": "Let sleeping dogs lie.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 13 and 14, choose the MOST suitable meaning of each proverb."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 14,
+  "correct_option": "D",
+  "options": {
+    "A": "Meat could become poisonous.",
+    "B": "Food that is good can be unhealthy.",
+    "C": "A person's success can lead to his failure.",
+    "D": "People do not necessarily appreciate the same things."
+  },
+  "question_diagram": "",
+  "question_text": "One man's meat is another man's posion.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 13 and 14, choose the MOST suitable meaning of each proverb."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000000f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 15,
+  "correct_option": "C",
+  "options": {
+    "A": "induce",
+    "B": "indolent",
+    "C": "industry",
+    "D": "individual"
+  },
+  "question_diagram": "",
+  "question_text": "indicate - indulge",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 15 and 16, the guide words in bold print for each question are found at the top of a dictionary page.\n\nChoose the word which will NOT be found on the page with the given guide words."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000010"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 16,
+  "correct_option": "D",
+  "options": {
+    "A": "hose",
+    "B": "horn",
+    "C": "hoop",
+    "D": "honour"
+  },
+  "question_diagram": "",
+  "question_text": "honest - horse",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 15 and 16, the guide words in bold print for each question are found at the top of a dictionary page.\n\nChoose the word which will NOT be found on the page with the given guide words."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000011"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 17,
+  "correct_option": "A",
+  "options": {
+    "A": "Adverb",
+    "B": "Adjective",
+    "C": "Conjunction",
+    "D": "Preposition"
+  },
+  "question_diagram": "",
+  "question_text": "The house was [badly] damaged.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17-20, choose the part of speech of the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000012"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 18,
+  "correct_option": "C",
+  "options": {
+    "A": "Verb",
+    "B": "Adjective",
+    "C": "Preposition",
+    "D": "Conjunction"
+  },
+  "question_diagram": "",
+  "question_text": "We divided the sweets [among] our three friends.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17-20, choose the part of speech of the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000013"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 19,
+  "correct_option": "A",
+  "options": {
+    "A": "Noun",
+    "B": "Pronoun",
+    "C": "Preposition",
+    "D": "Conjunction"
+  },
+  "question_diagram": "",
+  "question_text": "The teacher was known for the [kindness] she showed to her students.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17-20, choose the part of speech of the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000014"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 20,
+  "correct_option": "C",
+  "options": {
+    "A": "Noun",
+    "B": "Adverb",
+    "C": "Pronoun",
+    "D": "Adjective"
+  },
+  "question_diagram": "",
+  "question_text": "The headmaster praised [them] for their good behaviour.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 17-20, choose the part of speech of the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000015"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 21,
+  "correct_option": "D",
+  "options": {
+    "A": "Past",
+    "B": "Future",
+    "C": "Perfect",
+    "D": "Present"
+  },
+  "question_diagram": "",
+  "question_text": "The housewife [goes] to the bakery to buy fresh bread.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 21-23, choose the tense of the underlined verb in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000016"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 22,
+  "correct_option": "A",
+  "options": {
+    "A": "Past",
+    "B": "Future",
+    "C": "Present",
+    "D": "Past Perfect"
+  },
+  "question_diagram": "",
+  "question_text": "The tired labourer [slept] soundly under the tree.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 21-23, choose the tense of the underlined verb in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000017"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 23,
+  "correct_option": "B",
+  "options": {
+    "A": "Past",
+    "B": "Future",
+    "C": "Perfect",
+    "D": "Present"
+  },
+  "question_diagram": "",
+  "question_text": "We [will go] to the back-dam when the weather is better.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 21-23, choose the tense of the underlined verb in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000018"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 24,
+  "correct_option": "A",
+  "options": {
+    "A": "show",
+    "B": "appreciation",
+    "C": "valiant",
+    "D": "effort"
+  },
+  "question_diagram": "",
+  "question_text": "Mr. Singh should [show] [appreciation] for the [valiant] [effort].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 24 and 25, choose the underlined word in each sentence that has a suffix."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000019"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 25,
+  "correct_option": "D",
+  "options": {
+    "A": "daughter",
+    "B": "admire",
+    "C": "complex",
+    "D": "movements"
+  },
+  "question_diagram": "",
+  "question_text": "My [daughter] like to [admire] the group's [complex] [movements].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "In questions 24 and 25, choose the underlined word in each sentence that has a suffix."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 26,
+  "correct_option": "B",
+  "options": {
+    "A": "How much does that lovely dress cost!",
+    "B": "How much does that lovely dress cost?",
+    "C": "How much does that lovely dress cost.",
+    "D": "How much, does that lovely dress cost?"
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which punctuation marks are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 27,
+  "correct_option": "B",
+  "options": {
+    "A": "\"Someone stole my new iPad! Sita cried.\"",
+    "B": "\"Someone stole my new iPad!\" Sita cried.",
+    "C": "\"Someone stole my new iPad. Sita cried.\"",
+    "D": "\"Someone stole my new iPad! Sita,\" cried."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which punctuation marks are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 28,
+  "correct_option": "C",
+  "options": {
+    "A": "Jonny? will you please close the door.",
+    "B": "Jonny will you please close the door!",
+    "C": "Jonny, will you please close the door.",
+    "D": "Jonny will you please close the door."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which punctuation marks are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 29,
+  "correct_option": "A",
+  "options": {
+    "A": "The children's clothes were left outside on the line.",
+    "B": "The childrens' clothes were left outside on the line.",
+    "C": "The childrens clothes' were left outside on the line.",
+    "D": "The childrens clothes were left outside on the line."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which punctuation marks are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 30,
+  "correct_option": "A",
+  "options": {
+    "A": "2, 4, 1, 3",
+    "B": "3, 4, 1, 2",
+    "C": "3, 1, 2, 4",
+    "D": "4, 3, 4, 2"
+  },
+  "question_diagram": "",
+  "question_text": "1. Just then a car came by.\n\n2. When I was out walking with the dog, Pepper, an unusual thing happened.\n\n3. The driver saw him and slammed on his brakes.\n\n4. He saw a cat and darted across the road.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "The sentences below, numbered 1, 2, 3, and 4 make up a paragraph. Choose the arrangement which makes the BEST paragraph."
+},
+{
+  "_id": {
+    "$oid": "66d0d002000000000000001f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 31,
+  "correct_option": "B",
+  "options": {
+    "A": "In the yard",
+    "B": "In the kitchen",
+    "C": "In the beams",
+    "D": "On the electric wire"
+  },
+  "question_diagram": "",
+  "question_text": "Where did the fire start?",
+  "context": {
+    "type": "poem",
+    "content": "Fire \n\nFire! Fire! A house is on fire! \nDon't go near the electrical wire! \nBlack smoke pollutes the air \nIt's the old lady's house I do fear. \nYellow and red flames eat hungrily \nAs they dance on rapidly. \nCrack! Crack! As beams crash \nThe bucket brigade in panic dash. \nOnlookers their heads upraised \nWait anxiously while fires rage. \nFire engines come with blaring sirens \nToo late! Too late! Debris and ruins. \nNever cook and take a nap \nThis will surely cause mishap \nAlways be on the alert \nSo a fire you can avert. \n\nClaudith Thompson"
+  },
+  "instruction": "Read the poem below carefully, then asnwer Questions 31 to 35."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000020"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 32,
+  "correct_option": "B",
+  "options": {
+    "A": "anger",
+    "B": "anxiety",
+    "C": "sadness",
+    "D": "disappointment"
+  },
+  "question_diagram": "",
+  "question_text": "The line, \"Fire! Fire! A house is on fire!\" gives a feeling of _____.",
+  "context": {
+    "type": "poem",
+    "content": "Fire \n\nFire! Fire! A house is on fire! \nDon't go near the electrical wire! \nBlack smoke pollutes the air \nIt's the old lady's house I do fear. \nYellow and red flames eat hungrily \nAs they dance on rapidly. \nCrack! Crack! As beams crash \nThe bucket brigade in panic dash. \nOnlookers their heads upraised \nWait anxiously while fires rage. \nFire engines come with blaring sirens \nToo late! Too late! Debris and ruins. \nNever cook and take a nap \nThis will surely cause mishap \nAlways be on the alert \nSo a fire you can avert. \n\nClaudith Thompson"
+  },
+  "instruction": "Read the poem below carefully, then asnwer Questions 31 to 35."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000021"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 33,
+  "correct_option": "D",
+  "options": {
+    "A": "\"Black smoke pollutes the air\" (line 3)",
+    "B": "\"The bucket brigade in panic dash\" (line 8)",
+    "C": "\"Fire engines come with blaring sirens\" (line 11)",
+    "D": "\"Too late! Too late! Debris and ruins\" (line 12)"
+  },
+  "question_diagram": "",
+  "question_text": "Which line of the poem tells us that the house was completly burnt?",
+  "context": {
+    "type": "poem",
+    "content": "Fire \n\nFire! Fire! A house is on fire! \nDon't go near the electrical wire! \nBlack smoke pollutes the air \nIt's the old lady's house I do fear. \nYellow and red flames eat hungrily \nAs they dance on rapidly. \nCrack! Crack! As beams crash \nThe bucket brigade in panic dash. \nOnlookers their heads upraised \nWait anxiously while fires rage. \nFire engines come with blaring sirens \nToo late! Too late! Debris and ruins. \nNever cook and take a nap \nThis will surely cause mishap \nAlways be on the alert \nSo a fire you can avert. \n\nClaudith Thompson"
+  },
+  "instruction": "Read the poem below carefully, then asnwer Questions 31 to 35."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000022"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 34,
+  "correct_option": "B",
+  "options": {
+    "A": "1 and 2",
+    "B": "5 and 6",
+    "C": "9 and 10",
+    "D": "11 and 12"
+  },
+  "question_diagram": "",
+  "question_text": "Which lines of the poem show the fire behaving like a human being?",
+  "context": {
+    "type": "poem",
+    "content": "Fire \n\nFire! Fire! A house is on fire! \nDon't go near the electrical wire! \nBlack smoke pollutes the air \nIt's the old lady's house I do fear. \nYellow and red flames eat hungrily \nAs they dance on rapidly. \nCrack! Crack! As beams crash \nThe bucket brigade in panic dash. \nOnlookers their heads upraised \nWait anxiously while fires rage. \nFire engines come with blaring sirens \nToo late! Too late! Debris and ruins. \nNever cook and take a nap \nThis will surely cause mishap \nAlways be on the alert \nSo a fire you can avert. \n\nClaudith Thompson"
+  },
+  "instruction": "Read the poem below carefully, then asnwer Questions 31 to 35."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000023"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 35,
+  "correct_option": "D",
+  "options": {
+    "A": "Old ladies should not live alone.",
+    "B": "A bucket brigade is never helpful.",
+    "C": "Fire engines always arrive too late.",
+    "D": "One should never sleep while cooking."
+  },
+  "question_diagram": "",
+  "question_text": "What message does the poet convery?",
+  "context": {
+    "type": "poem",
+    "content": "Fire \n\nFire! Fire! A house is on fire! \nDon't go near the electrical wire! \nBlack smoke pollutes the air \nIt's the old lady's house I do fear. \nYellow and red flames eat hungrily \nAs they dance on rapidly. \nCrack! Crack! As beams crash \nThe bucket brigade in panic dash. \nOnlookers their heads upraised \nWait anxiously while fires rage. \nFire engines come with blaring sirens \nToo late! Too late! Debris and ruins. \nNever cook and take a nap \nThis will surely cause mishap \nAlways be on the alert \nSo a fire you can avert. \n\nClaudith Thompson"
+  },
+  "instruction": "Read the poem below carefully, then asnwer Questions 31 to 35."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000024"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 36,
+  "correct_option": "A",
+  "options": {
+    "A": "fit (line 3)",
+    "B": "adorn (line 3)",
+    "C": "coloured (line 2)",
+    "D": "sparkling (line 2)"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following words from the first passage tells us that the hummingbird moves very quickly?",
+  "context": {
+    "type": "passage",
+    "content": "Hummingbirds \n\nThe most beautiful hummingbirds are found in the West Indies and South America. The crest \non the tiny heads of these birds shine like a sparkling crown of coloured light. The shades of \ncolour that adorn their breasts are equally brilliant. As the birds flit from one object to another, \n.they look more like a bright flash of sunlight than living beings. \nBut, you ask, why are they called hummingbirds? It is because of the soft, humming noise \nmade as they rapidly flap their wings- a motion so swift, that as the birds fly, you can hardly \nsee that they have wings. \nHummingbirds place their nests so that they are very hard to find. These birds' nests are \nusually about half the size of a very small hen's egg, and are attached to a twig no thicker \nthan a steel knitting needle. They seem to be made of cotton fibres and are covered with the \nsoftest bits of leaf and bark. Hummingbirds usually lay two eggs in their nests, and each is \nabout the size of a small plum. \nOne needs to be careful when approaching the spot where a hummingbird has built its nest as \nthe female is very protective of her home. She is known to dart at unwelcomed guests and try \nto peck at their eyes. The female's sharp beak may hurt the eyes most severely, and could \neven destroy the sight. The poor little thing knows no other way of defending its young, and \ninstinct teaches it that unwelcomed guests might carry off its nest. \n\nAdapted from www.k5/earning.com. \nRetrieved 15 February 2016. "
+  },
+  "instruction": "Read the passage below carefully, then answer Questions 36 to 40."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000025"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 37,
+  "correct_option": "D",
+  "options": {
+    "A": "objects",
+    "B": "lightning",
+    "C": "living beings",
+    "D": "a flash of sunlight"
+  },
+  "question_diagram": "",
+  "question_text": "In line 4, hummingbirds are compared to _____.",
+  "context": {
+    "type": "passage",
+    "content": "Hummingbirds \n\nThe most beautiful hummingbirds are found in the West Indies and South America. The crest \non the tiny heads of these birds shine like a sparkling crown of coloured light. The shades of \ncolour that adorn their breasts are equally brilliant. As the birds flit from one object to another, \n.they look more like a bright flash of sunlight than living beings. \nBut, you ask, why are they called hummingbirds? It is because of the soft, humming noise \nmade as they rapidly flap their wings- a motion so swift, that as the birds fly, you can hardly \nsee that they have wings. \nHummingbirds place their nests so that they are very hard to find. These birds' nests are \nusually about half the size of a very small hen's egg, and are attached to a twig no thicker \nthan a steel knitting needle. They seem to be made of cotton fibres and are covered with the \nsoftest bits of leaf and bark. Hummingbirds usually lay two eggs in their nests, and each is \nabout the size of a small plum. \nOne needs to be careful when approaching the spot where a hummingbird has built its nest as \nthe female is very protective of her home. She is known to dart at unwelcomed guests and try \nto peck at their eyes. The female's sharp beak may hurt the eyes most severely, and could \neven destroy the sight. The poor little thing knows no other way of defending its young, and \ninstinct teaches it that unwelcomed guests might carry off its nest. \n\nAdapted from www.k5/earning.com. \nRetrieved 15 February 2016. "
+  },
+  "instruction": "Read the passage below carefully, then answer Questions 36 to 40."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000026"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 38,
+  "correct_option": "C",
+  "options": {
+    "A": "The nests are very small.",
+    "B": "The nests are covered by bits of leaf and bark.",
+    "C": "Unwelcomed guests peck at the birds' nests.",
+    "D": "Humming birds are careful in hiding their nests."
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following is NOT a reason why it is hard to find the nests of hummingbirds?",
+  "context": {
+    "type": "passage",
+    "content": "Hummingbirds \n\nThe most beautiful hummingbirds are found in the West Indies and South America. The crest \non the tiny heads of these birds shine like a sparkling crown of coloured light. The shades of \ncolour that adorn their breasts are equally brilliant. As the birds flit from one object to another, \n.they look more like a bright flash of sunlight than living beings. \nBut, you ask, why are they called hummingbirds? It is because of the soft, humming noise \nmade as they rapidly flap their wings- a motion so swift, that as the birds fly, you can hardly \nsee that they have wings. \nHummingbirds place their nests so that they are very hard to find. These birds' nests are \nusually about half the size of a very small hen's egg, and are attached to a twig no thicker \nthan a steel knitting needle. They seem to be made of cotton fibres and are covered with the \nsoftest bits of leaf and bark. Hummingbirds usually lay two eggs in their nests, and each is \nabout the size of a small plum. \nOne needs to be careful when approaching the spot where a hummingbird has built its nest as \nthe female is very protective of her home. She is known to dart at unwelcomed guests and try \nto peck at their eyes. The female's sharp beak may hurt the eyes most severely, and could \neven destroy the sight. The poor little thing knows no other way of defending its young, and \ninstinct teaches it that unwelcomed guests might carry off its nest. \n\nAdapted from www.k5/earning.com. \nRetrieved 15 February 2016. "
+  },
+  "instruction": "Read the passage below carefully, then answer Questions 36 to 40."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000027"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 39,
+  "correct_option": "D",
+  "options": {
+    "A": "The bird will fly away.",
+    "B": "The eggs will fall and break.",
+    "C": "The bird cannot defend its young.",
+    "D": "The bird will attack with its sharp beak."
+  },
+  "question_diagram": "",
+  "question_text": "What might happen if someone tries to take the nest of a hummingbird?",
+  "context": {
+    "type": "passage",
+    "content": "Hummingbirds \n\nThe most beautiful hummingbirds are found in the West Indies and South America. The crest \non the tiny heads of these birds shine like a sparkling crown of coloured light. The shades of \ncolour that adorn their breasts are equally brilliant. As the birds flit from one object to another, \n.they look more like a bright flash of sunlight than living beings. \nBut, you ask, why are they called hummingbirds? It is because of the soft, humming noise \nmade as they rapidly flap their wings- a motion so swift, that as the birds fly, you can hardly \nsee that they have wings. \nHummingbirds place their nests so that they are very hard to find. These birds' nests are \nusually about half the size of a very small hen's egg, and are attached to a twig no thicker \nthan a steel knitting needle. They seem to be made of cotton fibres and are covered with the \nsoftest bits of leaf and bark. Hummingbirds usually lay two eggs in their nests, and each is \nabout the size of a small plum. \nOne needs to be careful when approaching the spot where a hummingbird has built its nest as \nthe female is very protective of her home. She is known to dart at unwelcomed guests and try \nto peck at their eyes. The female's sharp beak may hurt the eyes most severely, and could \neven destroy the sight. The poor little thing knows no other way of defending its young, and \ninstinct teaches it that unwelcomed guests might carry off its nest. \n\nAdapted from www.k5/earning.com. \nRetrieved 15 February 2016. "
+  },
+  "instruction": "Read the passage below carefully, then answer Questions 36 to 40."
+},
+{
+  "_id": {
+    "$oid": "66d0d0020000000000000028"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000062"
+  },
+  "number": 40,
+  "correct_option": "A",
+  "options": {
+    "A": "admires the hummingbird",
+    "B": "considers the hummingbird to be cruel",
+    "C": "feels that the hummingbird is a nuisance",
+    "D": "thinks of the hummingbird as a n unwelcomed guest"
+  },
+  "question_diagram": "",
+  "question_text": "From the passgae we can tell that the author _____.",
+  "context": {
+    "type": "passage",
+    "content": "Hummingbirds \n\nThe most beautiful hummingbirds are found in the West Indies and South America. The crest \non the tiny heads of these birds shine like a sparkling crown of coloured light. The shades of \ncolour that adorn their breasts are equally brilliant. As the birds flit from one object to another, \n.they look more like a bright flash of sunlight than living beings. \nBut, you ask, why are they called hummingbirds? It is because of the soft, humming noise \nmade as they rapidly flap their wings- a motion so swift, that as the birds fly, you can hardly \nsee that they have wings. \nHummingbirds place their nests so that they are very hard to find. These birds' nests are \nusually about half the size of a very small hen's egg, and are attached to a twig no thicker \nthan a steel knitting needle. They seem to be made of cotton fibres and are covered with the \nsoftest bits of leaf and bark. Hummingbirds usually lay two eggs in their nests, and each is \nabout the size of a small plum. \nOne needs to be careful when approaching the spot where a hummingbird has built its nest as \nthe female is very protective of her home. She is known to dart at unwelcomed guests and try \nto peck at their eyes. The female's sharp beak may hurt the eyes most severely, and could \neven destroy the sight. The poor little thing knows no other way of defending its young, and \ninstinct teaches it that unwelcomed guests might carry off its nest. \n\nAdapted from www.k5/earning.com. \nRetrieved 15 February 2016. "
+  },
+  "instruction": "Read the passage below carefully, then answer Questions 36 to 40."
+}]
