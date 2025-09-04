@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "66d0d0240000000000000001"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 1,
+  "correct_option": "D",
+  "options": {
+    "A": "adventorus",
+    "B": "adventureus",
+    "C": "adventorous",
+    "D": "adventurous"
+  },
+  "question_diagram": "",
+  "question_text": "Calvin is an _____ young man whom I admire.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000002"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 2,
+  "correct_option": "C",
+  "options": {
+    "A": "fasenated",
+    "B": "fassinated",
+    "C": "fascinated",
+    "D": "fassenated"
+  },
+  "question_diagram": "",
+  "question_text": "John was _____ with his new pencil case.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000003"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 3,
+  "correct_option": "A",
+  "options": {
+    "A": "end",
+    "B": "start",
+    "C": "resume",
+    "D": "continue"
+  },
+  "question_diagram": "",
+  "question_text": "The meeting will [commence] after lunch.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that is OPPOSITE in meaning to the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000004"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 4,
+  "correct_option": "C",
+  "options": {
+    "A": "similar",
+    "B": "uniform",
+    "C": "different",
+    "D": "corresponding"
+  },
+  "question_diagram": "",
+  "question_text": "The two sisters have [identical] school bags.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that is OPPOSITE in meaning to the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000005"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 5,
+  "correct_option": "D",
+  "options": {
+    "A": "parents",
+    "B": "receieved",
+    "C": "expensive",
+    "D": "basketball"
+  },
+  "question_diagram": "",
+  "question_text": "Julius received an expensive basketball from his parents.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the compound word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000006"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 6,
+  "correct_option": "B",
+  "options": {
+    "A": "sister's",
+    "B": "birthday",
+    "C": "February",
+    "D": "celebrated"
+  },
+  "question_diagram": "",
+  "question_text": "My sister's birthday will be celebrated in February.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the compound word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000007"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 7,
+  "correct_option": "B",
+  "options": {
+    "A": "ed",
+    "B": "ion",
+    "C": "ing",
+    "D": "ment"
+  },
+  "question_diagram": "",
+  "question_text": "Joan lost the connect_____ on her cellphone.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate suffix to complete the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000008"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 8,
+  "correct_option": "A",
+  "options": {
+    "A": "ly",
+    "B": "ing",
+    "C": "less",
+    "D": "able"
+  },
+  "question_diagram": "",
+  "question_text": "Sarah wore a love_____ dress to the play.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate suffix to complete the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000009"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 9,
+  "correct_option": "A",
+  "options": {
+    "A": "proof",
+    "B": "notice",
+    "C": "answer",
+    "D": "solution"
+  },
+  "question_diagram": "",
+  "question_text": "You need to provide the [evidence] that you were not at the scene.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that is SIMILAR in meaning to the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 10,
+  "correct_option": "D",
+  "options": {
+    "A": "baby",
+    "B": "short",
+    "C": "small",
+    "D": "weak"
+  },
+  "question_diagram": "",
+  "question_text": "The [feeble] pup sat on my lap.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that is SIMILAR in meaning to the underlined word in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 11,
+  "correct_option": "C",
+  "options": {
+    "A": "Pray",
+    "B": "Pinch",
+    "C": "Perch",
+    "D": "Purple"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following words would be second if the words were arranged in alphabetical order.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Read the words below carefully and then answer Question 11.\n\nPinch Purple Perch Pray"
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 12,
+  "correct_option": "D",
+  "options": {
+    "A": "after, almost, angle, aspire",
+    "B": "after, angle, aspire, almost",
+    "C": "angle, almost, aspire, after",
+    "D": "almost, after, angle, aspire"
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the group of words that are arranged in alphabetical order."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 13,
+  "correct_option": "C",
+  "options": {
+    "A": "limit",
+    "B": "reduce",
+    "C": "improve",
+    "D": "thicken"
+  },
+  "question_diagram": "",
+  "question_text": "If you pay attention in class, you will be able to _____ your performance.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 14,
+  "correct_option": "B",
+  "options": {
+    "A": "angered",
+    "B": "cautioned",
+    "C": "congratulated",
+    "D": "complimented"
+  },
+  "question_diagram": "",
+  "question_text": "The police _____ the child for not using the pedestrian crossing.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000000f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 15,
+  "correct_option": "C",
+  "options": {
+    "A": "yet",
+    "B": "but",
+    "C": "while",
+    "D": "although"
+  },
+  "question_diagram": "",
+  "question_text": "Marvin listened carefully _____ the teacher explained the topic.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable conjunction to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000010"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 16,
+  "correct_option": "C",
+  "options": {
+    "A": "if",
+    "B": "so",
+    "C": "but",
+    "D": "when"
+  },
+  "question_diagram": "",
+  "question_text": "I want to visit you _____ I do not know your address.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable conjunction to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000011"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 17,
+  "correct_option": "D",
+  "options": {
+    "A": ":",
+    "B": "?",
+    "C": ",",
+    "D": "!"
+  },
+  "question_diagram": "",
+  "question_text": "You are an amazing friend",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the missing punctuation mark to complete the sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000012"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 18,
+  "correct_option": "B",
+  "options": {
+    "A": "Kevin is very talkative in class'",
+    "B": "Did you find your backpack yesterday?",
+    "C": "Carla, will be attending the concert, next week.",
+    "D": "Mandy bought pencils, markers and a textbook."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which the punctuation mark(s) is/are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000013"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 19,
+  "correct_option": "A",
+  "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  "question_diagram": "",
+  "question_text": "One of my sisters _____ on a tour to Georgetown",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000014"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 20,
+  "correct_option": "D",
+  "options": {
+    "A": "is",
+    "B": "has",
+    "C": "was",
+    "D": "were"
+  },
+  "question_diagram": "",
+  "question_text": "The boy's feet _____ swollen from the injury.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000015"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 21,
+  "correct_option": "A",
+  "options": {
+    "A": "sing",
+    "B": "sang",
+    "C": "sung",
+    "D": "sings"
+  },
+  "question_diagram": "",
+  "question_text": "Next week the group will _____ at the concert.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable verb tense to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000016"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 22,
+  "correct_option": "C",
+  "options": {
+    "A": "ask",
+    "B": "asks",
+    "C": "asked",
+    "D": "asking"
+  },
+  "question_diagram": "",
+  "question_text": "Yesterday, the teacher _____ the pupils to solve the question.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable verb tense to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000017"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 23,
+  "correct_option": "C",
+  "options": {
+    "A": "set",
+    "B": "box",
+    "C": "pack",
+    "D": "group"
+  },
+  "question_diagram": "",
+  "question_text": "The players opened a new _____ of cards to play the game.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable collective noun to complete the sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000018"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 24,
+  "correct_option": "D",
+  "options": {
+    "A": "greedy",
+    "B": "hungry",
+    "C": "heartless",
+    "D": "courageous"
+  },
+  "question_diagram": "",
+  "question_text": "The _____ man saved the child from being attacked by the dog.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable adjective to complete the sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000019"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 25,
+  "correct_option": "A",
+  "options": {
+    "A": "up",
+    "B": "into",
+    "C": "under",
+    "D": "around"
+  },
+  "question_diagram": "",
+  "question_text": "He climbed _____ the ladder in order to get to the roof.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable preposition to complete the sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 26,
+  "correct_option": "D",
+  "options": {
+    "A": "lesson",
+    "B": "taught",
+    "C": "children",
+    "D": "attentively"
+  },
+  "question_diagram": "",
+  "question_text": "The children listened attentively to the teacher while she taught the lesson.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the adverb in the sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 27,
+  "correct_option": "C",
+  "options": {
+    "A": "First",
+    "B": "Second",
+    "C": "Third",
+    "D": "Fifth"
+  },
+  "question_diagram": "",
+  "question_text": "Where should the sentence \"He spent most of his nights thinking about the exam\" be placed in the paragraph?",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "The five sentences below are not in the correct order to form a paragraph. \nRead the sentences carefully and then answer the questions that follow.\n1. He smiled when he saw the paper.\n2. He got up very early to go to school.\n3. Teon\tdid not\tsleep well for the past\tweek.\n4. Teon packed his school bag and anxiously left.\n5. He spent most of his\tnights thinking\tabout the exam."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 28,
+  "correct_option": "C",
+  "options": {
+    "A": "Sentence 2",
+    "B": "Sentence 3",
+    "C": "Sentence 4",
+    "D": "Sentence 5"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following sentences should be fourth in the paragraph?",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "The five sentences below are not in the correct order to form a paragraph. \nRead the sentences carefully and then answer the questions that follow.\n1. He smiled when he saw the paper.\n2. He got up very early to go to school.\n3. Teon\tdid not\tsleep well for the past\tweek.\n4. Teon packed his school bag and anxiously left.\n5. He spent most of his\tnights thinking\tabout the exam."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 29,
+  "correct_option": "A",
+  "options": {
+    "A": "3, 5, 2, 4, 1",
+    "B": "3, 4, 5, 1, 2",
+    "C": "4, 3, 2, 5, 1",
+    "D": "4, 5, 1, 2, 3"
+  },
+  "question_diagram": "",
+  "question_text": "Choose the order in which the sentences would make the best paragraph.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "The five sentences below are not in the correct order to form a paragraph. \nRead the sentences carefully and then answer the questions that follow.\n1. He smiled when he saw the paper.\n2. He got up very early to go to school.\n3. Teon\tdid not\tsleep well for the past\tweek.\n4. Teon packed his school bag and anxiously left.\n5. He spent most of his\tnights thinking\tabout the exam."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 30,
+  "correct_option": "D",
+  "options": {
+    "A": "gift centre.",
+    "B": "gas station.",
+    "C": "supermarket.",
+    "D": "shopping mall."
+  },
+  "question_diagram": "",
+  "question_text": "The sale will happen at a",
+  "context": {
+    "type": "advertisement",
+    "content": ""
+  },
+  "instruction": "Study the advertisement below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d024000000000000001f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 31,
+  "correct_option": "C",
+  "options": {
+    "A": "2 days",
+    "B": "3 days",
+    "C": "4 days",
+    "D": "5 days"
+  },
+  "question_diagram": "",
+  "question_text": "How long will the sale last?",
+  "context": {
+    "type": "advertisement",
+    "content": ""
+  },
+  "instruction": "Study the advertisement below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000020"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 32,
+  "correct_option": "B",
+  "options": {
+    "A": "free of cost.",
+    "B": "more expensive to buy.",
+    "C": "sold at a reduced price.",
+    "D": "readily available to all customers"
+  },
+  "question_diagram": "",
+  "question_text": "The word \"discounts\" means that the items will be.",
+  "context": {
+    "type": "advertisement",
+    "content": ""
+  },
+  "instruction": "Study the advertisement below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000021"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 33,
+  "correct_option": "B",
+  "options": {
+    "A": "prevent customers from shopping",
+    "B": "encourage customers to shop more",
+    "C": "make customers feel energetic and strong.",
+    "D": "make customers aware of the perfume set."
+  },
+  "question_diagram": "",
+  "question_text": "The above statement is most likely used to",
+  "context": {
+    "type": "advertisement",
+    "content": ""
+  },
+  "instruction": "Study the advertisement below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000022"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 34,
+  "correct_option": "D",
+  "options": {
+    "A": "Tuesday",
+    "B": "Wednesday",
+    "C": "Thursday",
+    "D": "Friday"
+  },
+  "question_diagram": "",
+  "question_text": "On which of the following days will the sale end?",
+  "context": {
+    "type": "advertisement",
+    "content": ""
+  },
+  "instruction": "Study the advertisement below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000023"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 35,
+  "correct_option": "A",
+  "options": {
+    "A": "sisters.",
+    "B": "nieces.",
+    "C": "cousins.",
+    "D": "best friends."
+  },
+  "question_diagram": "",
+  "question_text": "Suzie and June are",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000024"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 36,
+  "correct_option": "B",
+  "options": {
+    "A": "Science",
+    "B": "Reading",
+    "C": "Mathematics",
+    "D": "Social Studies"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following subjects did June fail?",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000025"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 37,
+  "correct_option": "C",
+  "options": {
+    "A": "be like each other.",
+    "B": "please their mothers.",
+    "C": "pass all the subjects.",
+    "D": "do better that each other."
+  },
+  "question_diagram": "",
+  "question_text": "The girls decided to study because they wanted to",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000026"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 38,
+  "correct_option": "B",
+  "options": {
+    "A": "certain",
+    "B": "thrilled",
+    "C": "puzzled",
+    "D": "disappointed"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following words can be used to replace the word \"delighted\" as used in line 13?",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000027"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 39,
+  "correct_option": "D",
+  "options": {
+    "A": "The girls had many roses.",
+    "B": "The mother was angry with the girls.",
+    "C": "The girls were no longer best friends.",
+    "D": "The girls were uncomfortable with each other."
+  },
+  "question_diagram": "",
+  "question_text": "What does the phrase \"Tensions rose\" in line 3 suggest?",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0240000000000000028"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000024"
+  },
+  "number": 40,
+  "correct_option": "A",
+  "options": {
+    "A": "Working Together",
+    "B": "Suzie Helps June",
+    "C": "Failing in Mathematics",
+    "D": "The Sisters and Their Mother"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following titles would be best suited for the passage?",
+  "context": {
+    "type": "passage",
+    "content": "Even\tthough\tthey\twere\tsisters,\tSuzie\tand\tJune\twere\tnot\talike.\t\tIf\tSuzie\twanted\t\nto\tjump\trope,\tJune\twanted\tto\tplay\thopscotch.\t\tIf\tJune\twanted\tto\twatch\ta\tmovie,\t\nSuzie\twanted\tto\twatch\tthe\tnews.\t\tTensions\trose\tto\tthe\tpoint\tthat\tthe\tgirls\tbegan\t\nto\tdislike\teach\tother’s\tcompany\tbut\tthings\tchanged\tthe\tday\ttheir\treports\tcame\t\nout.\t\tSuzie\tdid\tgreat\tin\tScience\tbut\tfailed\tMathematics\tand\tJune\tfailed\tReading\t\nbut\tdid\twell\tin\tSocial\tStudies.\t\tWhile\triding\tthe\tbus\tfrom\tschool,\tthe\tgirls\tnoticed\t\nthat\tthey\twere\tboth\tupset.\t\tAfter\ttalking,\tthey\trealized\tthat\tthey\tboth\tfailed\ta\t\nsubject.\t\nSince\tboth\tgirls\twanted\tto\tpass\ttheir\tsubjects,\tthey\tagreed\tto\thelp\teach\tother.\t\t\nSo,\tevery\tday\tafter\tschool\tfor\tthe\tnext\tfew\tweeks,\tSuzie\thelped\tJune\twith\t\nReading\tand\tJune\thelped\tSuzie\twith\tMathematics.\t\tBy\tthe\ttime\tthe\tnext\treport\t\ncards\twere\tdistributed,\tSuzie\tand\tJune\twere\tpassing\tall\tthe\tsubjects.\t\tThe\tgirls\t\nwere\tdelighted\tbut\ttheir\tmother\twas\tthe\thappiest\tof\tall.\t\tNot\tjust\tbecause\ther\t\ndaughters\tpassed\tthe\tsubjects\tbut\tbecause\tthey\thad\tlearnt\tto\tbe\tgood\tsisters.\n\nAdapted from Theme Worksheet 2, n.d. Retrieved from https://www.ereadingworksheets.com/\nreading-worksheets/theme-worksheet-02/preview/theme-worksheet-02-01.jpg "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+}]

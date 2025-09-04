@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "66d0d0030000000000000001"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 1,
+  "correct_option": "B",
+  "options": {
+    "A": "discorages",
+    "B": "discourages",
+    "C": "descourages",
+    "D": "disscourages"
+  },
+  "question_diagram": "",
+  "question_text": "Increased taxation _____ uncontrolled spending.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000002"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 2,
+  "correct_option": "D",
+  "options": {
+    "A": "beginin.",
+    "B": "beginen.",
+    "C": "begining.",
+    "D": "beginning."
+  },
+  "question_diagram": "",
+  "question_text": "The word that means \"the earliest stage of something\" is",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000003"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 3,
+  "correct_option": "A",
+  "options": {
+    "A": "hoping",
+    "B": "hopeing",
+    "C": "hopping",
+    "D": "hoppeing"
+  },
+  "question_diagram": "",
+  "question_text": "Given the circumstances, she is _____ for the best.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000004"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 4,
+  "correct_option": "D",
+  "options": {
+    "A": "leege.",
+    "B": "leage.",
+    "C": "leegue.",
+    "D": "league."
+  },
+  "question_diagram": "",
+  "question_text": "Brians' team is a member of the football _____",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000005"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 5,
+  "correct_option": "B",
+  "options": {
+    "A": "omited",
+    "B": "omitted",
+    "C": "ommited",
+    "D": "ommitted"
+  },
+  "question_diagram": "",
+  "question_text": "The student _____ the difficult questions.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000006"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 6,
+  "correct_option": "A",
+  "options": {
+    "A": "hear",
+    "B": "hair",
+    "C": "heir",
+    "D": "here"
+  },
+  "question_diagram": "",
+  "question_text": "I like to _____ stories about the silly things she did with her brothers.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000007"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 7,
+  "correct_option": "C",
+  "options": {
+    "A": "wary",
+    "B": "polite",
+    "C": "careful",
+    "D": "helpful"
+  },
+  "question_diagram": "",
+  "question_text": "The nurse was very [cautious] when attending to the elderly patients.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that means the same as the one underlined in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000008"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 8,
+  "correct_option": "C",
+  "options": {
+    "A": "end",
+    "B": "side",
+    "C": "centre",
+    "D": "above"
+  },
+  "question_diagram": "",
+  "question_text": "The firghtened child stoof still in the [middle] of the street as the car approached.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that means the same as the one underlined in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000009"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 9,
+  "correct_option": "C",
+  "options": {
+    "A": "never",
+    "B": "rarely",
+    "C": "always",
+    "D": "normally"
+  },
+  "question_diagram": "",
+  "question_text": "Pepperpot is a dish that is [usually] served at Christmas but can also be served all year round.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the word that means the same as the one underlined in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 10,
+  "correct_option": "A",
+  "options": {
+    "A": "old",
+    "B": "funny",
+    "C": "young",
+    "D": "happy"
+  },
+  "question_diagram": "",
+  "question_text": "My grandmother is very _____ so she walks slowly up the stairs.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate adjective to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 11,
+  "correct_option": "B",
+  "options": {
+    "A": "hide",
+    "B": "wide",
+    "C": "long",
+    "D": "short"
+  },
+  "question_diagram": "",
+  "question_text": "Cheap is to expensive as _____ is to narrow.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate adjective to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 12,
+  "correct_option": "A",
+  "options": {
+    "A": "is",
+    "B": "are",
+    "C": "has",
+    "D": "have"
+  },
+  "question_diagram": "",
+  "question_text": "Dairy _____ the name of the village where my school can be found.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 13,
+  "correct_option": "B",
+  "options": {
+    "A": "break",
+    "B": "broke",
+    "C": "breaks",
+    "D": "breaking"
+  },
+  "question_diagram": "",
+  "question_text": "The fire _____ out in the place where goods were stored.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 14,
+  "correct_option": "C",
+  "options": {
+    "A": "run",
+    "B": "ran",
+    "C": "runs",
+    "D": "running"
+  },
+  "question_diagram": "",
+  "question_text": "Calvin usually _____ every year for our school's sports.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000000f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 15,
+  "correct_option": "A",
+  "options": {
+    "A": "so",
+    "B": "but",
+    "C": "yet",
+    "D": "and"
+  },
+  "question_diagram": "",
+  "question_text": "It was raining heavily _____ the game had to be cancelled.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000010"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 16,
+  "correct_option": "C",
+  "options": {
+    "A": "or",
+    "B": "and",
+    "C": "nor",
+    "D": "also"
+  },
+  "question_diagram": "",
+  "question_text": "Neither Fatima _____ Lucy is invited to my birthday party.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000011"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 17,
+  "correct_option": "B",
+  "options": {
+    "A": "in",
+    "B": "up",
+    "C": "with",
+    "D": "after"
+  },
+  "question_diagram": "",
+  "question_text": "From the grassy path, the huge monkey climbed _____ the tree to get to the ripe mangoes.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000012"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 18,
+  "correct_option": "C",
+  "options": {
+    "A": "no one",
+    "B": "nobody",
+    "C": "anyone",
+    "D": "someone"
+  },
+  "question_diagram": "",
+  "question_text": "Neil did not allow _____ to borrow his pen today.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000013"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 19,
+  "correct_option": "D",
+  "options": {
+    "A": "by",
+    "B": "over",
+    "C": "among",
+    "D": "alongside"
+  },
+  "question_diagram": "",
+  "question_text": "Samantha was walking _____ me when we were asked to go outside.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000014"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 20,
+  "correct_option": "D",
+  "options": {
+    "A": "I",
+    "B": "he",
+    "C": "we",
+    "D": "him"
+  },
+  "question_diagram": "",
+  "question_text": "Please give _____ the message when he comes.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct pronoun to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000015"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 21,
+  "correct_option": "C",
+  "options": {
+    "A": "my",
+    "B": "her",
+    "C": "mine",
+    "D": "them"
+  },
+  "question_diagram": "",
+  "question_text": "Those books are _____ and I want them now.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct pronoun to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000016"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 22,
+  "correct_option": "B",
+  "options": {
+    "A": "I",
+    "B": "us",
+    "C": "we",
+    "D": "you"
+  },
+  "question_diagram": "",
+  "question_text": "Between the two of _____, I don't agreee with what the boss is doing.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct pronoun to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000017"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 23,
+  "correct_option": "A",
+  "options": {
+    "A": "?",
+    "B": ".",
+    "C": "!",
+    "D": "."
+  },
+  "question_diagram": "",
+  "question_text": "Are you coming to my sleepover this weekend_",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate punctuation mark to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000018"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 24,
+  "correct_option": "D",
+  "options": {
+    "A": "'",
+    "B": ".",
+    "C": "!",
+    "D": "?"
+  },
+  "question_diagram": "",
+  "question_text": "\"Help_\" shouted the little girl as the stranger entered the yard.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most appropriate punctuation mark to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000019"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 25,
+  "correct_option": "A",
+  "options": {
+    "A": "He heard his mother's voice and stopped crying.",
+    "B": "He heard his mothers' voice and stopped crying.",
+    "C": "He heard his mother voice's and stopped crying.",
+    "D": "He heard his mothers voices' and stopped crying."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which the apostrophe is correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 26,
+  "correct_option": "B",
+  "options": {
+    "A": "My teacher wrote a Letter to my Father.",
+    "B": "Linden is a town that is found in Guyana.",
+    "C": "Paula and amy are my very close Friends.",
+    "D": "My sister visited a chinese Restaurant yesterday."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which the capital letters are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 27,
+  "correct_option": "D",
+  "options": {
+    "A": "fight",
+    "B": "eat",
+    "C": "get exhausted",
+    "D": "reveal the secret"
+  },
+  "question_diagram": "",
+  "question_text": "Aaron was warned by his brother not to [spill the beans], since that would get hum into trouble.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable meaning for the expression that is underlined in the sentence below."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 28,
+  "correct_option": "D",
+  "options": {
+    "A": "Cut corners",
+    "B": "An arm and a leg",
+    "C": "The ball is in your court",
+    "D": "A penny for your thoughts"
+  },
+  "question_diagram": "",
+  "question_text": "A way of asking what someone is thinking",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the idiom that is most suitable for the situation described below."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 29,
+  "correct_option": "C",
+  "options": {
+    "A": "16",
+    "B": "17",
+    "C": "18",
+    "D": "19"
+  },
+  "question_diagram": "",
+  "question_text": "Which volume will have information on the topic Solar System?",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Study the arrangement of volumes of an encyclopedia below, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 30,
+  "correct_option": "B",
+  "options": {
+    "A": "Zoo",
+    "B": "Youth",
+    "C": "Telescope",
+    "D": "West Indies"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following topics is likely to be covered in volume 21?",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Study the arrangement of volumes of an encyclopedia below, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d003000000000000001f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 31,
+  "correct_option": "B",
+  "options": {
+    "A": "sick.",
+    "B": "afraid.",
+    "C": "falling asleep.",
+    "D": "seeing a ghost."
+  },
+  "question_diagram": "",
+  "question_text": "\"Jessie's face turned shockingly pale\" (line 4) suggests that she was",
+  "context": {
+    "type": "passage",
+    "content": "It was a fine and breezy afternoo.n. Jessie and her brother were far out at sea fishing. It was \na good trip so far. By noon they had already caught five fish. They were now resting and \njoking in the boat as they enjoyed their snack. \nSuddenly and without warning, Jessie's face turned shockingly pale. Her brother Owen, \nlooked at her thinking she had fallen ill. His eyes followed her gaze as she pointed to the \nstarboard side. To his horror, he saw a triangular fin above the water. Hurriedly he dashed \nto the back of the boat and tried desperately to start the motor. However, it was stuck. \nThe siblings panicked. They did not know what to do. Jessie armed herself with the oar, \npreparing to strike the monstrous beast when it attacked. Owen continued to fiddle with the \ncontrol in an effort to get the motor to start. The triangular fin continued to circle the boat, \ngetting closer with the completion of each circle. \nAs the fin got closer to the boat, the siblings began to think that they were about to meet their \ndoom. Just as the creature was about to touch the boat, to their huge relief, the motor revved \ninto action. The boat sped off quickly towards the shore. Once they were at a safe distance, \nJessie and Owen slumped onto their seats and wiped perspiration from their foreheads. \nThank goodness, they were not harmed! \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 290."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000020"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 32,
+  "correct_option": "A",
+  "options": {
+    "A": "shark.",
+    "B": "snake.",
+    "C": "whale.",
+    "D": "dolphin."
+  },
+  "question_diagram": "",
+  "question_text": "The creature in the story was most likely a",
+  "context": {
+    "type": "passage",
+    "content": "It was a fine and breezy afternoo.n. Jessie and her brother were far out at sea fishing. It was \na good trip so far. By noon they had already caught five fish. They were now resting and \njoking in the boat as they enjoyed their snack. \nSuddenly and without warning, Jessie's face turned shockingly pale. Her brother Owen, \nlooked at her thinking she had fallen ill. His eyes followed her gaze as she pointed to the \nstarboard side. To his horror, he saw a triangular fin above the water. Hurriedly he dashed \nto the back of the boat and tried desperately to start the motor. However, it was stuck. \nThe siblings panicked. They did not know what to do. Jessie armed herself with the oar, \npreparing to strike the monstrous beast when it attacked. Owen continued to fiddle with the \ncontrol in an effort to get the motor to start. The triangular fin continued to circle the boat, \ngetting closer with the completion of each circle. \nAs the fin got closer to the boat, the siblings began to think that they were about to meet their \ndoom. Just as the creature was about to touch the boat, to their huge relief, the motor revved \ninto action. The boat sped off quickly towards the shore. Once they were at a safe distance, \nJessie and Owen slumped onto their seats and wiped perspiration from their foreheads. \nThank goodness, they were not harmed! \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 290."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000021"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 33,
+  "correct_option": "D",
+  "options": {
+    "A": "sail.",
+    "B": "arm.",
+    "C": "motor.",
+    "D": "weapon."
+  },
+  "question_diagram": "",
+  "question_text": "\"Jessie armed herself with the oar\" (line 8) suggests that the oar is no a/an",
+  "context": {
+    "type": "passage",
+    "content": "It was a fine and breezy afternoo.n. Jessie and her brother were far out at sea fishing. It was \na good trip so far. By noon they had already caught five fish. They were now resting and \njoking in the boat as they enjoyed their snack. \nSuddenly and without warning, Jessie's face turned shockingly pale. Her brother Owen, \nlooked at her thinking she had fallen ill. His eyes followed her gaze as she pointed to the \nstarboard side. To his horror, he saw a triangular fin above the water. Hurriedly he dashed \nto the back of the boat and tried desperately to start the motor. However, it was stuck. \nThe siblings panicked. They did not know what to do. Jessie armed herself with the oar, \npreparing to strike the monstrous beast when it attacked. Owen continued to fiddle with the \ncontrol in an effort to get the motor to start. The triangular fin continued to circle the boat, \ngetting closer with the completion of each circle. \nAs the fin got closer to the boat, the siblings began to think that they were about to meet their \ndoom. Just as the creature was about to touch the boat, to their huge relief, the motor revved \ninto action. The boat sped off quickly towards the shore. Once they were at a safe distance, \nJessie and Owen slumped onto their seats and wiped perspiration from their foreheads. \nThank goodness, they were not harmed! \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 290."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000022"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 34,
+  "correct_option": "D",
+  "options": {
+    "A": "were trying to start the motor.",
+    "B": "saw the creature circling the boat.",
+    "C": "thought that they were going to die.",
+    "D": "thought that they were out of danger."
+  },
+  "question_diagram": "",
+  "question_text": "The siblings slumped onto their seats when they",
+  "context": {
+    "type": "passage",
+    "content": "It was a fine and breezy afternoo.n. Jessie and her brother were far out at sea fishing. It was \na good trip so far. By noon they had already caught five fish. They were now resting and \njoking in the boat as they enjoyed their snack. \nSuddenly and without warning, Jessie's face turned shockingly pale. Her brother Owen, \nlooked at her thinking she had fallen ill. His eyes followed her gaze as she pointed to the \nstarboard side. To his horror, he saw a triangular fin above the water. Hurriedly he dashed \nto the back of the boat and tried desperately to start the motor. However, it was stuck. \nThe siblings panicked. They did not know what to do. Jessie armed herself with the oar, \npreparing to strike the monstrous beast when it attacked. Owen continued to fiddle with the \ncontrol in an effort to get the motor to start. The triangular fin continued to circle the boat, \ngetting closer with the completion of each circle. \nAs the fin got closer to the boat, the siblings began to think that they were about to meet their \ndoom. Just as the creature was about to touch the boat, to their huge relief, the motor revved \ninto action. The boat sped off quickly towards the shore. Once they were at a safe distance, \nJessie and Owen slumped onto their seats and wiped perspiration from their foreheads. \nThank goodness, they were not harmed! \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 290."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000023"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 35,
+  "correct_option": "C",
+  "options": {
+    "A": "A Tragic Outing",
+    "B": "Attacked at Sea",
+    "C": "A Fearful Experience",
+    "D": "Sibling Rivalry at Sea"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following is a suitable title for the passage?",
+  "context": {
+    "type": "passage",
+    "content": "It was a fine and breezy afternoo.n. Jessie and her brother were far out at sea fishing. It was \na good trip so far. By noon they had already caught five fish. They were now resting and \njoking in the boat as they enjoyed their snack. \nSuddenly and without warning, Jessie's face turned shockingly pale. Her brother Owen, \nlooked at her thinking she had fallen ill. His eyes followed her gaze as she pointed to the \nstarboard side. To his horror, he saw a triangular fin above the water. Hurriedly he dashed \nto the back of the boat and tried desperately to start the motor. However, it was stuck. \nThe siblings panicked. They did not know what to do. Jessie armed herself with the oar, \npreparing to strike the monstrous beast when it attacked. Owen continued to fiddle with the \ncontrol in an effort to get the motor to start. The triangular fin continued to circle the boat, \ngetting closer with the completion of each circle. \nAs the fin got closer to the boat, the siblings began to think that they were about to meet their \ndoom. Just as the creature was about to touch the boat, to their huge relief, the motor revved \ninto action. The boat sped off quickly towards the shore. Once they were at a safe distance, \nJessie and Owen slumped onto their seats and wiped perspiration from their foreheads. \nThank goodness, they were not harmed! \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 290."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000024"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 36,
+  "correct_option": "A",
+  "options": {
+    "A": "The electric fish",
+    "B": "Using electricity",
+    "C": "The Amazon River",
+    "D": "Living in South America"
+  },
+  "question_diagram": "",
+  "question_text": "What is the text mainly about?",
+  "context": {
+    "type": "passage",
+    "content": "Have you heard of the electric fish? It captures its prey and defends itself by discharging \nelectricity. \nTo this day, scientists are still trying to understand how this fish produces \nelectricity. Also puzzling is how it does not shock itself. \nThe most dangerous electric fish is the South American electric eel. It is sometimes called \nthe 'Brazilian electric eel'. It lives in the Amazon River and can stun large animals like horses. \nA human being may even feel the effects of its shock for several hours. \nAnother type of electric fish is the electric ray, or torpedo ray. It is found in warm waters. An \nAtlantic species is said to grow to 1.5 metres and can weigh up to 90 kilograms. The electric \nray uses camouflage. The electricity generating organs are situated between the head and \n10 gills. An interesting fact to note: When the ray discharges electricity, it has to eat and rest in \norder to 'recharge itself'. \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 288."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000025"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 37,
+  "correct_option": "D",
+  "options": {
+    "A": "biting them.",
+    "B": "charging them.",
+    "C": "hiding in the Amazon.",
+    "D": "discharging electricity."
+  },
+  "question_diagram": "",
+  "question_text": "The electric fish captures its prey and defends itself by",
+  "context": {
+    "type": "passage",
+    "content": "Have you heard of the electric fish? It captures its prey and defends itself by discharging \nelectricity. \nTo this day, scientists are still trying to understand how this fish produces \nelectricity. Also puzzling is how it does not shock itself. \nThe most dangerous electric fish is the South American electric eel. It is sometimes called \nthe 'Brazilian electric eel'. It lives in the Amazon River and can stun large animals like horses. \nA human being may even feel the effects of its shock for several hours. \nAnother type of electric fish is the electric ray, or torpedo ray. It is found in warm waters. An \nAtlantic species is said to grow to 1.5 metres and can weigh up to 90 kilograms. The electric \nray uses camouflage. The electricity generating organs are situated between the head and \n10 gills. An interesting fact to note: When the ray discharges electricity, it has to eat and rest in \norder to 'recharge itself'. \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 288."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000026"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 38,
+  "correct_option": "C",
+  "options": {
+    "A": "Who the fish shocks",
+    "B": "Where the electricity comes from",
+    "C": "How the fish discharges electricity",
+    "D": "The number of unknown species of fish"
+  },
+  "question_diagram": "",
+  "question_text": "What puzzles scientists most about the electric fish?",
+  "context": {
+    "type": "passage",
+    "content": "Have you heard of the electric fish? It captures its prey and defends itself by discharging \nelectricity. \nTo this day, scientists are still trying to understand how this fish produces \nelectricity. Also puzzling is how it does not shock itself. \nThe most dangerous electric fish is the South American electric eel. It is sometimes called \nthe 'Brazilian electric eel'. It lives in the Amazon River and can stun large animals like horses. \nA human being may even feel the effects of its shock for several hours. \nAnother type of electric fish is the electric ray, or torpedo ray. It is found in warm waters. An \nAtlantic species is said to grow to 1.5 metres and can weigh up to 90 kilograms. The electric \nray uses camouflage. The electricity generating organs are situated between the head and \n10 gills. An interesting fact to note: When the ray discharges electricity, it has to eat and rest in \norder to 'recharge itself'. \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 288."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000027"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 39,
+  "correct_option": "C",
+  "options": {
+    "A": "water.",
+    "B": "show.",
+    "C": "disguise.",
+    "D": "expression."
+  },
+  "question_diagram": "",
+  "question_text": "Another word for \"camouflage\" as used in line 9 is",
+  "context": {
+    "type": "passage",
+    "content": "Have you heard of the electric fish? It captures its prey and defends itself by discharging \nelectricity. \nTo this day, scientists are still trying to understand how this fish produces \nelectricity. Also puzzling is how it does not shock itself. \nThe most dangerous electric fish is the South American electric eel. It is sometimes called \nthe 'Brazilian electric eel'. It lives in the Amazon River and can stun large animals like horses. \nA human being may even feel the effects of its shock for several hours. \nAnother type of electric fish is the electric ray, or torpedo ray. It is found in warm waters. An \nAtlantic species is said to grow to 1.5 metres and can weigh up to 90 kilograms. The electric \nray uses camouflage. The electricity generating organs are situated between the head and \n10 gills. An interesting fact to note: When the ray discharges electricity, it has to eat and rest in \norder to 'recharge itself'. \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 288."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0030000000000000028"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000063"
+  },
+  "number": 40,
+  "correct_option": "B",
+  "options": {
+    "A": "It sleeps.",
+    "B": "It eats and rests.",
+    "C": "It hunts for food.",
+    "D": "It goes out to play."
+  },
+  "question_diagram": "",
+  "question_text": "How does the electric fish recharge itself after it uses electricity?",
+  "context": {
+    "type": "passage",
+    "content": "Have you heard of the electric fish? It captures its prey and defends itself by discharging \nelectricity. \nTo this day, scientists are still trying to understand how this fish produces \nelectricity. Also puzzling is how it does not shock itself. \nThe most dangerous electric fish is the South American electric eel. It is sometimes called \nthe 'Brazilian electric eel'. It lives in the Amazon River and can stun large animals like horses. \nA human being may even feel the effects of its shock for several hours. \nAnother type of electric fish is the electric ray, or torpedo ray. It is found in warm waters. An \nAtlantic species is said to grow to 1.5 metres and can weigh up to 90 kilograms. The electric \nray uses camouflage. The electricity generating organs are situated between the head and \n10 gills. An interesting fact to note: When the ray discharges electricity, it has to eat and rest in \norder to 'recharge itself'. \n\nAdapted from Primary English 4, Revised Edition. \nCasco Publications PTE Ltd, \nSingapore, 2000, p. 288."
+  },
+  "instruction": "Read the passage below carefully, then answer the questions that follow."
+}]

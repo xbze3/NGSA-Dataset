@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$oid": "66d0d0050000000000000001"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 1,
+  "correct_option": "D",
+  "options": {
+    "A": "paraid.",
+    "B": "peraid.",
+    "C": "perade.",
+    "D": "parade."
+  },
+  "question_diagram": "",
+  "question_text": "We went to the National Park to watch the military",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000002"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 2,
+  "correct_option": "D",
+  "options": {
+    "A": "yunger",
+    "B": "yonger",
+    "C": "youngur",
+    "D": "younger"
+  },
+  "question_diagram": "",
+  "question_text": "The _____ of the twins was sitting among the older pupils.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the correct spelling of the word that completes each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000003"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 3,
+  "correct_option": "C",
+  "options": {
+    "A": "[doctor's]",
+    "B": "[patients]",
+    "C": "[relatives]",
+    "D": "[quite]"
+  },
+  "question_diagram": "",
+  "question_text": "The [doctor's] [patients] ran thin, as the visiting [relatives] were [quite] rowdy.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the letter for the underlined word that is incorrectly spelt."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000004"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 4,
+  "correct_option": "C",
+  "options": {
+    "A": "[light]",
+    "B": "[fight]",
+    "C": "[night]",
+    "D": "[eight]"
+  },
+  "question_diagram": "",
+  "question_text": "In [light] of the impending [fight], the boxer trained every [night], yet, round [eight] was quite a fright.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the underlined word which has a different vowel sound."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000005"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 5,
+  "correct_option": "A",
+  "options": {
+    "A": "entered",
+    "B": "enquired",
+    "C": "attacked",
+    "D": "attached"
+  },
+  "question_diagram": "",
+  "question_text": "They [walked into] the classroom without permission.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to replace the underlined word(s) in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000006"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 6,
+  "correct_option": "C",
+  "options": {
+    "A": "win",
+    "B": "trill",
+    "C": "defeat",
+    "D": "surprise"
+  },
+  "question_diagram": "",
+  "question_text": "The Gyuana Amazon Warriors experienced a [victory] in their match against the Saint Lucia Stars.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to replace the underlined word(s) in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000007"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 7,
+  "correct_option": "D",
+  "options": {
+    "A": "calmly",
+    "B": "angrily",
+    "C": "heatedly",
+    "D": "completely"
+  },
+  "question_diagram": "",
+  "question_text": "Hannah looked [totally] distributed by the news report.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to replace the underlined word(s) in each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000008"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 8,
+  "correct_option": "C",
+  "options": {
+    "A": "caution",
+    "B": "cautious",
+    "C": "precaution",
+    "D": "precautionary"
+  },
+  "question_diagram": "",
+  "question_text": "I always take pencils to an examination as a _____, in case I need them.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000009"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 9,
+  "correct_option": "C",
+  "options": {
+    "A": "early",
+    "B": "hostile",
+    "C": "friendly",
+    "D": "reserved"
+  },
+  "question_diagram": "",
+  "question_text": "Mr. Smith, my next door neighbour, is the most _____ man I know. Every year, he invites everyone to his birthday party.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 10,
+  "correct_option": "D",
+  "options": {
+    "A": "clever",
+    "B": "terrible",
+    "C": "unusual",
+    "D": "outstanding"
+  },
+  "question_diagram": "",
+  "question_text": "The student was featured in the Kaieteur News for his _____ performance in the National Grade Two Assessment.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 11,
+  "correct_option": "C",
+  "options": {
+    "A": "merrily",
+    "B": "carefully",
+    "C": "recklessly",
+    "D": "cautiously"
+  },
+  "question_diagram": "",
+  "question_text": "Peter drove his car _____ into the bridge and damaged it.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable word to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 12,
+  "correct_option": "B",
+  "options": {
+    "A": "make",
+    "B": "made",
+    "C": "makes",
+    "D": "making"
+  },
+  "question_diagram": "",
+  "question_text": "The shoemaker _____ the perfect pair of shoes for my first graduation.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 13,
+  "correct_option": "C",
+  "options": {
+    "A": "is find",
+    "B": "is finding",
+    "C": "was found",
+    "D": "were found"
+  },
+  "question_diagram": "",
+  "question_text": "The wallet _____ by the girl in the cream dress.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 14,
+  "correct_option": "B",
+  "options": {
+    "A": "wear",
+    "B": "wore",
+    "C": "worn",
+    "D": "wears"
+  },
+  "question_diagram": "",
+  "question_text": "The teacher _____ a bright pink dress to school yesterday.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000000f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 15,
+  "correct_option": "B",
+  "options": {
+    "A": "watch",
+    "B": "watches",
+    "C": "watched",
+    "D": "watching"
+  },
+  "question_diagram": "",
+  "question_text": "Every morning, my brother _____ his favourite television programme.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable form of the verb to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000010"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 16,
+  "correct_option": "D",
+  "options": {
+    "A": "they.",
+    "B": "them.",
+    "C": "yours.",
+    "D": "theirs."
+  },
+  "question_diagram": "",
+  "question_text": "The ball belongs to the children. The ball is",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable pronoun to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000011"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 17,
+  "correct_option": "B",
+  "options": {
+    "A": "he",
+    "B": "his",
+    "C": "we",
+    "D": "him"
+  },
+  "question_diagram": "",
+  "question_text": "Mark and _____ sister are studying.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable pronoun to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000012"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 18,
+  "correct_option": "C",
+  "options": {
+    "A": "or",
+    "B": "but",
+    "C": "and",
+    "D": "since"
+  },
+  "question_diagram": "",
+  "question_text": "Zack should water the plants _____ he has nothing to do.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable conjunction(s) to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000013"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 19,
+  "correct_option": "B",
+  "options": {
+    "A": "or",
+    "B": "nor",
+    "C": "and",
+    "D": "because"
+  },
+  "question_diagram": "",
+  "question_text": "Neither Mr. Joseph _____ his children are going to attend the party.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable conjunction(s) to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000014"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 20,
+  "correct_option": "A",
+  "options": {
+    "A": "and, so",
+    "B": "and, but",
+    "C": "and, with",
+    "D": "with, so"
+  },
+  "question_diagram": "",
+  "question_text": "The man _____ his wife were expected in Barbados for the conference _____ they missed their fight.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the most suitable conjunction(s) to complete each sentence."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000015"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 21,
+  "correct_option": "C",
+  "options": {
+    "A": "[Rufus]",
+    "B": "[chased]",
+    "C": "[up]",
+    "D": "[tree]"
+  },
+  "question_diagram": "",
+  "question_text": "[Rufus], my dog, [chased] the cat [up] the [tree].",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the letter from the underlined word which functions as a prepostion in the sentence below."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000016"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 22,
+  "correct_option": "B",
+  "options": {
+    "A": "Noun",
+    "B": "Adverb",
+    "C": "Adjective",
+    "D": "Conjunction"
+  },
+  "question_diagram": "",
+  "question_text": "Spectators screamed in excitement as the [muscular] batsman struck the ball and it flew to the boundary.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the function of the underlined word in the sentence below."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000017"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 23,
+  "correct_option": "A",
+  "options": {
+    "A": "She did not return the book to the library on time.",
+    "B": "Rajendra did not give none of the mangoes to me.",
+    "C": "Nobody did not witness the accident that happened yesterday.",
+    "D": "None of them did not go to the city today because it is a holiday."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which nagative words are correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000018"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 24,
+  "correct_option": "C",
+  "options": {
+    "A": "If you join the reading club, you can win stickers pencils and books.",
+    "B": "If you join the reading club you can win stickers, pencils and books.",
+    "C": "If you join the reading club, you can win stickers, pencils and books.",
+    "D": "If you join the reading club, you can win, stickers, pencils and books."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which the comma is correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000019"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 25,
+  "correct_option": "B",
+  "options": {
+    "A": "\"We should watch the parade from Regent Street\", Ralph suggested.",
+    "B": "\"We watch the parade from Regent Street,\" Ralph suggested.",
+    "C": "\"We should watch the parade, from Regent Street\" Ralph suggested.",
+    "D": "\"We should, watch the parade from Regent Street\" Ralph suggested."
+  },
+  "question_diagram": "",
+  "question_text": "",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": "Choose the sentence in which the comma is correctly used."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001a"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 26,
+  "correct_option": "D",
+  "options": {
+    "A": "dampen darkness dashing dainty",
+    "B": "dainty dampen darkness dashing",
+    "C": "darkness dainty dashing dampen",
+    "D": "dainty dashing dampen darkness"
+  },
+  "question_diagram": "",
+  "question_text": "Select the group of words that is arranged in alphabetical order.",
+  "context": {
+    "type": "none",
+    "content": ""
+  },
+  "instruction": ""
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001b"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 27,
+  "correct_option": "A",
+  "options": {
+    "A": "John Singh",
+    "B": "Susan Gomes",
+    "C": "Kevin Maniram",
+    "D": "Kenneth Moore"
+  },
+  "question_diagram": "",
+  "question_text": "Select the child who would be fifth in line.",
+  "context": {
+    "type": "scenario",
+    "content": "The following five children were told to stand in alphabetical order by their \nsurnames. \n\nJohn Singh, Susan Gomes, Kenneth Moore, Mary Bovell, Kevin Maniram "
+  },
+  "instruction": "Study the scenario below and then answer Questions 27 and 28."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001c"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 28,
+  "correct_option": "C",
+  "options": {
+    "A": "John Singh.",
+    "B": "Mary Bovell.",
+    "C": "Susan Gomes.",
+    "D": "Kenneth Moore."
+  },
+  "question_diagram": "",
+  "question_text": "Shania James has just joined the line. Shania should stand behind",
+  "context": {
+    "type": "scenario",
+    "content": "The following five children were told to stand in alphabetical order by their \nsurnames. \n\nJohn Singh, Susan Gomes, Kenneth Moore, Mary Bovell, Kevin Maniram "
+  },
+  "instruction": "Study the scenario below and then answer Questions 27 and 28."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001d"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 29,
+  "correct_option": "D",
+  "options": {
+    "A": "petal",
+    "B": "phonics",
+    "C": "penguin",
+    "D": "pharmacy"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following entry words would be found on this dictionary page?",
+  "context": {
+    "type": "dictionary",
+    "content": "PETROL — PHONE "
+  },
+  "instruction": "The words below are guide words on a dictionary page. Study them and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001e"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 30,
+  "correct_option": "D",
+  "options": {
+    "A": "picnic",
+    "B": "pencil",
+    "C": "please",
+    "D": "pheasant"
+  },
+  "question_diagram": "",
+  "question_text": "Choose the entry word that would most likely be found on the next dictionary page.",
+  "context": {
+    "type": "dictionary",
+    "content": "PETROL — PHONE "
+  },
+  "instruction": "The words below are guide words on a dictionary page. Study them and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d005000000000000001f"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 31,
+  "correct_option": "A",
+  "options": {
+    "A": "at the shop.",
+    "B": "in the kitchen.",
+    "C": "sitting on the corner.",
+    "D": "at the head of the street."
+  },
+  "question_diagram": "",
+  "question_text": "When Omari discovered that the money was missing, he was",
+  "context": {
+    "type": "passage",
+    "content": "Omari searched both of his pockets. \nHe was looking for the five thousand \ndollars that his mother gave him to take to the shop. It was nowhere to be found. \nHe searched around the floor of the shop but it was not there. He retraced his \nsteps to the head of the street but there was no sign of the note. He wondered \nif \nHe \nit \nwas down the street where he lived but he dared not check there. \nstarted \nto \nwring \nhis \nhands as his mother's words echoed in his sars. \n“This is all that we have; hold it carefully.” \nwould he tell his mother? \nHe \nHe \nscratched his head. \nYWhat \nthought of the thrashing that he weuid get. \n\nwas about to cry when he saw his mother coming down the road. She \nlooked angry. \nHe \nwiped his face and thought of a fib that he would tell her. \nHe could hear himself breathing heavily as she approached him. He ran to her \nand started to tell her of the man that had just snatched the money. Just then \nhe saw the five thousand dollars in his mother’s hands. His face turned a bright \nred and he lowered his head. After scolding him for his lie, his mother told him \nthat in his haste to return to his favourite cartoon he had dropped the money on \nthe floor of the kitchen. \nOmari was relieved but ashamed. He walked all the way home with his head \nbent. \n\nUnpublished "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000020"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 32,
+  "correct_option": "B",
+  "options": {
+    "A": "drew his footsteps on the road.",
+    "B": "waled the route that he took before.",
+    "C": "walked a different route from the first one.",
+    "D": "looked for his footsteps and walked in them."
+  },
+  "question_diagram": "",
+  "question_text": "The phrase \"retraced his steps\" in line 4 meand that Omari",
+  "context": {
+    "type": "passage",
+    "content": "Omari searched both of his pockets. \nHe was looking for the five thousand \ndollars that his mother gave him to take to the shop. It was nowhere to be found. \nHe searched around the floor of the shop but it was not there. He retraced his \nsteps to the head of the street but there was no sign of the note. He wondered \nif \nHe \nit \nwas down the street where he lived but he dared not check there. \nstarted \nto \nwring \nhis \nhands as his mother's words echoed in his sars. \n“This is all that we have; hold it carefully.” \nwould he tell his mother? \nHe \nHe \nscratched his head. \nYWhat \nthought of the thrashing that he weuid get. \n\nwas about to cry when he saw his mother coming down the road. She \nlooked angry. \nHe \nwiped his face and thought of a fib that he would tell her. \nHe could hear himself breathing heavily as she approached him. He ran to her \nand started to tell her of the man that had just snatched the money. Just then \nhe saw the five thousand dollars in his mother’s hands. His face turned a bright \nred and he lowered his head. After scolding him for his lie, his mother told him \nthat in his haste to return to his favourite cartoon he had dropped the money on \nthe floor of the kitchen. \nOmari was relieved but ashamed. He walked all the way home with his head \nbent. \n\nUnpublished "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000021"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 33,
+  "correct_option": "C",
+  "options": {
+    "A": "thought the money was not there.",
+    "B": "could see clearly through the street.",
+    "C": "was afraid his mother would see him.",
+    "D": "was scared of the children who lived there."
+  },
+  "question_diagram": "",
+  "question_text": "Omari was reluctant to go and search for the money in the street where he lived because he",
+  "context": {
+    "type": "passage",
+    "content": "Omari searched both of his pockets. \nHe was looking for the five thousand \ndollars that his mother gave him to take to the shop. It was nowhere to be found. \nHe searched around the floor of the shop but it was not there. He retraced his \nsteps to the head of the street but there was no sign of the note. He wondered \nif \nHe \nit \nwas down the street where he lived but he dared not check there. \nstarted \nto \nwring \nhis \nhands as his mother's words echoed in his sars. \n“This is all that we have; hold it carefully.” \nwould he tell his mother? \nHe \nHe \nscratched his head. \nYWhat \nthought of the thrashing that he weuid get. \n\nwas about to cry when he saw his mother coming down the road. She \nlooked angry. \nHe \nwiped his face and thought of a fib that he would tell her. \nHe could hear himself breathing heavily as she approached him. He ran to her \nand started to tell her of the man that had just snatched the money. Just then \nhe saw the five thousand dollars in his mother’s hands. His face turned a bright \nred and he lowered his head. After scolding him for his lie, his mother told him \nthat in his haste to return to his favourite cartoon he had dropped the money on \nthe floor of the kitchen. \nOmari was relieved but ashamed. He walked all the way home with his head \nbent. \n\nUnpublished "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000022"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 34,
+  "correct_option": "A",
+  "options": {
+    "A": "fib, lie",
+    "B": "money, check",
+    "C": "retraced, dared",
+    "D": "searched, scratched"
+  },
+  "question_diagram": "",
+  "question_text": "Which two words in the passage have the same meaning?",
+  "context": {
+    "type": "passage",
+    "content": "Omari searched both of his pockets. \nHe was looking for the five thousand \ndollars that his mother gave him to take to the shop. It was nowhere to be found. \nHe searched around the floor of the shop but it was not there. He retraced his \nsteps to the head of the street but there was no sign of the note. He wondered \nif \nHe \nit \nwas down the street where he lived but he dared not check there. \nstarted \nto \nwring \nhis \nhands as his mother's words echoed in his sars. \n“This is all that we have; hold it carefully.” \nwould he tell his mother? \nHe \nHe \nscratched his head. \nYWhat \nthought of the thrashing that he weuid get. \n\nwas about to cry when he saw his mother coming down the road. She \nlooked angry. \nHe \nwiped his face and thought of a fib that he would tell her. \nHe could hear himself breathing heavily as she approached him. He ran to her \nand started to tell her of the man that had just snatched the money. Just then \nhe saw the five thousand dollars in his mother’s hands. His face turned a bright \nred and he lowered his head. After scolding him for his lie, his mother told him \nthat in his haste to return to his favourite cartoon he had dropped the money on \nthe floor of the kitchen. \nOmari was relieved but ashamed. He walked all the way home with his head \nbent. \n\nUnpublished "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000023"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 35,
+  "correct_option": "D",
+  "options": {
+    "A": "She looked angry.",
+    "B": "It was nowhere to be found.",
+    "C": "He retraced his steps to the head of his street.",
+    "D": "He could hear himself breathing heavily as she approached him."
+  },
+  "question_diagram": "",
+  "question_text": "In which of the following sentences does the reader learn that Omari was scared?",
+  "context": {
+    "type": "passage",
+    "content": "Omari searched both of his pockets. \nHe was looking for the five thousand \ndollars that his mother gave him to take to the shop. It was nowhere to be found. \nHe searched around the floor of the shop but it was not there. He retraced his \nsteps to the head of the street but there was no sign of the note. He wondered \nif \nHe \nit \nwas down the street where he lived but he dared not check there. \nstarted \nto \nwring \nhis \nhands as his mother's words echoed in his sars. \n“This is all that we have; hold it carefully.” \nwould he tell his mother? \nHe \nHe \nscratched his head. \nYWhat \nthought of the thrashing that he weuid get. \n\nwas about to cry when he saw his mother coming down the road. She \nlooked angry. \nHe \nwiped his face and thought of a fib that he would tell her. \nHe could hear himself breathing heavily as she approached him. He ran to her \nand started to tell her of the man that had just snatched the money. Just then \nhe saw the five thousand dollars in his mother’s hands. His face turned a bright \nred and he lowered his head. After scolding him for his lie, his mother told him \nthat in his haste to return to his favourite cartoon he had dropped the money on \nthe floor of the kitchen. \nOmari was relieved but ashamed. He walked all the way home with his head \nbent. \n\nUnpublished "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000024"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 36,
+  "correct_option": "D",
+  "options": {
+    "A": "Risky",
+    "B": "Unsafe",
+    "C": "Harmful",
+    "D": "Insecure"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following words could best replace the word \"dangerous\" as used in line 1 of the passage?",
+  "context": {
+    "type": "passage",
+    "content": "Snakes are some of the most dangerous animals in a tropical rainforest. Many \nsnakes are poisonous. They catch frogs, beetles and other small animals on \nthe rainforest floor and kill them with their poisonous fangs. Other snakes slide \nbetween the branches or wrap themselves around a tree, waiting for their prey. \nSome snakes squeeze their prey to death which means that the squeeze is \nsometimes as deadly as the bite. An anaconda can squeeze a caiman to death \nand then swallow it whole. It may take several days to digest the animal. While \nit \n\nis \ndoing this, the snake can hardly move. The female anaconda is one of \nthe world’s longest snakes and weighs as much as a horse. ‘This snake is not \npoisonous. The yellow anaconda, like all snakes; can swim. lts eyes and nose \nare on top of its head so it can see when it hides just under the water. \nSnakes are often hard to see. The bright green skin of some snakes blends in \nwith the plants and trees. Normally snakes wrap around a branch and reach \ndown to catch a chick from the bird’s nest. \n\nIt \nwould be wise to choose a different pathway if you are to ever clash with a \nshake. \n\nAdapted from James Harrison, The Rainforest, \nMacmillan Publishers, 2012, p. 30. "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000025"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 37,
+  "correct_option": "D",
+  "options": {
+    "A": "Skin",
+    "B": "Tongue",
+    "C": "The pair of eyes",
+    "D": "The pair of fangs"
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following is the poisonous part of snakes?",
+  "context": {
+    "type": "passage",
+    "content": "Snakes are some of the most dangerous animals in a tropical rainforest. Many \nsnakes are poisonous. They catch frogs, beetles and other small animals on \nthe rainforest floor and kill them with their poisonous fangs. Other snakes slide \nbetween the branches or wrap themselves around a tree, waiting for their prey. \nSome snakes squeeze their prey to death which means that the squeeze is \nsometimes as deadly as the bite. An anaconda can squeeze a caiman to death \nand then swallow it whole. It may take several days to digest the animal. While \nit \n\nis \ndoing this, the snake can hardly move. The female anaconda is one of \nthe world’s longest snakes and weighs as much as a horse. ‘This snake is not \npoisonous. The yellow anaconda, like all snakes; can swim. lts eyes and nose \nare on top of its head so it can see when it hides just under the water. \nSnakes are often hard to see. The bright green skin of some snakes blends in \nwith the plants and trees. Normally snakes wrap around a branch and reach \ndown to catch a chick from the bird’s nest. \n\nIt \nwould be wise to choose a different pathway if you are to ever clash with a \nshake. \n\nAdapted from James Harrison, The Rainforest, \nMacmillan Publishers, 2012, p. 30. "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000026"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 38,
+  "correct_option": "C",
+  "options": {
+    "A": "veil.",
+    "B": "cloak.",
+    "C": "disguise.",
+    "D": "distraction."
+  },
+  "question_diagram": "",
+  "question_text": "The bright green skin of some snakes blends in with the color of its environment. This serves as a",
+  "context": {
+    "type": "passage",
+    "content": "Snakes are some of the most dangerous animals in a tropical rainforest. Many \nsnakes are poisonous. They catch frogs, beetles and other small animals on \nthe rainforest floor and kill them with their poisonous fangs. Other snakes slide \nbetween the branches or wrap themselves around a tree, waiting for their prey. \nSome snakes squeeze their prey to death which means that the squeeze is \nsometimes as deadly as the bite. An anaconda can squeeze a caiman to death \nand then swallow it whole. It may take several days to digest the animal. While \nit \n\nis \ndoing this, the snake can hardly move. The female anaconda is one of \nthe world’s longest snakes and weighs as much as a horse. ‘This snake is not \npoisonous. The yellow anaconda, like all snakes; can swim. lts eyes and nose \nare on top of its head so it can see when it hides just under the water. \nSnakes are often hard to see. The bright green skin of some snakes blends in \nwith the plants and trees. Normally snakes wrap around a branch and reach \ndown to catch a chick from the bird’s nest. \n\nIt \nwould be wise to choose a different pathway if you are to ever clash with a \nshake. \n\nAdapted from James Harrison, The Rainforest, \nMacmillan Publishers, 2012, p. 30. "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000027"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 39,
+  "correct_option": "A",
+  "options": {
+    "A": "a simile.",
+    "B": "a metaphor.",
+    "C": "an adjective.",
+    "D": "an interjection."
+  },
+  "question_diagram": "",
+  "question_text": "The expression \"the squeeze is something as deadly as the bite\" (line 5-6) is an example of",
+  "context": {
+    "type": "passage",
+    "content": "Snakes are some of the most dangerous animals in a tropical rainforest. Many \nsnakes are poisonous. They catch frogs, beetles and other small animals on \nthe rainforest floor and kill them with their poisonous fangs. Other snakes slide \nbetween the branches or wrap themselves around a tree, waiting for their prey. \nSome snakes squeeze their prey to death which means that the squeeze is \nsometimes as deadly as the bite. An anaconda can squeeze a caiman to death \nand then swallow it whole. It may take several days to digest the animal. While \nit \n\nis \ndoing this, the snake can hardly move. The female anaconda is one of \nthe world’s longest snakes and weighs as much as a horse. ‘This snake is not \npoisonous. The yellow anaconda, like all snakes; can swim. lts eyes and nose \nare on top of its head so it can see when it hides just under the water. \nSnakes are often hard to see. The bright green skin of some snakes blends in \nwith the plants and trees. Normally snakes wrap around a branch and reach \ndown to catch a chick from the bird’s nest. \n\nIt \nwould be wise to choose a different pathway if you are to ever clash with a \nshake. \n\nAdapted from James Harrison, The Rainforest, \nMacmillan Publishers, 2012, p. 30. "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+},
+{
+  "_id": {
+    "$oid": "66d0d0050000000000000028"
+  },
+  "test_id": {
+    "$oid": "66d0d0000000000000000065"
+  },
+  "number": 40,
+  "correct_option": "C",
+  "options": {
+    "A": "Life of an anaconda",
+    "B": "Snakes coming awake",
+    "C": "Snakes and their methods of hunting",
+    "D": "Snakes and the caimans at work in the wet."
+  },
+  "question_diagram": "",
+  "question_text": "Which of the following best captures the main topic of the passage?",
+  "context": {
+    "type": "passage",
+    "content": "Snakes are some of the most dangerous animals in a tropical rainforest. Many \nsnakes are poisonous. They catch frogs, beetles and other small animals on \nthe rainforest floor and kill them with their poisonous fangs. Other snakes slide \nbetween the branches or wrap themselves around a tree, waiting for their prey. \nSome snakes squeeze their prey to death which means that the squeeze is \nsometimes as deadly as the bite. An anaconda can squeeze a caiman to death \nand then swallow it whole. It may take several days to digest the animal. While \nit \n\nis \ndoing this, the snake can hardly move. The female anaconda is one of \nthe world’s longest snakes and weighs as much as a horse. ‘This snake is not \npoisonous. The yellow anaconda, like all snakes; can swim. lts eyes and nose \nare on top of its head so it can see when it hides just under the water. \nSnakes are often hard to see. The bright green skin of some snakes blends in \nwith the plants and trees. Normally snakes wrap around a branch and reach \ndown to catch a chick from the bird’s nest. \n\nIt \nwould be wise to choose a different pathway if you are to ever clash with a \nshake. \n\nAdapted from James Harrison, The Rainforest, \nMacmillan Publishers, 2012, p. 30. "
+  },
+  "instruction": "Read the passage below carefully and then answer the questions that follow."
+}]
