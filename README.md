@@ -13,6 +13,15 @@ I wanted this data for a personal project, but couldn’t find it on the Ministr
 ngsa-dataset/
 ├── README.md
 ├── LICENSE
+├── papers
+|   ├── english-papers/
+|   |   ├── National Grade 6 Assessment - 2010 - English P1
+|   |   ├── National Grade 6 Assessment - 2011 - English P1
+|   |   └── ...
+|   └── math-papers/
+|       ├── National Grade 6 Assessment - 2010 - Mathematics P1
+|       ├── National Grade 6 Assessment - 2011 - Mathematics P1
+|       └── ...
 └── data/
     ├── english/
     │   ├── ngsa-english-dataset-qa-2021.json
